@@ -1,1 +1,3001 @@
-
+user_id,signup_date,acquisition_channel,plan,onboarding_completed,signup_month,churn_date,is_active
+1,13-04-2025,Organic Search,Basic,0,2025-04,01-06-2025,0
+2,28-09-2025,App Store,Basic,0,2025-09,,1
+3,17-04-2025,App Store,Premium,1,2025-04,,1
+4,13-03-2025,Paid Social,Standard,1,2025-03,09-05-2025,0
+5,08-07-2025,Paid Social,Standard,0,2025-07,27-08-2025,0
+6,21-01-2025,Paid Social,Basic,0,2025-01,22-02-2025,0
+7,13-04-2025,Referral,Premium,1,2025-04,09-09-2025,0
+8,02-05-2025,Organic Search,Basic,1,2025-05,20-05-2025,0
+9,03-08-2025,Organic Search,Standard,1,2025-08,,1
+10,29-03-2025,Organic Search,Basic,1,2025-03,,1
+11,10-04-2025,Paid Social,Standard,1,2025-04,01-05-2025,0
+12,01-06-2025,Organic Search,Basic,1,2025-06,14-07-2025,0
+13,11-05-2025,Referral,Basic,1,2025-05,,1
+14,30-05-2025,App Store,Basic,1,2025-05,,1
+15,15-09-2025,Paid Social,Basic,0,2025-09,,1
+16,11-07-2025,Referral,Standard,0,2025-07,20-09-2025,0
+17,10-06-2025,Paid Social,Premium,1,2025-06,,1
+18,22-01-2025,Email Campaign,Premium,1,2025-01,24-01-2025,0
+19,10-09-2025,App Store,Basic,1,2025-09,,1
+20,24-08-2025,App Store,Standard,1,2025-08,26-09-2025,0
+21,18-02-2025,App Store,Standard,0,2025-02,12-10-2025,0
+22,28-02-2025,Organic Search,Basic,1,2025-02,24-03-2025,0
+23,19-06-2025,Email Campaign,Basic,0,2025-06,18-09-2025,0
+24,07-07-2025,Email Campaign,Standard,1,2025-07,,1
+25,28-09-2025,Organic Search,Premium,1,2025-09,,1
+26,,App Store,Standard,1,2025-07,,1
+27,24-06-2025,Organic Search,Basic,1,2025-06,09-07-2025,0
+28,20-02-2025,Referral,Standard,1,2025-02,,1
+29,24-02-2025,Organic Search,Basic,0,2025-02,04-06-2025,0
+30,01-09-2025,Paid Social,Standard,0,2025-09,,1
+31,11-05-2025,Email Campaign,Standard,0,2025-05,14-09-2025,0
+32,15-05-2025,Referral,Basic,0,2025-05,,1
+33,21-01-2025,Paid Social,Premium,0,2025-01,12-10-2025,0
+34,16-06-2025,Paid Social,Basic,1,2025-06,,1
+35,30-03-2025,Email Campaign,Premium,1,2025-03,,1
+36,14-01-2025,Organic Search,Basic,0,2025-01,16-04-2025,0
+37,30-08-2025,Paid Social,Basic,0,2025-08,,1
+38,22-09-2025,App Store,Basic,0,2025-09,,1
+39,22-02-2025,Email Campaign,Basic,1,2025-02,03-03-2025,0
+40,02-04-2025,Paid Social,Basic,1,2025-04,28-06-2025,0
+41,21-09-2025,Email Campaign,Standard,0,2025-09,,1
+42,04-02-2025,Email Campaign,Standard,1,2025-02,,1
+43,25-07-2025,App Store,Standard,1,2025-07,,1
+44,22-03-2025,Paid Social,Basic,0,2025-03,27-10-2025,0
+45,19-02-2025,Organic Search,Standard,0,2025-02,27-04-2025,0
+46,02-01-2025,Organic Search,Basic,1,2025-01,26-04-2025,0
+47,23-02-2025,Organic Search,Standard,0,2025-02,08-05-2025,0
+48,16-04-2025,Referral,Basic,0,2025-04,21-04-2025,0
+49,17-09-2025,Organic Search,Premium,0,2025-09,06-10-2025,0
+50,10-07-2025,Referral,Standard,0,2025-07,,1
+51,06-08-2025,Paid Social,Standard,1,2025-08,28-09-2025,0
+52,13-02-2025,Organic Search,Basic,1,2025-02,,1
+53,11-06-2025,App Store,Basic,1,2025-06,14-08-2025,0
+54,21-07-2025,Paid Social,Basic,1,2025-07,08-09-2025,0
+55,27-09-2025,Organic Search,Premium,1,2025-09,,1
+56,28-09-2025,Email Campaign,Premium,1,2025-09,30-10-2025,0
+57,03-08-2025,Organic Search,Basic,1,2025-08,04-09-2025,0
+58,09-09-2025,Email Campaign,Standard,1,2025-09,,1
+59,09-07-2025,Email Campaign,Standard,1,2025-07,,1
+60,01-08-2025,Paid Social,Standard,0,2025-08,11-10-2025,0
+61,27-07-2025,Email Campaign,Basic,1,2025-07,07-09-2025,0
+62,25-08-2025,Paid Social,Basic,1,2025-08,,1
+63,22-02-2025,Paid Social,Basic,1,2025-02,,1
+64,05-08-2025,Organic Search,Standard,1,2025-08,,1
+65,09-09-2025,Organic Search,Basic,0,2025-09,,1
+66,07-07-2025,App Store,Basic,1,2025-07,17-08-2025,0
+67,10-02-2025,Paid Social,Premium,1,2025-02,25-02-2025,0
+68,06-06-2025,Paid Social,Standard,1,2025-06,05-10-2025,0
+69,15-01-2025,Paid Social,Premium,1,2025-01,,1
+70,06-03-2025,Referral,Basic,1,2025-03,,1
+71,09-01-2025,Organic Search,Basic,1,2025-01,21-02-2025,0
+72,09-05-2025,Paid Social,Premium,1,2025-05,14-05-2025,0
+73,16-05-2025,Email Campaign,Basic,0,2025-05,18-06-2025,0
+74,04-03-2025,Organic Search,Basic,0,2025-03,27-06-2025,0
+75,19-05-2025,Organic Search,Basic,1,2025-05,13-08-2025,0
+76,22-03-2025,Organic Search,Basic,1,2025-03,03-04-2025,0
+77,12-06-2025,Paid Social,Basic,1,2025-06,,1
+78,18-09-2025,App Store,Premium,1,2025-09,,1
+79,19-08-2025,Organic Search,Premium,1,2025-08,,1
+80,10-02-2025,Organic Search,Premium,0,2025-02,04-07-2025,0
+81,28-01-2025,Paid Social,Basic,1,2025-01,11-03-2025,0
+82,15-05-2025,Email Campaign,Basic,0,2025-05,24-09-2025,0
+83,20-07-2025,Referral,Basic,1,2025-07,17-08-2025,0
+84,25-09-2025,Paid Social,Premium,0,2025-09,,1
+85,02-02-2025,Email Campaign,Basic,1,2025-02,04-05-2025,0
+86,17-02-2025,Referral,Standard,0,2025-02,24-02-2025,0
+87,03-03-2025,App Store,Standard,1,2025-03,01-06-2025,0
+88,04-08-2025,Email Campaign,Basic,0,2025-08,28-09-2025,0
+89,09-04-2025,Organic Search,Basic,0,2025-04,03-06-2025,0
+90,21-06-2025,Organic Search,Premium,0,2025-06,18-10-2025,0
+91,02-08-2025,Organic Search,Premium,1,2025-08,,1
+92,04-02-2025,Paid Social,Basic,0,2025-02,21-06-2025,0
+93,15-08-2025,App Store,Basic,1,2025-08,12-09-2025,0
+94,11-04-2025,Paid Social,Premium,1,2025-04,06-07-2025,0
+95,11-05-2025,Organic Search,Basic,0,2025-05,25-05-2025,0
+96,14-09-2025,Email Campaign,Basic,1,2025-09,,1
+97,05-01-2025,Paid Social,Basic,1,2025-01,03-06-2025,0
+98,06-08-2025,Organic Search,Standard,1,2025-08,10-08-2025,0
+99,12-09-2025,Paid Social,Basic,0,2025-09,,1
+100,26-07-2025,Paid Social,Basic,1,2025-07,,1
+101,15-01-2025,Email Campaign,Basic,1,2025-01,11-02-2025,0
+102,11-02-2025,Organic Search,Standard,1,2025-02,16-02-2025,0
+103,28-06-2025,Organic Search,Premium,0,2025-06,20-08-2025,0
+104,04-03-2025,Paid Social,Standard,1,2025-03,08-04-2025,0
+105,19-08-2025,Organic Search,Standard,0,2025-08,,1
+106,29-08-2025,Referral,Standard,1,2025-08,,1
+107,21-02-2025,Paid Social,Basic,0,2025-02,31-03-2025,0
+108,06-04-2025,Paid Social,Basic,0,2025-04,07-04-2025,0
+109,10-08-2025,App Store,Premium,1,2025-08,06-10-2025,0
+110,19-08-2025,Referral,Basic,1,2025-08,,1
+111,25-08-2025,Organic Search,Basic,0,2025-08,,1
+112,23-05-2025,Referral,Standard,1,2025-05,29-08-2025,0
+113,20-06-2025,Email Campaign,Basic,1,2025-06,,1
+114,29-01-2025,Email Campaign,Basic,0,2025-01,19-08-2025,0
+115,05-02-2025,Organic Search,Premium,0,2025-02,21-02-2025,0
+116,13-01-2025,App Store,Premium,1,2025-01,11-10-2025,0
+117,09-06-2025,Paid Social,Basic,1,2025-06,,1
+118,06-07-2025,Organic Search,Premium,1,2025-07,,1
+119,31-08-2025,Organic Search,Standard,1,2025-08,14-09-2025,0
+120,27-03-2025,Organic Search,Standard,0,2025-03,17-08-2025,0
+121,07-03-2025,Email Campaign,Basic,0,2025-03,,1
+122,19-06-2025,Organic Search,Basic,0,2025-06,15-10-2025,0
+123,14-02-2025,Organic Search,Standard,1,2025-02,29-09-2025,0
+124,03-03-2025,App Store,Premium,1,2025-03,25-07-2025,0
+125,14-05-2025,Paid Social,Standard,1,2025-05,01-07-2025,0
+126,28-01-2025,Organic Search,Basic,1,2025-01,24-05-2025,0
+127,18-04-2025,Organic Search,Basic,0,2025-04,25-04-2025,0
+128,13-02-2025,Organic Search,Standard,1,2025-02,25-08-2025,0
+129,08-05-2025,Organic Search,Basic,0,2025-05,,1
+130,19-08-2025,Referral,Standard,0,2025-08,,1
+131,09-07-2025,Organic Search,Basic,0,2025-07,19-09-2025,0
+132,13-08-2025,Organic Search,Basic,0,2025-08,,1
+133,01-05-2025,Email Campaign,Standard,0,2025-05,09-08-2025,0
+134,26-04-2025,Referral,Standard,1,2025-04,,1
+135,21-08-2025,Paid Social,Basic,1,2025-08,22-08-2025,0
+136,16-09-2025,Paid Social,Basic,1,2025-09,,1
+137,17-07-2025,Paid Social,Standard,1,2025-07,,1
+138,17-05-2025,Paid Social,Basic,0,2025-05,28-06-2025,0
+139,14-06-2025,Paid Social,Standard,1,2025-06,28-07-2025,0
+140,13-08-2025,Paid Social,Premium,1,2025-08,,1
+141,22-08-2025,App Store,Basic,1,2025-08,,1
+142,21-06-2025,Organic Search,Premium,1,2025-06,23-09-2025,0
+143,01-06-2025,Email Campaign,Basic,0,2025-06,,1
+144,09-06-2025,Organic Search,Standard,0,2025-06,26-10-2025,0
+145,06-04-2025,Email Campaign,Basic,0,2025-04,24-04-2025,0
+146,21-08-2025,Referral,Premium,1,2025-08,,1
+147,29-06-2025,Email Campaign,Basic,1,2025-06,10-07-2025,0
+148,23-04-2025,Organic Search,Basic,0,2025-04,27-07-2025,0
+149,21-02-2025,Referral,Premium,0,2025-02,,1
+150,25-09-2025,Paid Social,Standard,1,2025-09,,1
+151,23-04-2025,Email Campaign,Standard,1,2025-04,05-08-2025,0
+152,11-04-2025,Paid Social,Basic,1,2025-04,23-07-2025,0
+153,23-04-2025,Paid Social,Standard,0,2025-04,11-09-2025,0
+154,22-03-2025,Paid Social,Basic,0,2025-03,29-04-2025,0
+155,06-07-2025,Paid Social,Basic,0,2025-07,21-07-2025,0
+156,23-04-2025,Paid Social,Standard,1,2025-04,05-05-2025,0
+157,02-01-2025,Organic Search,Basic,1,2025-01,11-03-2025,0
+158,10-05-2025,App Store,Premium,0,2025-05,16-05-2025,0
+159,08-08-2025,Email Campaign,Premium,0,2025-08,19-08-2025,0
+160,23-02-2025,App Store,Standard,1,2025-02,,1
+161,12-08-2025,Organic Search,Standard,0,2025-08,,1
+162,13-08-2025,App Store,Standard,1,2025-08,,1
+163,06-05-2025,Email Campaign,Basic,0,2025-05,27-06-2025,0
+164,10-05-2025,Referral,Standard,0,2025-05,,1
+165,22-02-2025,Referral,Basic,1,2025-02,17-10-2025,0
+166,21-06-2025,Paid Social,Basic,1,2025-06,26-08-2025,0
+167,06-08-2025,Email Campaign,Standard,1,2025-08,11-09-2025,0
+168,09-06-2025,Paid Social,Standard,1,2025-06,,1
+169,17-07-2025,Organic Search,Premium,1,2025-07,,1
+170,04-09-2025,Paid Social,Basic,0,2025-09,,1
+171,22-07-2025,App Store,Standard,0,2025-07,02-10-2025,0
+172,03-07-2025,App Store,Basic,1,2025-07,16-10-2025,0
+173,03-05-2025,App Store,Standard,1,2025-05,,1
+174,12-09-2025,Referral,Standard,1,2025-09,,1
+175,08-04-2025,Organic Search,Standard,1,2025-04,29-05-2025,0
+176,17-07-2025,Organic Search,Basic,1,2025-07,,1
+177,28-08-2025,Organic Search,Basic,0,2025-08,,1
+178,24-05-2025,Organic Search,Basic,0,2025-05,15-06-2025,0
+179,07-04-2025,Paid Social,Standard,1,2025-04,10-04-2025,0
+180,20-07-2025,Organic Search,Premium,0,2025-07,,1
+181,04-05-2025,Paid Social,Basic,0,2025-05,20-06-2025,0
+182,06-07-2025,App Store,Standard,1,2025-07,,1
+183,16-09-2025,Paid Social,Premium,0,2025-09,19-10-2025,0
+184,28-05-2025,App Store,Standard,1,2025-05,,1
+185,09-09-2025,Referral,Standard,1,2025-09,,1
+186,27-05-2025,Organic Search,Standard,1,2025-05,20-07-2025,0
+187,28-05-2025,Paid Social,Basic,0,2025-05,22-08-2025,0
+188,18-07-2025,Organic Search,Basic,0,2025-07,19-07-2025,0
+189,08-05-2025,Paid Social,Basic,1,2025-05,,1
+190,08-02-2025,Referral,Premium,1,2025-02,27-10-2025,0
+191,09-05-2025,Organic Search,Premium,1,2025-05,,1
+192,24-09-2025,Organic Search,Standard,0,2025-09,27-10-2025,0
+193,31-05-2025,Paid Social,Basic,1,2025-05,,1
+194,09-04-2025,App Store,Basic,0,2025-04,13-06-2025,0
+195,20-09-2025,Email Campaign,Basic,1,2025-09,,1
+196,09-09-2025,Email Campaign,Basic,1,2025-09,,1
+197,24-05-2025,Organic Search,Standard,1,2025-05,29-09-2025,0
+198,22-04-2025,Email Campaign,Premium,1,2025-04,,1
+199,01-03-2025,Email Campaign,Premium,1,2025-03,12-03-2025,0
+200,02-01-2025,Referral,Standard,1,2025-01,13-03-2025,0
+201,11-09-2025,App Store,Basic,1,2025-09,,1
+202,20-05-2025,Paid Social,Basic,1,2025-05,,1
+203,06-02-2025,App Store,Basic,1,2025-02,,1
+204,09-06-2025,App Store,Standard,1,2025-06,,1
+205,09-01-2025,Organic Search,Standard,0,2025-01,18-01-2025,0
+206,21-08-2025,Paid Social,Basic,0,2025-08,04-09-2025,0
+207,09-04-2025,App Store,Basic,0,2025-04,,1
+208,27-05-2025,Organic Search,Basic,1,2025-05,,1
+209,27-07-2025,Paid Social,Basic,1,2025-07,14-08-2025,0
+210,11-05-2025,App Store,Basic,1,2025-05,20-08-2025,0
+211,01-06-2025,Referral,Basic,1,2025-06,,1
+212,23-02-2025,Organic Search,Basic,0,2025-02,,1
+213,30-04-2025,Referral,Premium,1,2025-04,,1
+214,10-06-2025,Organic Search,Standard,1,2025-06,,1
+215,26-04-2025,Paid Social,Basic,1,2025-04,26-06-2025,0
+216,16-03-2025,Organic Search,Basic,0,2025-03,15-07-2025,0
+217,23-04-2025,Referral,Basic,0,2025-04,26-05-2025,0
+218,14-04-2025,Paid Social,Basic,1,2025-04,09-05-2025,0
+219,11-09-2025,Email Campaign,Basic,1,2025-09,01-10-2025,0
+220,15-08-2025,Referral,Standard,0,2025-08,13-09-2025,0
+221,22-04-2025,Paid Social,Standard,0,2025-04,23-04-2025,0
+222,09-04-2025,Referral,Standard,1,2025-04,,1
+223,02-06-2025,Organic Search,Basic,1,2025-06,27-08-2025,0
+224,13-07-2025,Referral,Standard,0,2025-07,25-07-2025,0
+225,12-06-2025,Organic Search,Basic,0,2025-06,01-08-2025,0
+226,27-07-2025,App Store,Basic,1,2025-07,,1
+227,18-06-2025,Organic Search,Standard,1,2025-06,,1
+228,10-06-2025,Paid Social,Standard,0,2025-06,24-07-2025,0
+229,09-03-2025,Referral,Premium,0,2025-03,,1
+230,15-05-2025,Paid Social,Standard,0,2025-05,20-07-2025,0
+231,14-07-2025,Organic Search,Premium,0,2025-07,20-07-2025,0
+232,08-05-2025,Referral,Premium,1,2025-05,,1
+233,02-02-2025,Referral,Standard,0,2025-02,09-05-2025,0
+234,25-06-2025,Email Campaign,Standard,1,2025-06,,1
+235,22-01-2025,Paid Social,Standard,0,2025-01,25-01-2025,0
+236,26-08-2025,Referral,Premium,1,2025-08,22-10-2025,0
+237,07-06-2025,Paid Social,Standard,0,2025-06,,1
+238,07-02-2025,Referral,Basic,1,2025-02,25-02-2025,0
+239,18-08-2025,Referral,Standard,1,2025-08,,1
+240,20-02-2025,Paid Social,Basic,1,2025-02,,1
+241,21-09-2025,Organic Search,Basic,0,2025-09,24-09-2025,0
+242,27-01-2025,Organic Search,Basic,0,2025-01,28-01-2025,0
+243,14-08-2025,Organic Search,Standard,0,2025-08,02-09-2025,0
+244,07-04-2025,Organic Search,Premium,1,2025-04,17-06-2025,0
+245,27-05-2025,Paid Social,Basic,1,2025-05,04-09-2025,0
+246,04-01-2025,Referral,Basic,0,2025-01,27-01-2025,0
+247,04-02-2025,Organic Search,Basic,0,2025-02,18-02-2025,0
+248,11-07-2025,App Store,Standard,0,2025-07,07-08-2025,0
+249,18-02-2025,Organic Search,Basic,0,2025-02,02-05-2025,0
+250,17-01-2025,Email Campaign,Basic,0,2025-01,21-02-2025,0
+251,21-06-2025,Referral,Basic,1,2025-06,,1
+252,08-08-2025,Paid Social,Basic,0,2025-08,14-09-2025,0
+253,07-06-2025,Organic Search,Basic,0,2025-06,,1
+254,15-02-2025,Referral,Standard,0,2025-02,10-08-2025,0
+255,06-01-2025,Paid Social,Basic,0,2025-01,22-01-2025,0
+256,09-04-2025,App Store,Standard,1,2025-04,23-09-2025,0
+257,21-08-2025,Paid Social,Basic,1,2025-08,10-09-2025,0
+258,06-02-2025,App Store,Basic,1,2025-02,21-03-2025,0
+259,30-06-2025,Organic Search,Basic,1,2025-06,31-07-2025,0
+260,05-04-2025,Email Campaign,Standard,1,2025-04,,1
+261,09-04-2025,Referral,Premium,0,2025-04,15-06-2025,0
+262,07-07-2025,Email Campaign,Premium,1,2025-07,,1
+263,26-04-2025,Organic Search,Standard,1,2025-04,,1
+264,10-07-2025,Referral,Basic,0,2025-07,14-07-2025,0
+265,10-09-2025,Paid Social,Standard,0,2025-09,27-09-2025,0
+266,10-06-2025,Email Campaign,Standard,1,2025-06,22-06-2025,0
+267,13-09-2025,Paid Social,Basic,0,2025-09,,1
+268,08-05-2025,App Store,Standard,1,2025-05,05-06-2025,0
+269,18-01-2025,Organic Search,Basic,1,2025-01,16-03-2025,0
+270,11-08-2025,Email Campaign,Basic,1,2025-08,,1
+271,23-02-2025,App Store,Basic,1,2025-02,24-04-2025,0
+272,27-02-2025,Email Campaign,Basic,1,2025-02,09-05-2025,0
+273,23-06-2025,Paid Social,Standard,0,2025-06,20-09-2025,0
+274,24-04-2025,Paid Social,Basic,0,2025-04,01-09-2025,0
+275,31-05-2025,App Store,Basic,1,2025-05,04-08-2025,0
+276,07-05-2025,Organic Search,Basic,1,2025-05,,1
+277,04-06-2025,Paid Social,Standard,1,2025-06,16-08-2025,0
+278,14-04-2025,Referral,Standard,0,2025-04,15-05-2025,0
+279,03-09-2025,Email Campaign,Basic,0,2025-09,,1
+280,25-06-2025,Organic Search,Basic,1,2025-06,,1
+281,08-02-2025,Referral,Basic,1,2025-02,27-04-2025,0
+282,19-06-2025,Email Campaign,Premium,0,2025-06,09-09-2025,0
+283,04-09-2025,Organic Search,Basic,1,2025-09,,1
+284,26-01-2025,App Store,Basic,1,2025-01,,1
+285,13-01-2025,Organic Search,Basic,0,2025-01,16-08-2025,0
+286,05-02-2025,Paid Social,Standard,1,2025-02,22-10-2025,0
+287,22-06-2025,Organic Search,Standard,1,2025-06,,1
+288,20-01-2025,Organic Search,Basic,1,2025-01,,1
+289,21-09-2025,App Store,Basic,1,2025-09,,1
+290,22-05-2025,Paid Social,Basic,0,2025-05,20-07-2025,0
+291,23-05-2025,Paid Social,Standard,0,2025-05,18-09-2025,0
+292,02-04-2025,Organic Search,Premium,0,2025-04,14-04-2025,0
+293,03-08-2025,Referral,Standard,0,2025-08,29-09-2025,0
+294,20-02-2025,Referral,Standard,1,2025-02,,1
+295,02-06-2025,Paid Social,Basic,0,2025-06,,1
+296,05-07-2025,Paid Social,Standard,0,2025-07,23-10-2025,0
+297,04-03-2025,App Store,Standard,1,2025-03,,1
+298,09-07-2025,Paid Social,Basic,1,2025-07,,1
+299,05-05-2025,Paid Social,Premium,0,2025-05,,1
+300,30-05-2025,Organic Search,Basic,0,2025-05,15-06-2025,0
+301,27-02-2025,Email Campaign,Basic,1,2025-02,20-03-2025,0
+302,29-06-2025,Paid Social,Standard,1,2025-06,03-10-2025,0
+303,19-06-2025,Paid Social,Standard,0,2025-06,29-06-2025,0
+304,28-09-2025,Organic Search,Standard,1,2025-09,13-10-2025,0
+305,23-02-2025,App Store,Basic,0,2025-02,,1
+306,11-04-2025,Organic Search,Standard,1,2025-04,,1
+307,21-09-2025,Email Campaign,Standard,0,2025-09,16-10-2025,0
+308,22-02-2025,Paid Social,Basic,1,2025-02,05-06-2025,0
+309,01-03-2025,Organic Search,Premium,1,2025-03,,1
+310,18-04-2025,Email Campaign,Standard,1,2025-04,19-04-2025,0
+311,05-01-2025,Paid Social,Basic,1,2025-01,,1
+312,13-04-2025,App Store,Standard,0,2025-04,23-08-2025,0
+313,15-07-2025,App Store,Basic,1,2025-07,,1
+314,19-09-2025,App Store,Basic,1,2025-09,,1
+315,16-02-2025,Organic Search,Basic,1,2025-02,10-05-2025,0
+316,24-05-2025,Email Campaign,Premium,0,2025-05,17-08-2025,0
+317,26-09-2025,Paid Social,Basic,0,2025-09,,1
+318,04-05-2025,App Store,Standard,1,2025-05,01-09-2025,0
+319,16-04-2025,Referral,Basic,0,2025-04,,1
+320,07-06-2025,Email Campaign,Standard,0,2025-06,,1
+321,27-05-2025,Paid Social,Standard,0,2025-05,17-06-2025,0
+322,25-05-2025,Paid Social,Standard,1,2025-05,29-10-2025,0
+323,30-04-2025,Organic Search,Basic,0,2025-04,12-05-2025,0
+324,02-04-2025,Email Campaign,Standard,1,2025-04,02-06-2025,0
+325,27-02-2025,Paid Social,Premium,1,2025-02,,1
+326,17-08-2025,Paid Social,Standard,1,2025-08,,1
+327,27-04-2025,Email Campaign,Basic,1,2025-04,17-05-2025,0
+328,07-05-2025,Referral,Premium,1,2025-05,,1
+329,09-05-2025,Organic Search,Basic,0,2025-05,,1
+330,27-02-2025,Referral,Standard,1,2025-02,,1
+331,02-05-2025,Paid Social,Premium,1,2025-05,,1
+332,01-01-2025,Paid Social,Basic,1,2025-01,,1
+333,27-08-2025,Organic Search,Basic,1,2025-08,,1
+334,06-04-2025,Organic Search,Basic,1,2025-04,29-05-2025,0
+335,06-05-2025,Organic Search,Standard,1,2025-05,,1
+336,28-04-2025,Email Campaign,Standard,1,2025-04,18-08-2025,0
+337,17-02-2025,Organic Search,Basic,1,2025-02,09-04-2025,0
+338,30-03-2025,Paid Social,Basic,1,2025-03,13-05-2025,0
+339,25-08-2025,App Store,Basic,1,2025-08,04-10-2025,0
+340,29-09-2025,Organic Search,Basic,0,2025-09,17-10-2025,0
+341,08-07-2025,Paid Social,Basic,0,2025-07,,1
+342,11-07-2025,Email Campaign,Premium,1,2025-07,,1
+343,10-03-2025,App Store,Basic,1,2025-03,20-03-2025,0
+344,04-09-2025,Email Campaign,Premium,1,2025-09,,1
+345,17-03-2025,Email Campaign,Standard,0,2025-03,12-04-2025,0
+346,03-06-2025,Email Campaign,Basic,1,2025-06,,1
+347,24-05-2025,Paid Social,Standard,1,2025-05,07-08-2025,0
+348,27-03-2025,Email Campaign,Standard,1,2025-03,31-05-2025,0
+349,04-07-2025,Organic Search,Basic,1,2025-07,,1
+350,08-08-2025,App Store,Basic,1,2025-08,,1
+351,10-03-2025,Paid Social,Basic,0,2025-03,06-07-2025,0
+352,16-02-2025,Referral,Basic,1,2025-02,16-10-2025,0
+353,04-04-2025,Organic Search,Basic,0,2025-04,30-04-2025,0
+354,26-08-2025,Email Campaign,Basic,1,2025-08,,1
+355,23-07-2025,Organic Search,Basic,1,2025-07,26-07-2025,0
+356,06-08-2025,App Store,Basic,0,2025-08,08-08-2025,0
+357,08-02-2025,Email Campaign,Basic,0,2025-02,26-08-2025,0
+358,10-04-2025,Organic Search,Basic,1,2025-04,03-09-2025,0
+359,11-09-2025,Email Campaign,Basic,1,2025-09,,1
+360,10-08-2025,Email Campaign,Premium,0,2025-08,,1
+361,23-01-2025,Referral,Basic,1,2025-01,,1
+362,07-09-2025,Paid Social,Standard,1,2025-09,21-10-2025,0
+363,10-01-2025,Organic Search,Basic,0,2025-01,30-04-2025,0
+364,03-09-2025,Organic Search,Premium,1,2025-09,,1
+365,10-04-2025,Paid Social,Basic,1,2025-04,22-04-2025,0
+366,29-06-2025,App Store,Premium,1,2025-06,,1
+367,11-08-2025,Organic Search,Standard,1,2025-08,,1
+368,07-09-2025,Email Campaign,Basic,0,2025-09,,1
+369,27-05-2025,Paid Social,Premium,1,2025-05,,1
+370,06-04-2025,Paid Social,Standard,0,2025-04,07-04-2025,0
+371,14-09-2025,Email Campaign,Basic,1,2025-09,,1
+372,04-01-2025,App Store,Standard,1,2025-01,20-06-2025,0
+373,16-01-2025,Paid Social,Premium,1,2025-01,31-07-2025,0
+374,04-09-2025,Paid Social,Basic,0,2025-09,07-10-2025,0
+375,15-09-2025,Paid Social,Basic,0,2025-09,,1
+376,09-06-2025,Organic Search,Standard,1,2025-06,04-10-2025,0
+377,01-06-2025,Organic Search,Standard,1,2025-06,,1
+378,27-06-2025,Paid Social,Premium,1,2025-06,06-08-2025,0
+379,12-06-2025,Paid Social,Standard,0,2025-06,20-06-2025,0
+380,02-02-2025,Email Campaign,Basic,1,2025-02,30-06-2025,0
+381,28-06-2025,Paid Social,Premium,0,2025-06,04-10-2025,0
+382,11-04-2025,Paid Social,Basic,1,2025-04,,1
+383,25-09-2025,Paid Social,Basic,1,2025-09,,1
+384,06-03-2025,Email Campaign,Standard,1,2025-03,,1
+385,17-06-2025,App Store,Standard,1,2025-06,,1
+386,12-02-2025,Paid Social,Basic,0,2025-02,15-03-2025,0
+387,13-02-2025,Email Campaign,Standard,0,2025-02,20-02-2025,0
+388,12-01-2025,Organic Search,Basic,1,2025-01,,1
+389,05-04-2025,Paid Social,Basic,1,2025-04,16-05-2025,0
+390,10-09-2025,Paid Social,Standard,1,2025-09,,1
+391,30-08-2025,Paid Social,Basic,0,2025-08,01-10-2025,0
+392,04-02-2025,Email Campaign,Basic,1,2025-02,08-02-2025,0
+393,03-08-2025,App Store,Basic,1,2025-08,,1
+394,31-03-2025,Organic Search,Premium,1,2025-03,26-10-2025,0
+395,21-09-2025,Referral,Basic,1,2025-09,,1
+396,03-04-2025,Referral,Basic,1,2025-04,28-05-2025,0
+397,31-03-2025,Organic Search,Standard,1,2025-03,,1
+398,25-04-2025,Organic Search,Basic,1,2025-04,14-05-2025,0
+399,15-04-2025,Paid Social,Basic,0,2025-04,26-04-2025,0
+400,15-07-2025,Organic Search,Standard,1,2025-07,31-08-2025,0
+401,24-04-2025,Organic Search,Basic,1,2025-04,26-08-2025,0
+402,16-03-2025,Organic Search,Premium,0,2025-03,06-08-2025,0
+403,05-08-2025,Paid Social,Basic,1,2025-08,,1
+404,06-09-2025,Email Campaign,Basic,0,2025-09,14-09-2025,0
+405,13-06-2025,Referral,Basic,1,2025-06,,1
+406,11-07-2025,App Store,Basic,1,2025-07,15-07-2025,0
+407,15-08-2025,Paid Social,Standard,1,2025-08,,1
+408,26-06-2025,Email Campaign,Basic,1,2025-06,09-10-2025,0
+409,09-04-2025,App Store,Basic,0,2025-04,19-10-2025,0
+410,05-02-2025,Referral,Standard,1,2025-02,15-06-2025,0
+411,06-04-2025,Paid Social,Standard,1,2025-04,,1
+412,01-06-2025,Email Campaign,Basic,1,2025-06,03-06-2025,0
+413,31-05-2025,Organic Search,Basic,1,2025-05,,1
+414,09-07-2025,Paid Social,Basic,1,2025-07,,1
+415,12-08-2025,Paid Social,Basic,1,2025-08,,1
+416,06-02-2025,Referral,Basic,1,2025-02,,1
+417,25-09-2025,Organic Search,Standard,0,2025-09,,1
+418,02-07-2025,App Store,Premium,1,2025-07,27-10-2025,0
+419,13-01-2025,Referral,Basic,0,2025-01,26-03-2025,0
+420,05-08-2025,Paid Social,Basic,0,2025-08,13-08-2025,0
+421,03-03-2025,App Store,Basic,1,2025-03,25-04-2025,0
+422,25-03-2025,Paid Social,Basic,0,2025-03,08-04-2025,0
+423,05-08-2025,App Store,Basic,0,2025-08,22-10-2025,0
+424,06-07-2025,Paid Social,Premium,1,2025-07,,1
+425,19-01-2025,Organic Search,Standard,0,2025-01,28-02-2025,0
+426,26-06-2025,Email Campaign,Premium,1,2025-06,13-09-2025,0
+427,10-04-2025,Referral,Premium,1,2025-04,21-07-2025,0
+428,21-08-2025,Email Campaign,Basic,0,2025-08,04-10-2025,0
+429,17-03-2025,App Store,Standard,1,2025-03,,1
+430,22-09-2025,Email Campaign,Basic,1,2025-09,04-10-2025,0
+431,25-07-2025,Referral,Basic,1,2025-07,,1
+432,11-08-2025,App Store,Premium,0,2025-08,,1
+433,21-02-2025,Referral,Basic,0,2025-02,10-03-2025,0
+434,24-05-2025,Paid Social,Premium,1,2025-05,18-08-2025,0
+435,10-03-2025,App Store,Basic,0,2025-03,09-04-2025,0
+436,09-04-2025,Organic Search,Premium,1,2025-04,,1
+437,25-01-2025,Email Campaign,Premium,1,2025-01,,1
+438,22-02-2025,App Store,Standard,0,2025-02,18-03-2025,0
+439,31-05-2025,Email Campaign,Standard,0,2025-05,22-06-2025,0
+440,24-05-2025,Referral,Basic,1,2025-05,,1
+441,26-02-2025,Email Campaign,Standard,1,2025-02,17-05-2025,0
+442,08-02-2025,Paid Social,Premium,0,2025-02,20-04-2025,0
+443,19-04-2025,App Store,Standard,0,2025-04,11-07-2025,0
+444,30-06-2025,Organic Search,Standard,0,2025-06,04-07-2025,0
+445,11-02-2025,Organic Search,Standard,1,2025-02,16-02-2025,0
+446,05-07-2025,Organic Search,Standard,0,2025-07,11-09-2025,0
+447,11-08-2025,Paid Social,Standard,0,2025-08,,1
+448,02-05-2025,Paid Social,Standard,1,2025-05,12-06-2025,0
+449,13-05-2025,Email Campaign,Standard,0,2025-05,19-08-2025,0
+450,12-06-2025,Paid Social,Basic,0,2025-06,13-07-2025,0
+451,03-08-2025,Paid Social,Basic,0,2025-08,,1
+452,09-08-2025,Organic Search,Basic,0,2025-08,,1
+453,23-08-2025,Paid Social,Basic,0,2025-08,29-10-2025,0
+454,26-05-2025,Referral,Basic,1,2025-05,04-10-2025,0
+455,27-08-2025,Organic Search,Standard,1,2025-08,,1
+456,17-03-2025,Organic Search,Basic,0,2025-03,24-05-2025,0
+457,09-01-2025,Organic Search,Basic,0,2025-01,10-08-2025,0
+458,15-03-2025,Organic Search,Standard,0,2025-03,19-03-2025,0
+459,10-09-2025,Paid Social,Premium,1,2025-09,17-10-2025,0
+460,18-08-2025,Organic Search,Standard,1,2025-08,,1
+461,07-01-2025,Email Campaign,Premium,1,2025-01,,1
+462,23-06-2025,Email Campaign,Standard,0,2025-06,09-07-2025,0
+463,21-05-2025,Paid Social,Basic,0,2025-05,24-06-2025,0
+464,17-06-2025,App Store,Standard,1,2025-06,19-06-2025,0
+465,19-06-2025,Paid Social,Standard,1,2025-06,11-09-2025,0
+466,02-05-2025,Paid Social,Basic,1,2025-05,22-09-2025,0
+467,13-07-2025,App Store,Basic,1,2025-07,,1
+468,05-01-2025,Organic Search,Standard,0,2025-01,30-01-2025,0
+469,29-01-2025,App Store,Basic,1,2025-01,15-02-2025,0
+470,14-06-2025,Organic Search,Standard,1,2025-06,21-08-2025,0
+471,16-05-2025,Paid Social,Basic,1,2025-05,,1
+472,25-05-2025,Organic Search,Standard,1,2025-05,25-06-2025,0
+473,05-08-2025,Email Campaign,Standard,0,2025-08,12-09-2025,0
+474,12-05-2025,Referral,Basic,1,2025-05,,1
+475,11-03-2025,Email Campaign,Basic,0,2025-03,26-03-2025,0
+476,09-09-2025,Paid Social,Standard,1,2025-09,,1
+477,01-07-2025,Paid Social,Standard,1,2025-07,,1
+478,16-06-2025,Organic Search,Premium,1,2025-06,25-07-2025,0
+479,01-04-2025,Paid Social,Basic,0,2025-04,06-09-2025,0
+480,21-07-2025,App Store,Standard,1,2025-07,25-09-2025,0
+481,19-01-2025,Paid Social,Basic,0,2025-01,24-01-2025,0
+482,08-02-2025,Email Campaign,Basic,1,2025-02,27-02-2025,0
+483,06-05-2025,Email Campaign,Basic,1,2025-05,25-08-2025,0
+484,22-06-2025,Paid Social,Standard,0,2025-06,16-08-2025,0
+485,21-05-2025,Referral,Basic,0,2025-05,14-07-2025,0
+486,30-08-2025,Organic Search,Basic,1,2025-08,,1
+487,08-08-2025,Organic Search,Standard,1,2025-08,26-08-2025,0
+488,06-05-2025,Organic Search,Standard,1,2025-05,,1
+489,27-02-2025,Referral,Basic,1,2025-02,29-06-2025,0
+490,28-05-2025,Paid Social,Basic,0,2025-05,21-07-2025,0
+491,01-01-2025,Paid Social,Basic,1,2025-01,,1
+492,09-07-2025,Paid Social,Basic,1,2025-07,,1
+493,10-07-2025,Paid Social,Standard,0,2025-07,28-09-2025,0
+494,27-04-2025,Referral,Basic,0,2025-04,,1
+495,14-05-2025,Email Campaign,Standard,1,2025-05,,1
+496,27-02-2025,Organic Search,Premium,0,2025-02,12-03-2025,0
+497,13-02-2025,Organic Search,Basic,1,2025-02,25-02-2025,0
+498,22-06-2025,Email Campaign,Premium,1,2025-06,05-09-2025,0
+499,09-06-2025,Paid Social,Basic,0,2025-06,07-10-2025,0
+500,22-06-2025,Referral,Basic,1,2025-06,07-10-2025,0
+501,29-05-2025,Paid Social,Basic,1,2025-05,20-07-2025,0
+502,21-03-2025,Paid Social,Basic,1,2025-03,,1
+503,01-08-2025,Organic Search,Basic,0,2025-08,,1
+504,22-07-2025,Organic Search,Basic,1,2025-07,19-08-2025,0
+505,09-09-2025,Referral,Standard,1,2025-09,,1
+506,17-08-2025,Paid Social,Premium,0,2025-08,27-10-2025,0
+507,13-06-2025,Email Campaign,Standard,1,2025-06,,1
+508,15-08-2025,App Store,Basic,0,2025-08,26-09-2025,0
+509,27-05-2025,Paid Social,Standard,0,2025-05,,1
+510,20-01-2025,Email Campaign,Standard,1,2025-01,,1
+511,16-02-2025,Paid Social,Standard,1,2025-02,06-08-2025,0
+512,21-08-2025,Paid Social,Standard,1,2025-08,26-09-2025,0
+513,14-01-2025,Email Campaign,Premium,1,2025-01,05-06-2025,0
+514,23-05-2025,Paid Social,Basic,0,2025-05,18-07-2025,0
+515,01-01-2025,Referral,Standard,1,2025-01,02-06-2025,0
+516,23-02-2025,Organic Search,Basic,1,2025-02,,1
+517,16-09-2025,Referral,Premium,1,2025-09,,1
+518,24-05-2025,App Store,Basic,1,2025-05,,1
+519,12-01-2025,App Store,Basic,1,2025-01,12-09-2025,0
+520,12-08-2025,Email Campaign,Basic,0,2025-08,15-10-2025,0
+521,29-09-2025,Email Campaign,Standard,1,2025-09,,1
+522,05-06-2025,Referral,Basic,0,2025-06,,1
+523,08-01-2025,Referral,Basic,1,2025-01,03-03-2025,0
+524,02-05-2025,Organic Search,Premium,1,2025-05,,1
+525,13-06-2025,Paid Social,Premium,1,2025-06,,1
+526,31-03-2025,Paid Social,Basic,0,2025-03,27-04-2025,0
+527,16-05-2025,App Store,Basic,1,2025-05,11-09-2025,0
+528,05-07-2025,Paid Social,Standard,1,2025-07,,1
+529,27-06-2025,Paid Social,Premium,1,2025-06,,1
+530,28-01-2025,Paid Social,Standard,0,2025-01,19-02-2025,0
+531,08-08-2025,Referral,Standard,1,2025-08,,1
+532,10-02-2025,Email Campaign,Basic,1,2025-02,24-07-2025,0
+533,16-08-2025,Organic Search,Standard,0,2025-08,28-08-2025,0
+534,11-07-2025,Paid Social,Standard,0,2025-07,20-07-2025,0
+535,25-05-2025,Email Campaign,Standard,1,2025-05,,1
+536,20-07-2025,Paid Social,Basic,1,2025-07,,1
+537,31-07-2025,Organic Search,Premium,1,2025-07,,1
+538,08-08-2025,Referral,Standard,0,2025-08,24-08-2025,0
+539,28-08-2025,Email Campaign,Basic,0,2025-08,,1
+540,15-02-2025,Organic Search,Standard,1,2025-02,25-02-2025,0
+541,04-02-2025,Email Campaign,Standard,0,2025-02,,1
+542,10-09-2025,Email Campaign,Standard,1,2025-09,,1
+543,23-03-2025,Paid Social,Standard,1,2025-03,03-05-2025,0
+544,13-09-2025,App Store,Standard,0,2025-09,,1
+545,16-07-2025,Email Campaign,Premium,0,2025-07,,1
+546,10-01-2025,Email Campaign,Basic,1,2025-01,09-08-2025,0
+547,30-08-2025,Email Campaign,Basic,1,2025-08,,1
+548,08-09-2025,Organic Search,Basic,1,2025-09,,1
+549,05-01-2025,Organic Search,Standard,0,2025-01,02-03-2025,0
+550,29-04-2025,Paid Social,Standard,0,2025-04,22-06-2025,0
+551,06-03-2025,Organic Search,Premium,1,2025-03,08-05-2025,0
+552,26-05-2025,Paid Social,Standard,1,2025-05,,1
+553,12-08-2025,App Store,Standard,0,2025-08,19-09-2025,0
+554,27-08-2025,Email Campaign,Premium,0,2025-08,12-10-2025,0
+555,26-06-2025,Referral,Basic,0,2025-06,04-07-2025,0
+556,24-09-2025,App Store,Standard,1,2025-09,07-10-2025,0
+557,04-03-2025,Email Campaign,Basic,1,2025-03,20-03-2025,0
+558,05-08-2025,Paid Social,Standard,1,2025-08,20-08-2025,0
+559,26-06-2025,Organic Search,Standard,0,2025-06,29-08-2025,0
+560,08-04-2025,Paid Social,Standard,1,2025-04,,1
+561,15-04-2025,Email Campaign,Basic,0,2025-04,05-05-2025,0
+562,09-04-2025,Paid Social,Basic,1,2025-04,13-08-2025,0
+563,06-01-2025,Referral,Standard,0,2025-01,09-10-2025,0
+564,16-07-2025,Organic Search,Standard,1,2025-07,,1
+565,13-05-2025,Email Campaign,Basic,1,2025-05,,1
+566,16-09-2025,Email Campaign,Premium,1,2025-09,,1
+567,23-01-2025,Email Campaign,Basic,1,2025-01,07-04-2025,0
+568,22-02-2025,App Store,Standard,1,2025-02,12-03-2025,0
+569,14-06-2025,Email Campaign,Standard,0,2025-06,15-07-2025,0
+570,21-07-2025,App Store,Standard,1,2025-07,,1
+571,24-03-2025,App Store,Premium,1,2025-03,28-08-2025,0
+572,25-05-2025,Email Campaign,Standard,1,2025-05,24-07-2025,0
+573,26-03-2025,Referral,Standard,1,2025-03,15-08-2025,0
+574,19-03-2025,Organic Search,Basic,1,2025-03,,1
+575,01-01-2025,Paid Social,Basic,1,2025-01,29-03-2025,0
+576,20-02-2025,Referral,Basic,1,2025-02,,1
+577,22-06-2025,Paid Social,Standard,1,2025-06,,1
+578,24-07-2025,Paid Social,Basic,0,2025-07,01-09-2025,0
+579,17-09-2025,App Store,Basic,1,2025-09,,1
+580,03-02-2025,App Store,Basic,1,2025-02,04-05-2025,0
+581,05-04-2025,Email Campaign,Basic,1,2025-04,,1
+582,13-03-2025,Paid Social,Basic,0,2025-03,23-06-2025,0
+583,08-02-2025,Organic Search,Premium,0,2025-02,27-04-2025,0
+584,03-06-2025,Organic Search,Standard,0,2025-06,,1
+585,07-09-2025,Paid Social,Standard,1,2025-09,,1
+586,11-06-2025,Organic Search,Standard,0,2025-06,19-09-2025,0
+587,28-04-2025,Organic Search,Basic,1,2025-04,21-05-2025,0
+588,16-09-2025,App Store,Premium,1,2025-09,,1
+589,25-09-2025,Email Campaign,Basic,1,2025-09,,1
+590,23-02-2025,Paid Social,Basic,1,2025-02,29-03-2025,0
+591,24-08-2025,Organic Search,Standard,0,2025-08,18-09-2025,0
+592,10-08-2025,Paid Social,Basic,1,2025-08,,1
+593,08-09-2025,Organic Search,Standard,0,2025-09,,1
+594,22-04-2025,App Store,Basic,0,2025-04,08-06-2025,0
+595,12-09-2025,Paid Social,Standard,1,2025-09,,1
+596,26-07-2025,Paid Social,Basic,1,2025-07,16-08-2025,0
+597,17-08-2025,Paid Social,Basic,1,2025-08,,1
+598,07-03-2025,Organic Search,Standard,0,2025-03,19-09-2025,0
+599,16-03-2025,Referral,Basic,1,2025-03,20-03-2025,0
+600,13-04-2025,Email Campaign,Basic,0,2025-04,06-08-2025,0
+601,11-07-2025,Referral,Basic,0,2025-07,,1
+602,09-09-2025,Organic Search,Standard,1,2025-09,,1
+603,14-08-2025,Referral,Standard,1,2025-08,03-10-2025,0
+604,08-04-2025,Referral,Basic,0,2025-04,22-06-2025,0
+605,06-09-2025,App Store,Premium,1,2025-09,,1
+606,15-06-2025,Paid Social,Premium,1,2025-06,22-08-2025,0
+607,30-01-2025,Paid Social,Standard,1,2025-01,04-03-2025,0
+608,04-09-2025,Referral,Standard,1,2025-09,,1
+609,16-04-2025,Referral,Basic,0,2025-04,30-08-2025,0
+610,20-02-2025,Paid Social,Standard,1,2025-02,,1
+611,22-03-2025,Paid Social,Basic,0,2025-03,26-09-2025,0
+612,13-05-2025,Paid Social,Basic,1,2025-05,01-07-2025,0
+613,18-05-2025,App Store,Premium,1,2025-05,,1
+614,03-07-2025,Paid Social,Standard,1,2025-07,,1
+615,10-03-2025,App Store,Basic,1,2025-03,11-03-2025,0
+616,03-02-2025,Paid Social,Basic,1,2025-02,,1
+617,19-09-2025,App Store,Standard,0,2025-09,,1
+618,22-02-2025,Email Campaign,Basic,0,2025-02,11-04-2025,0
+619,24-07-2025,Paid Social,Basic,1,2025-07,,1
+620,06-05-2025,App Store,Basic,1,2025-05,,1
+621,23-08-2025,Organic Search,Basic,1,2025-08,,1
+622,12-02-2025,App Store,Standard,1,2025-02,04-08-2025,0
+623,28-08-2025,Referral,Basic,0,2025-08,02-10-2025,0
+624,21-04-2025,Organic Search,Standard,0,2025-04,28-07-2025,0
+625,06-09-2025,Referral,Basic,1,2025-09,,1
+626,31-05-2025,App Store,Standard,0,2025-05,06-10-2025,0
+627,02-07-2025,Organic Search,Premium,1,2025-07,,1
+628,05-04-2025,Referral,Standard,0,2025-04,,1
+629,08-01-2025,Email Campaign,Premium,1,2025-01,,1
+630,03-07-2025,Email Campaign,Premium,1,2025-07,09-09-2025,0
+631,14-07-2025,Paid Social,Basic,1,2025-07,,1
+632,14-07-2025,Organic Search,Standard,1,2025-07,,1
+633,04-06-2025,Organic Search,Premium,0,2025-06,12-06-2025,0
+634,03-04-2025,Referral,Basic,0,2025-04,02-07-2025,0
+635,09-06-2025,Paid Social,Basic,1,2025-06,24-08-2025,0
+636,02-03-2025,App Store,Premium,0,2025-03,07-04-2025,0
+637,02-05-2025,Organic Search,Standard,1,2025-05,25-07-2025,0
+638,20-02-2025,Referral,Basic,0,2025-02,27-02-2025,0
+639,05-01-2025,Organic Search,Basic,1,2025-01,09-07-2025,0
+640,02-04-2025,Organic Search,Standard,1,2025-04,26-07-2025,0
+641,19-06-2025,Paid Social,Standard,1,2025-06,,1
+642,22-01-2025,Paid Social,Standard,1,2025-01,04-03-2025,0
+643,01-01-2025,Referral,Standard,0,2025-01,03-04-2025,0
+644,13-05-2025,App Store,Standard,1,2025-05,26-07-2025,0
+645,21-08-2025,Referral,Standard,1,2025-08,14-09-2025,0
+646,12-01-2025,App Store,Standard,1,2025-01,21-04-2025,0
+647,15-02-2025,App Store,Standard,0,2025-02,14-03-2025,0
+648,03-02-2025,Referral,Standard,0,2025-02,15-04-2025,0
+649,19-03-2025,Email Campaign,Basic,1,2025-03,30-05-2025,0
+650,06-08-2025,Referral,Basic,1,2025-08,06-09-2025,0
+651,14-03-2025,Organic Search,Premium,0,2025-03,25-04-2025,0
+652,06-09-2025,Email Campaign,Basic,1,2025-09,,1
+653,16-02-2025,Organic Search,Basic,1,2025-02,12-09-2025,0
+654,01-05-2025,Referral,Basic,1,2025-05,10-07-2025,0
+655,02-08-2025,Email Campaign,Standard,1,2025-08,,1
+656,27-08-2025,Organic Search,Basic,1,2025-08,,1
+657,25-02-2025,Organic Search,Basic,0,2025-02,14-05-2025,0
+658,17-04-2025,App Store,Basic,1,2025-04,,1
+659,17-02-2025,Referral,Standard,0,2025-02,14-08-2025,0
+660,02-03-2025,Organic Search,Basic,1,2025-03,24-07-2025,0
+661,26-01-2025,Referral,Basic,0,2025-01,20-09-2025,0
+662,14-09-2025,Referral,Basic,1,2025-09,,1
+663,08-01-2025,Paid Social,Premium,1,2025-01,24-04-2025,0
+664,23-04-2025,App Store,Basic,1,2025-04,26-04-2025,0
+665,10-09-2025,Referral,Basic,1,2025-09,,1
+666,29-06-2025,Paid Social,Standard,1,2025-06,,1
+667,26-07-2025,Email Campaign,Premium,1,2025-07,24-08-2025,0
+668,07-05-2025,App Store,Standard,1,2025-05,,1
+669,25-02-2025,Organic Search,Premium,0,2025-02,22-05-2025,0
+670,02-08-2025,Organic Search,Standard,0,2025-08,18-08-2025,0
+671,14-01-2025,Organic Search,Basic,1,2025-01,06-08-2025,0
+672,28-01-2025,Referral,Standard,0,2025-01,,1
+673,19-03-2025,Referral,Basic,1,2025-03,29-05-2025,0
+674,04-08-2025,Referral,Standard,1,2025-08,,1
+675,03-06-2025,App Store,Basic,1,2025-06,,1
+676,14-01-2025,Email Campaign,Basic,1,2025-01,12-05-2025,0
+677,06-07-2025,Organic Search,Premium,1,2025-07,,1
+678,07-01-2025,Paid Social,Basic,0,2025-01,25-01-2025,0
+679,03-01-2025,Paid Social,Premium,1,2025-01,09-05-2025,0
+680,21-04-2025,Paid Social,Basic,1,2025-04,10-06-2025,0
+681,26-08-2025,Referral,Basic,0,2025-08,12-10-2025,0
+682,27-08-2025,App Store,Premium,1,2025-08,,1
+683,15-08-2025,Paid Social,Standard,1,2025-08,,1
+684,15-01-2025,Referral,Standard,0,2025-01,29-04-2025,0
+685,11-07-2025,Email Campaign,Basic,1,2025-07,13-09-2025,0
+686,29-04-2025,Paid Social,Standard,1,2025-04,,1
+687,28-01-2025,Organic Search,Standard,1,2025-01,23-02-2025,0
+688,21-07-2025,Paid Social,Standard,1,2025-07,04-09-2025,0
+689,08-02-2025,Organic Search,Basic,0,2025-02,,1
+690,19-08-2025,App Store,Premium,0,2025-08,25-08-2025,0
+691,27-03-2025,Organic Search,Standard,1,2025-03,03-05-2025,0
+692,06-05-2025,Paid Social,Premium,1,2025-05,12-08-2025,0
+693,25-01-2025,Paid Social,Standard,1,2025-01,09-09-2025,0
+694,25-05-2025,App Store,Standard,0,2025-05,17-08-2025,0
+695,13-01-2025,Organic Search,Basic,1,2025-01,29-01-2025,0
+696,31-07-2025,Organic Search,Basic,1,2025-07,25-08-2025,0
+697,25-01-2025,Organic Search,Premium,0,2025-01,17-09-2025,0
+698,09-03-2025,Organic Search,Basic,0,2025-03,12-05-2025,0
+699,08-03-2025,Organic Search,Basic,1,2025-03,25-04-2025,0
+700,21-08-2025,Referral,Basic,1,2025-08,,1
+701,19-04-2025,Organic Search,Basic,1,2025-04,30-07-2025,0
+702,26-05-2025,Organic Search,Premium,1,2025-05,,1
+703,21-04-2025,Email Campaign,Premium,1,2025-04,11-05-2025,0
+704,16-08-2025,Paid Social,Basic,0,2025-08,10-10-2025,0
+705,21-04-2025,Paid Social,Basic,1,2025-04,22-09-2025,0
+706,03-02-2025,Paid Social,Standard,1,2025-02,24-02-2025,0
+707,21-04-2025,App Store,Standard,1,2025-04,30-09-2025,0
+708,21-09-2025,Organic Search,Premium,1,2025-09,,1
+709,24-08-2025,App Store,Standard,1,2025-08,,1
+710,24-03-2025,Email Campaign,Basic,0,2025-03,03-07-2025,0
+711,11-02-2025,Organic Search,Standard,1,2025-02,,1
+712,11-04-2025,App Store,Premium,1,2025-04,07-07-2025,0
+713,06-01-2025,Organic Search,Standard,1,2025-01,23-05-2025,0
+714,29-06-2025,Organic Search,Standard,1,2025-06,14-07-2025,0
+715,14-08-2025,Email Campaign,Basic,1,2025-08,,1
+716,17-08-2025,Email Campaign,Standard,0,2025-08,01-10-2025,0
+717,30-05-2025,Referral,Standard,1,2025-05,,1
+718,17-07-2025,Organic Search,Basic,0,2025-07,,1
+719,11-03-2025,Paid Social,Basic,1,2025-03,24-03-2025,0
+720,22-04-2025,Email Campaign,Basic,1,2025-04,03-06-2025,0
+721,04-01-2025,Paid Social,Basic,0,2025-01,17-03-2025,0
+722,05-04-2025,Paid Social,Basic,1,2025-04,,1
+723,01-06-2025,Organic Search,Basic,0,2025-06,27-06-2025,0
+724,17-05-2025,Organic Search,Standard,1,2025-05,,1
+725,04-09-2025,App Store,Basic,1,2025-09,,1
+726,31-08-2025,Paid Social,Basic,0,2025-08,27-09-2025,0
+727,31-01-2025,App Store,Premium,0,2025-01,30-04-2025,0
+728,09-02-2025,Paid Social,Standard,0,2025-02,28-03-2025,0
+729,17-08-2025,Email Campaign,Standard,1,2025-08,27-08-2025,0
+730,05-02-2025,Organic Search,Basic,1,2025-02,30-03-2025,0
+731,11-08-2025,Paid Social,Standard,0,2025-08,,1
+732,06-01-2025,Organic Search,Basic,0,2025-01,12-01-2025,0
+733,08-08-2025,Paid Social,Standard,1,2025-08,27-09-2025,0
+734,16-03-2025,Paid Social,Basic,1,2025-03,,1
+735,04-01-2025,App Store,Standard,0,2025-01,05-07-2025,0
+736,14-05-2025,Referral,Basic,1,2025-05,,1
+737,28-04-2025,Organic Search,Standard,1,2025-04,07-05-2025,0
+738,04-04-2025,Organic Search,Standard,0,2025-04,05-08-2025,0
+739,03-03-2025,Organic Search,Basic,1,2025-03,13-09-2025,0
+740,13-07-2025,Referral,Basic,1,2025-07,24-10-2025,0
+741,22-07-2025,Email Campaign,Standard,0,2025-07,21-08-2025,0
+742,26-01-2025,App Store,Premium,1,2025-01,,1
+743,22-06-2025,Organic Search,Standard,0,2025-06,,1
+744,13-05-2025,Paid Social,Basic,1,2025-05,09-07-2025,0
+745,28-04-2025,Paid Social,Basic,1,2025-04,11-05-2025,0
+746,31-07-2025,Referral,Premium,1,2025-07,,1
+747,13-08-2025,Referral,Standard,0,2025-08,12-09-2025,0
+748,20-01-2025,Referral,Standard,1,2025-01,15-05-2025,0
+749,23-04-2025,Referral,Premium,1,2025-04,,1
+750,20-05-2025,Organic Search,Premium,1,2025-05,,1
+751,16-02-2025,Email Campaign,Standard,1,2025-02,20-02-2025,0
+752,01-01-2025,Organic Search,Basic,1,2025-01,,1
+753,31-03-2025,Referral,Basic,1,2025-03,10-04-2025,0
+754,22-05-2025,Paid Social,Standard,1,2025-05,02-10-2025,0
+755,07-02-2025,Paid Social,Basic,1,2025-02,15-03-2025,0
+756,19-05-2025,App Store,Basic,0,2025-05,,1
+757,16-09-2025,App Store,Basic,0,2025-09,,1
+758,10-06-2025,Email Campaign,Basic,1,2025-06,,1
+759,27-06-2025,Paid Social,Standard,1,2025-06,,1
+760,10-01-2025,Email Campaign,Standard,0,2025-01,25-06-2025,0
+761,18-09-2025,Paid Social,Basic,0,2025-09,,1
+762,18-05-2025,App Store,Basic,1,2025-05,,1
+763,21-06-2025,Paid Social,Premium,0,2025-06,26-09-2025,0
+764,13-01-2025,App Store,Basic,1,2025-01,26-01-2025,0
+765,17-06-2025,App Store,Standard,1,2025-06,,1
+766,10-05-2025,Email Campaign,Premium,1,2025-05,13-06-2025,0
+767,25-03-2025,Organic Search,Basic,0,2025-03,20-08-2025,0
+768,11-04-2025,Organic Search,Standard,1,2025-04,22-06-2025,0
+769,22-09-2025,App Store,Premium,0,2025-09,,1
+770,07-02-2025,Organic Search,Basic,1,2025-02,26-05-2025,0
+771,04-04-2025,App Store,Standard,1,2025-04,17-06-2025,0
+772,05-04-2025,Paid Social,Basic,1,2025-04,08-10-2025,0
+773,10-03-2025,Paid Social,Basic,0,2025-03,,1
+774,24-08-2025,App Store,Standard,1,2025-08,,1
+775,17-05-2025,Referral,Premium,1,2025-05,06-07-2025,0
+776,17-03-2025,Referral,Standard,1,2025-03,16-04-2025,0
+777,04-02-2025,Referral,Basic,0,2025-02,29-04-2025,0
+778,01-01-2025,Paid Social,Basic,1,2025-01,25-03-2025,0
+779,01-03-2025,Email Campaign,Standard,1,2025-03,02-10-2025,0
+780,24-09-2025,Organic Search,Basic,1,2025-09,,1
+781,17-08-2025,App Store,Standard,0,2025-08,26-09-2025,0
+782,27-09-2025,App Store,Standard,0,2025-09,,1
+783,01-08-2025,Paid Social,Standard,0,2025-08,30-09-2025,0
+784,14-06-2025,Email Campaign,Standard,1,2025-06,26-09-2025,0
+785,05-01-2025,Referral,Basic,1,2025-01,18-09-2025,0
+786,19-03-2025,Paid Social,Basic,0,2025-03,22-06-2025,0
+787,03-03-2025,App Store,Basic,1,2025-03,,1
+788,12-05-2025,Organic Search,Standard,1,2025-05,21-06-2025,0
+789,30-03-2025,Organic Search,Standard,1,2025-03,15-08-2025,0
+790,25-08-2025,Paid Social,Standard,0,2025-08,11-09-2025,0
+791,11-02-2025,Paid Social,Standard,1,2025-02,,1
+792,30-03-2025,Referral,Premium,1,2025-03,21-07-2025,0
+793,14-04-2025,Email Campaign,Basic,0,2025-04,,1
+794,14-01-2025,Referral,Basic,1,2025-01,21-02-2025,0
+795,28-06-2025,Referral,Basic,1,2025-06,,1
+796,05-05-2025,Organic Search,Standard,0,2025-05,29-05-2025,0
+797,23-01-2025,Paid Social,Basic,0,2025-01,12-04-2025,0
+798,04-03-2025,Organic Search,Standard,0,2025-03,26-07-2025,0
+799,23-05-2025,Organic Search,Standard,0,2025-05,17-06-2025,0
+800,02-06-2025,Referral,Premium,1,2025-06,22-08-2025,0
+801,25-05-2025,Organic Search,Premium,0,2025-05,05-08-2025,0
+802,13-08-2025,Organic Search,Basic,1,2025-08,01-10-2025,0
+803,14-04-2025,Organic Search,Basic,0,2025-04,17-07-2025,0
+804,14-04-2025,App Store,Standard,0,2025-04,19-10-2025,0
+805,08-02-2025,App Store,Basic,1,2025-02,,1
+806,17-07-2025,Referral,Basic,0,2025-07,06-10-2025,0
+807,14-05-2025,App Store,Standard,0,2025-05,11-06-2025,0
+808,08-03-2025,Email Campaign,Basic,1,2025-03,24-10-2025,0
+809,28-06-2025,Referral,Standard,0,2025-06,15-07-2025,0
+810,11-02-2025,Organic Search,Standard,1,2025-02,,1
+811,15-01-2025,Email Campaign,Basic,1,2025-01,07-02-2025,0
+812,21-04-2025,Email Campaign,Basic,1,2025-04,05-05-2025,0
+813,06-06-2025,Referral,Basic,1,2025-06,19-07-2025,0
+814,19-08-2025,Email Campaign,Standard,0,2025-08,23-09-2025,0
+815,06-06-2025,Paid Social,Basic,0,2025-06,10-07-2025,0
+816,07-02-2025,Email Campaign,Premium,1,2025-02,,1
+817,07-04-2025,App Store,Basic,1,2025-04,,1
+818,11-09-2025,Paid Social,Basic,1,2025-09,,1
+819,15-07-2025,Email Campaign,Basic,0,2025-07,,1
+820,27-03-2025,Paid Social,Basic,1,2025-03,,1
+821,10-01-2025,Referral,Basic,0,2025-01,25-02-2025,0
+822,05-01-2025,Email Campaign,Standard,0,2025-01,20-01-2025,0
+823,03-05-2025,Organic Search,Standard,1,2025-05,,1
+824,28-04-2025,Referral,Basic,0,2025-04,22-06-2025,0
+825,08-06-2025,Organic Search,Basic,0,2025-06,30-06-2025,0
+826,16-08-2025,Referral,Standard,0,2025-08,19-08-2025,0
+827,04-08-2025,Paid Social,Standard,1,2025-08,,1
+828,03-07-2025,Email Campaign,Basic,1,2025-07,,1
+829,15-01-2025,Organic Search,Standard,0,2025-01,10-07-2025,0
+830,06-06-2025,Referral,Basic,1,2025-06,,1
+831,16-05-2025,Organic Search,Standard,1,2025-05,03-06-2025,0
+832,18-09-2025,App Store,Basic,1,2025-09,,1
+833,06-06-2025,App Store,Basic,1,2025-06,,1
+834,16-02-2025,App Store,Premium,1,2025-02,21-04-2025,0
+835,22-06-2025,Email Campaign,Basic,1,2025-06,,1
+836,10-05-2025,Email Campaign,Standard,1,2025-05,,1
+837,05-04-2025,Organic Search,Basic,1,2025-04,,1
+838,25-04-2025,Paid Social,Standard,1,2025-04,05-08-2025,0
+839,31-08-2025,Paid Social,Premium,0,2025-08,,1
+840,10-03-2025,Email Campaign,Basic,0,2025-03,21-06-2025,0
+841,28-05-2025,App Store,Standard,1,2025-05,24-07-2025,0
+842,11-01-2025,Organic Search,Standard,1,2025-01,09-05-2025,0
+843,11-09-2025,App Store,Standard,1,2025-09,16-10-2025,0
+844,07-02-2025,Referral,Standard,1,2025-02,,1
+845,14-05-2025,Referral,Premium,1,2025-05,22-07-2025,0
+846,19-07-2025,Organic Search,Basic,1,2025-07,,1
+847,23-01-2025,Organic Search,Basic,1,2025-01,,1
+848,06-08-2025,Referral,Premium,0,2025-08,24-08-2025,0
+849,21-05-2025,Referral,Standard,1,2025-05,01-06-2025,0
+850,14-04-2025,Organic Search,Basic,0,2025-04,,1
+851,29-07-2025,Referral,Standard,1,2025-07,,1
+852,21-04-2025,App Store,Standard,0,2025-04,07-05-2025,0
+853,14-04-2025,Email Campaign,Basic,1,2025-04,,1
+854,20-06-2025,App Store,Basic,1,2025-06,01-09-2025,0
+855,13-05-2025,Paid Social,Standard,1,2025-05,,1
+856,07-05-2025,Paid Social,Basic,1,2025-05,26-09-2025,0
+857,16-04-2025,Email Campaign,Standard,1,2025-04,21-05-2025,0
+858,02-04-2025,Paid Social,Standard,1,2025-04,12-06-2025,0
+859,20-02-2025,Organic Search,Basic,0,2025-02,,1
+860,29-01-2025,Organic Search,Basic,1,2025-01,28-09-2025,0
+861,02-08-2025,Paid Social,Basic,0,2025-08,21-08-2025,0
+862,24-09-2025,Organic Search,Basic,1,2025-09,,1
+863,14-09-2025,Paid Social,Standard,0,2025-09,,1
+864,11-04-2025,Organic Search,Basic,1,2025-04,24-05-2025,0
+865,20-04-2025,Organic Search,Standard,1,2025-04,,1
+866,01-07-2025,Referral,Basic,1,2025-07,26-09-2025,0
+867,01-01-2025,Referral,Basic,1,2025-01,,1
+868,24-02-2025,Referral,Basic,1,2025-02,,1
+869,29-05-2025,Organic Search,Basic,1,2025-05,,1
+870,17-05-2025,Organic Search,Basic,0,2025-05,06-06-2025,0
+871,21-07-2025,Referral,Basic,0,2025-07,29-07-2025,0
+872,27-04-2025,Referral,Premium,1,2025-04,,1
+873,03-06-2025,Paid Social,Standard,0,2025-06,17-10-2025,0
+874,04-03-2025,Paid Social,Basic,0,2025-03,30-03-2025,0
+875,01-09-2025,App Store,Basic,0,2025-09,,1
+876,25-01-2025,Paid Social,Basic,1,2025-01,09-02-2025,0
+877,31-03-2025,Paid Social,Basic,1,2025-03,10-07-2025,0
+878,16-03-2025,Referral,Basic,1,2025-03,10-04-2025,0
+879,29-07-2025,Paid Social,Basic,0,2025-07,31-07-2025,0
+880,17-01-2025,Paid Social,Basic,1,2025-01,21-05-2025,0
+881,08-05-2025,Paid Social,Basic,1,2025-05,21-06-2025,0
+882,08-09-2025,Email Campaign,Basic,1,2025-09,,1
+883,28-06-2025,Organic Search,Basic,1,2025-06,20-09-2025,0
+884,01-07-2025,Organic Search,Standard,0,2025-07,02-07-2025,0
+885,01-06-2025,Paid Social,Basic,1,2025-06,20-07-2025,0
+886,25-01-2025,Email Campaign,Basic,0,2025-01,18-03-2025,0
+887,29-06-2025,Organic Search,Standard,0,2025-06,09-09-2025,0
+888,17-07-2025,App Store,Premium,1,2025-07,01-08-2025,0
+889,10-06-2025,Paid Social,Premium,1,2025-06,,1
+890,26-06-2025,App Store,Standard,0,2025-06,,1
+891,04-03-2025,App Store,Basic,1,2025-03,23-04-2025,0
+892,30-05-2025,Paid Social,Standard,1,2025-05,,1
+893,03-06-2025,Organic Search,Standard,1,2025-06,,1
+894,05-06-2025,Organic Search,Basic,1,2025-06,,1
+895,18-02-2025,Organic Search,Standard,1,2025-02,17-05-2025,0
+896,25-03-2025,Email Campaign,Premium,1,2025-03,26-03-2025,0
+897,26-06-2025,Organic Search,Basic,1,2025-06,12-07-2025,0
+898,28-05-2025,Paid Social,Basic,1,2025-05,23-06-2025,0
+899,28-04-2025,Paid Social,Basic,0,2025-04,17-08-2025,0
+900,04-03-2025,App Store,Basic,1,2025-03,26-08-2025,0
+901,08-07-2025,Organic Search,Basic,0,2025-07,,1
+902,18-02-2025,Organic Search,Standard,1,2025-02,20-07-2025,0
+903,14-09-2025,Organic Search,Standard,0,2025-09,,1
+904,12-08-2025,App Store,Basic,1,2025-08,,1
+905,21-05-2025,Referral,Premium,0,2025-05,,1
+906,03-08-2025,Organic Search,Basic,1,2025-08,06-08-2025,0
+907,30-07-2025,Organic Search,Basic,0,2025-07,05-09-2025,0
+908,01-02-2025,Organic Search,Standard,1,2025-02,02-03-2025,0
+909,07-06-2025,Organic Search,Standard,1,2025-06,18-08-2025,0
+910,24-05-2025,App Store,Standard,1,2025-05,,1
+911,19-01-2025,Email Campaign,Premium,0,2025-01,12-03-2025,0
+912,18-01-2025,Paid Social,Standard,0,2025-01,13-03-2025,0
+913,14-09-2025,App Store,Premium,1,2025-09,,1
+914,19-03-2025,Organic Search,Basic,0,2025-03,10-05-2025,0
+915,24-06-2025,Email Campaign,Standard,0,2025-06,13-08-2025,0
+916,13-07-2025,App Store,Premium,0,2025-07,28-08-2025,0
+917,23-04-2025,Paid Social,Standard,0,2025-04,,1
+918,24-04-2025,Email Campaign,Basic,0,2025-04,20-05-2025,0
+919,10-08-2025,Organic Search,Standard,1,2025-08,02-10-2025,0
+920,15-06-2025,Organic Search,Standard,0,2025-06,19-07-2025,0
+921,12-05-2025,Organic Search,Basic,1,2025-05,03-06-2025,0
+922,21-09-2025,Paid Social,Premium,0,2025-09,04-10-2025,0
+923,24-02-2025,Email Campaign,Basic,1,2025-02,22-04-2025,0
+924,11-05-2025,App Store,Basic,1,2025-05,19-05-2025,0
+925,23-09-2025,Referral,Premium,1,2025-09,,1
+926,11-06-2025,App Store,Basic,0,2025-06,30-06-2025,0
+927,28-03-2025,Email Campaign,Basic,0,2025-03,11-05-2025,0
+928,24-02-2025,Organic Search,Standard,1,2025-02,06-03-2025,0
+929,27-06-2025,Paid Social,Standard,0,2025-06,10-07-2025,0
+930,08-01-2025,Organic Search,Basic,0,2025-01,06-03-2025,0
+931,04-09-2025,Referral,Premium,0,2025-09,29-09-2025,0
+932,12-09-2025,App Store,Standard,1,2025-09,,1
+933,23-02-2025,Organic Search,Standard,0,2025-02,27-04-2025,0
+934,06-09-2025,Email Campaign,Standard,1,2025-09,,1
+935,27-08-2025,Referral,Standard,0,2025-08,21-09-2025,0
+936,17-08-2025,Referral,Basic,1,2025-08,,1
+937,08-03-2025,Paid Social,Basic,1,2025-03,27-10-2025,0
+938,20-02-2025,Paid Social,Standard,0,2025-02,01-06-2025,0
+939,07-04-2025,Organic Search,Standard,1,2025-04,17-08-2025,0
+940,02-04-2025,Organic Search,Basic,1,2025-04,06-04-2025,0
+941,21-09-2025,Organic Search,Standard,0,2025-09,,1
+942,06-04-2025,Referral,Standard,1,2025-04,31-05-2025,0
+943,29-03-2025,Organic Search,Basic,1,2025-03,,1
+944,19-03-2025,App Store,Basic,1,2025-03,,1
+945,30-04-2025,Paid Social,Basic,1,2025-04,,1
+946,14-06-2025,Referral,Standard,1,2025-06,31-08-2025,0
+947,01-07-2025,Paid Social,Basic,1,2025-07,,1
+948,11-08-2025,Referral,Basic,0,2025-08,,1
+949,07-01-2025,App Store,Standard,1,2025-01,,1
+950,20-09-2025,Organic Search,Standard,1,2025-09,,1
+951,10-06-2025,Organic Search,Basic,1,2025-06,,1
+952,31-05-2025,Email Campaign,Basic,1,2025-05,14-06-2025,0
+953,26-03-2025,Organic Search,Standard,0,2025-03,30-05-2025,0
+954,27-05-2025,Organic Search,Premium,0,2025-05,29-05-2025,0
+955,22-04-2025,Paid Social,Premium,1,2025-04,22-05-2025,0
+956,05-02-2025,Organic Search,Standard,1,2025-02,05-05-2025,0
+957,07-07-2025,Referral,Basic,1,2025-07,,1
+958,23-03-2025,Organic Search,Basic,0,2025-03,07-06-2025,0
+959,02-01-2025,App Store,Basic,1,2025-01,27-09-2025,0
+960,16-07-2025,Email Campaign,Basic,1,2025-07,26-09-2025,0
+961,11-01-2025,Referral,Standard,1,2025-01,05-03-2025,0
+962,22-08-2025,Referral,Basic,0,2025-08,,1
+963,14-07-2025,App Store,Basic,0,2025-07,03-09-2025,0
+964,29-04-2025,Organic Search,Premium,0,2025-04,,1
+965,20-01-2025,App Store,Basic,1,2025-01,,1
+966,18-09-2025,Email Campaign,Basic,1,2025-09,27-09-2025,0
+967,13-09-2025,Email Campaign,Basic,1,2025-09,,1
+968,10-08-2025,Referral,Standard,0,2025-08,08-09-2025,0
+969,14-08-2025,Organic Search,Standard,0,2025-08,,1
+970,22-02-2025,Paid Social,Basic,1,2025-02,25-05-2025,0
+971,22-03-2025,Email Campaign,Standard,1,2025-03,04-10-2025,0
+972,21-07-2025,Organic Search,Standard,1,2025-07,,1
+973,07-06-2025,Email Campaign,Standard,1,2025-06,25-09-2025,0
+974,30-04-2025,Organic Search,Premium,1,2025-04,08-05-2025,0
+975,28-02-2025,Organic Search,Standard,1,2025-02,14-03-2025,0
+976,03-08-2025,Organic Search,Standard,1,2025-08,,1
+977,08-05-2025,Organic Search,Basic,1,2025-05,18-05-2025,0
+978,12-08-2025,Paid Social,Basic,0,2025-08,30-08-2025,0
+979,28-07-2025,Organic Search,Basic,1,2025-07,,1
+980,25-04-2025,App Store,Standard,1,2025-04,29-05-2025,0
+981,28-07-2025,Referral,Standard,1,2025-07,,1
+982,14-01-2025,Organic Search,Standard,0,2025-01,05-02-2025,0
+983,09-01-2025,Referral,Basic,0,2025-01,19-01-2025,0
+984,09-02-2025,App Store,Standard,1,2025-02,22-05-2025,0
+985,25-08-2025,Email Campaign,Premium,1,2025-08,31-08-2025,0
+986,20-07-2025,Organic Search,Standard,1,2025-07,,1
+987,03-09-2025,App Store,Standard,0,2025-09,,1
+988,23-08-2025,Email Campaign,Standard,0,2025-08,,1
+989,04-01-2025,Organic Search,Premium,0,2025-01,11-03-2025,0
+990,03-06-2025,Organic Search,Standard,1,2025-06,12-10-2025,0
+991,29-01-2025,Referral,Standard,0,2025-01,13-02-2025,0
+992,19-04-2025,Organic Search,Basic,0,2025-04,29-06-2025,0
+993,08-04-2025,Email Campaign,Basic,0,2025-04,07-05-2025,0
+994,03-08-2025,Paid Social,Standard,1,2025-08,25-09-2025,0
+995,16-03-2025,App Store,Basic,1,2025-03,17-03-2025,0
+996,26-05-2025,Referral,Premium,1,2025-05,24-07-2025,0
+997,08-05-2025,Organic Search,Basic,1,2025-05,19-05-2025,0
+998,11-02-2025,Organic Search,Premium,1,2025-02,,1
+999,10-02-2025,Referral,Basic,0,2025-02,03-10-2025,0
+1000,03-02-2025,Email Campaign,Basic,1,2025-02,10-04-2025,0
+1001,17-01-2025,Email Campaign,Premium,0,2025-01,20-04-2025,0
+1002,14-06-2025,Organic Search,Basic,1,2025-06,12-09-2025,0
+1003,02-06-2025,Organic Search,Basic,1,2025-06,03-07-2025,0
+1004,17-03-2025,Organic Search,Basic,0,2025-03,30-08-2025,0
+1005,28-03-2025,Referral,Standard,1,2025-03,21-04-2025,0
+1006,27-04-2025,Organic Search,Basic,1,2025-04,,1
+1007,27-01-2025,Paid Social,Standard,0,2025-01,11-07-2025,0
+1008,14-05-2025,Referral,Standard,0,2025-05,06-07-2025,0
+1009,07-08-2025,App Store,Standard,1,2025-08,,1
+1010,17-06-2025,Paid Social,Standard,0,2025-06,20-07-2025,0
+1011,08-04-2025,Organic Search,Standard,0,2025-04,02-10-2025,0
+1012,25-09-2025,Referral,Basic,0,2025-09,,1
+1013,25-08-2025,Referral,Standard,0,2025-08,,1
+1014,22-06-2025,Paid Social,Basic,1,2025-06,,1
+1015,09-07-2025,App Store,Standard,0,2025-07,15-08-2025,0
+1016,02-05-2025,Email Campaign,Basic,1,2025-05,,1
+1017,15-02-2025,Organic Search,Premium,1,2025-02,13-03-2025,0
+1018,05-03-2025,Organic Search,Basic,0,2025-03,27-05-2025,0
+1019,10-05-2025,Paid Social,Basic,1,2025-05,,1
+1020,12-07-2025,Email Campaign,Standard,0,2025-07,21-08-2025,0
+1021,30-06-2025,Organic Search,Standard,0,2025-06,08-10-2025,0
+1022,29-01-2025,Referral,Basic,0,2025-01,08-02-2025,0
+1023,29-05-2025,Referral,Standard,0,2025-05,,1
+1024,24-09-2025,Organic Search,Standard,1,2025-09,21-10-2025,0
+1025,11-01-2025,Referral,Premium,1,2025-01,12-04-2025,0
+1026,13-06-2025,App Store,Standard,1,2025-06,,1
+1027,23-04-2025,Organic Search,Basic,1,2025-04,,1
+1028,06-07-2025,Paid Social,Basic,1,2025-07,16-10-2025,0
+1029,20-08-2025,Paid Social,Premium,1,2025-08,,1
+1030,15-08-2025,App Store,Standard,0,2025-08,22-09-2025,0
+1031,08-04-2025,App Store,Basic,0,2025-04,10-04-2025,0
+1032,24-02-2025,Paid Social,Basic,0,2025-02,09-05-2025,0
+1033,21-04-2025,Email Campaign,Standard,0,2025-04,02-05-2025,0
+1034,01-06-2025,Paid Social,Basic,1,2025-06,30-10-2025,0
+1035,03-09-2025,Paid Social,Basic,1,2025-09,,1
+1036,10-03-2025,Organic Search,Basic,1,2025-03,21-03-2025,0
+1037,07-09-2025,Organic Search,Basic,0,2025-09,,1
+1038,05-02-2025,Organic Search,Basic,1,2025-02,02-08-2025,0
+1039,27-08-2025,Referral,Standard,0,2025-08,01-09-2025,0
+1040,28-05-2025,Organic Search,Basic,1,2025-05,25-09-2025,0
+1041,15-08-2025,App Store,Basic,1,2025-08,,1
+1042,01-09-2025,Organic Search,Basic,1,2025-09,,1
+1043,20-07-2025,Organic Search,Basic,1,2025-07,,1
+1044,03-06-2025,Paid Social,Basic,1,2025-06,12-10-2025,0
+1045,14-03-2025,Email Campaign,Basic,0,2025-03,31-03-2025,0
+1046,20-07-2025,Organic Search,Standard,0,2025-07,,1
+1047,17-01-2025,Paid Social,Basic,1,2025-01,13-07-2025,0
+1048,09-05-2025,App Store,Basic,0,2025-05,29-07-2025,0
+1049,05-08-2025,Organic Search,Basic,1,2025-08,15-08-2025,0
+1050,02-03-2025,Paid Social,Standard,0,2025-03,13-05-2025,0
+1051,14-04-2025,Email Campaign,Premium,1,2025-04,08-06-2025,0
+1052,11-02-2025,Organic Search,Basic,0,2025-02,04-08-2025,0
+1053,25-01-2025,Paid Social,Premium,1,2025-01,,1
+1054,08-02-2025,Paid Social,Basic,1,2025-02,09-03-2025,0
+1055,11-05-2025,Paid Social,Standard,1,2025-05,25-07-2025,0
+1056,17-08-2025,Organic Search,Basic,1,2025-08,,1
+1057,18-04-2025,Organic Search,Standard,1,2025-04,,1
+1058,21-06-2025,Paid Social,Standard,1,2025-06,,1
+1059,12-04-2025,Organic Search,Basic,0,2025-04,14-05-2025,0
+1060,12-01-2025,Email Campaign,Standard,0,2025-01,07-02-2025,0
+1061,11-04-2025,Paid Social,Standard,0,2025-04,08-05-2025,0
+1062,13-02-2025,Paid Social,Basic,0,2025-02,14-03-2025,0
+1063,17-01-2025,App Store,Basic,0,2025-01,16-07-2025,0
+1064,26-02-2025,Referral,Basic,1,2025-02,16-04-2025,0
+1065,12-01-2025,Organic Search,Standard,1,2025-01,02-03-2025,0
+1066,21-03-2025,App Store,Standard,0,2025-03,18-06-2025,0
+1067,04-08-2025,Organic Search,Basic,0,2025-08,,1
+1068,21-09-2025,Organic Search,Standard,1,2025-09,28-09-2025,0
+1069,29-05-2025,Email Campaign,Premium,1,2025-05,17-10-2025,0
+1070,22-03-2025,Paid Social,Standard,1,2025-03,16-05-2025,0
+1071,03-08-2025,Paid Social,Standard,0,2025-08,29-08-2025,0
+1072,17-07-2025,Organic Search,Standard,1,2025-07,20-09-2025,0
+1073,19-07-2025,Paid Social,Basic,0,2025-07,,1
+1074,25-01-2025,Organic Search,Basic,0,2025-01,27-02-2025,0
+1075,30-03-2025,App Store,Standard,0,2025-03,,1
+1076,25-09-2025,Organic Search,Basic,1,2025-09,,1
+1077,23-05-2025,App Store,Premium,1,2025-05,31-07-2025,0
+1078,28-02-2025,Referral,Basic,1,2025-02,16-03-2025,0
+1079,26-01-2025,Email Campaign,Basic,1,2025-01,12-08-2025,0
+1080,16-02-2025,Email Campaign,Premium,0,2025-02,28-05-2025,0
+1081,23-09-2025,Referral,Standard,1,2025-09,,1
+1082,16-01-2025,Paid Social,Basic,1,2025-01,19-02-2025,0
+1083,18-07-2025,Organic Search,Standard,1,2025-07,24-07-2025,0
+1084,27-03-2025,Organic Search,Standard,0,2025-03,07-04-2025,0
+1085,07-09-2025,App Store,Standard,1,2025-09,,1
+1086,27-09-2025,Email Campaign,Basic,0,2025-09,,1
+1087,27-04-2025,Paid Social,Standard,1,2025-04,25-06-2025,0
+1088,07-01-2025,Organic Search,Premium,1,2025-01,05-07-2025,0
+1089,17-05-2025,Paid Social,Basic,1,2025-05,,1
+1090,25-06-2025,Referral,Premium,1,2025-06,25-09-2025,0
+1091,03-08-2025,Paid Social,Premium,0,2025-08,12-10-2025,0
+1092,23-03-2025,Email Campaign,Standard,1,2025-03,06-05-2025,0
+1093,11-08-2025,App Store,Standard,1,2025-08,,1
+1094,13-04-2025,Organic Search,Basic,0,2025-04,15-04-2025,0
+1095,14-01-2025,Paid Social,Basic,0,2025-01,01-02-2025,0
+1096,08-06-2025,Paid Social,Standard,0,2025-06,,1
+1097,01-06-2025,Paid Social,Premium,1,2025-06,,1
+1098,18-04-2025,Organic Search,Standard,1,2025-04,20-08-2025,0
+1099,07-07-2025,Organic Search,Standard,0,2025-07,,1
+1100,08-04-2025,App Store,Basic,0,2025-04,27-06-2025,0
+1101,11-05-2025,Paid Social,Basic,0,2025-05,11-09-2025,0
+1102,20-06-2025,Paid Social,Basic,1,2025-06,07-08-2025,0
+1103,02-07-2025,App Store,Basic,0,2025-07,15-07-2025,0
+1104,08-02-2025,Email Campaign,Standard,1,2025-02,08-07-2025,0
+1105,15-01-2025,Organic Search,Basic,1,2025-01,,1
+1106,04-01-2025,Referral,Standard,0,2025-01,14-01-2025,0
+1107,29-07-2025,Paid Social,Basic,0,2025-07,30-09-2025,0
+1108,10-06-2025,Email Campaign,Standard,1,2025-06,,1
+1109,16-01-2025,Email Campaign,Standard,1,2025-01,21-01-2025,0
+1110,18-04-2025,Referral,Basic,0,2025-04,16-07-2025,0
+1111,15-08-2025,Paid Social,Basic,1,2025-08,,1
+1112,19-06-2025,Email Campaign,Basic,1,2025-06,,1
+1113,03-02-2025,Organic Search,Premium,1,2025-02,23-05-2025,0
+1114,08-09-2025,Organic Search,Basic,1,2025-09,24-10-2025,0
+1115,04-09-2025,Paid Social,Standard,0,2025-09,,1
+1116,26-09-2025,Organic Search,Premium,1,2025-09,,1
+1117,21-05-2025,Organic Search,Standard,1,2025-05,30-08-2025,0
+1118,06-04-2025,Email Campaign,Basic,0,2025-04,16-08-2025,0
+1119,15-08-2025,App Store,Premium,1,2025-08,,1
+1120,08-02-2025,Paid Social,Basic,1,2025-02,12-02-2025,0
+1121,29-01-2025,Organic Search,Basic,0,2025-01,18-03-2025,0
+1122,02-09-2025,Organic Search,Premium,1,2025-09,,1
+1123,24-08-2025,Organic Search,Standard,1,2025-08,,1
+1124,04-07-2025,Organic Search,Basic,0,2025-07,,1
+1125,29-09-2025,App Store,Basic,0,2025-09,12-10-2025,0
+1126,24-08-2025,Organic Search,Basic,0,2025-08,,1
+1127,27-08-2025,Paid Social,Standard,0,2025-08,,1
+1128,23-09-2025,Organic Search,Basic,0,2025-09,24-10-2025,0
+1129,06-03-2025,App Store,Premium,0,2025-03,10-05-2025,0
+1130,26-06-2025,Email Campaign,Premium,0,2025-06,27-06-2025,0
+1131,03-01-2025,App Store,Premium,1,2025-01,24-04-2025,0
+1132,22-05-2025,Email Campaign,Basic,1,2025-05,18-06-2025,0
+1133,07-06-2025,Paid Social,Standard,0,2025-06,20-08-2025,0
+1134,26-05-2025,Organic Search,Premium,1,2025-05,,1
+1135,02-06-2025,Referral,Premium,1,2025-06,19-06-2025,0
+1136,12-07-2025,Paid Social,Basic,1,2025-07,,1
+1137,14-03-2025,Referral,Basic,1,2025-03,,1
+1138,20-05-2025,Organic Search,Basic,1,2025-05,,1
+1139,06-07-2025,Organic Search,Standard,0,2025-07,31-07-2025,0
+1140,02-03-2025,Paid Social,Standard,0,2025-03,16-10-2025,0
+1141,17-07-2025,Referral,Standard,0,2025-07,24-07-2025,0
+1142,11-01-2025,Email Campaign,Basic,0,2025-01,23-01-2025,0
+1143,03-03-2025,Organic Search,Basic,1,2025-03,,1
+1144,14-08-2025,Paid Social,Basic,1,2025-08,,1
+1145,02-06-2025,Organic Search,Basic,1,2025-06,10-07-2025,0
+1146,18-07-2025,Organic Search,Basic,1,2025-07,01-09-2025,0
+1147,21-02-2025,Paid Social,Standard,1,2025-02,30-06-2025,0
+1148,17-09-2025,Organic Search,Standard,1,2025-09,,1
+1149,28-02-2025,Organic Search,Standard,0,2025-02,29-03-2025,0
+1150,13-03-2025,Paid Social,Basic,1,2025-03,29-05-2025,0
+1151,28-05-2025,Organic Search,Basic,0,2025-05,06-07-2025,0
+1152,04-03-2025,Organic Search,Basic,1,2025-03,23-09-2025,0
+1153,31-08-2025,Organic Search,Premium,1,2025-08,,1
+1154,17-04-2025,Organic Search,Basic,1,2025-04,08-08-2025,0
+1155,14-08-2025,Organic Search,Standard,0,2025-08,19-08-2025,0
+1156,06-08-2025,Referral,Basic,1,2025-08,,1
+1157,29-08-2025,Organic Search,Premium,1,2025-08,,1
+1158,16-09-2025,Organic Search,Standard,1,2025-09,,1
+1159,19-09-2025,Paid Social,Basic,0,2025-09,,1
+1160,05-01-2025,Referral,Standard,1,2025-01,02-02-2025,0
+1161,18-09-2025,App Store,Basic,0,2025-09,26-10-2025,0
+1162,23-02-2025,Email Campaign,Premium,0,2025-02,11-03-2025,0
+1163,16-02-2025,Email Campaign,Basic,1,2025-02,29-09-2025,0
+1164,03-08-2025,Paid Social,Basic,0,2025-08,09-08-2025,0
+1165,26-06-2025,Referral,Standard,1,2025-06,,1
+1166,09-01-2025,Referral,Standard,1,2025-01,17-07-2025,0
+1167,09-04-2025,Organic Search,Basic,0,2025-04,17-07-2025,0
+1168,20-01-2025,Organic Search,Standard,0,2025-01,11-04-2025,0
+1169,29-08-2025,Organic Search,Basic,1,2025-08,,1
+1170,02-03-2025,App Store,Basic,0,2025-03,27-09-2025,0
+1171,27-06-2025,Paid Social,Standard,0,2025-06,12-09-2025,0
+1172,03-03-2025,Email Campaign,Basic,0,2025-03,,1
+1173,25-05-2025,Paid Social,Basic,1,2025-05,06-09-2025,0
+1174,04-08-2025,Paid Social,Standard,0,2025-08,24-08-2025,0
+1175,03-01-2025,Organic Search,Basic,1,2025-01,,1
+1176,09-06-2025,Organic Search,Standard,1,2025-06,,1
+1177,15-08-2025,Email Campaign,Basic,0,2025-08,26-09-2025,0
+1178,26-09-2025,Referral,Basic,0,2025-09,,1
+1179,30-04-2025,Paid Social,Basic,1,2025-04,,1
+1180,30-03-2025,Email Campaign,Standard,1,2025-03,,1
+1181,09-03-2025,Organic Search,Standard,1,2025-03,,1
+1182,08-04-2025,App Store,Basic,0,2025-04,08-05-2025,0
+1183,24-09-2025,Paid Social,Basic,1,2025-09,,1
+1184,15-04-2025,Paid Social,Premium,1,2025-04,08-05-2025,0
+1185,03-05-2025,Paid Social,Basic,1,2025-05,,1
+1186,29-01-2025,Organic Search,Premium,0,2025-01,28-04-2025,0
+1187,17-05-2025,Organic Search,Basic,1,2025-05,,1
+1188,14-07-2025,Referral,Standard,0,2025-07,,1
+1189,14-08-2025,App Store,Basic,0,2025-08,04-09-2025,0
+1190,19-06-2025,Email Campaign,Premium,1,2025-06,,1
+1191,09-01-2025,Organic Search,Standard,1,2025-01,,1
+1192,09-02-2025,Paid Social,Basic,1,2025-02,03-05-2025,0
+1193,25-01-2025,Organic Search,Basic,0,2025-01,23-04-2025,0
+1194,18-09-2025,Organic Search,Standard,1,2025-09,,1
+1195,14-08-2025,Referral,Standard,1,2025-08,03-09-2025,0
+1196,04-05-2025,Paid Social,Basic,1,2025-05,,1
+1197,07-02-2025,Organic Search,Basic,1,2025-02,16-04-2025,0
+1198,08-09-2025,Organic Search,Standard,1,2025-09,,1
+1199,25-06-2025,App Store,Basic,0,2025-06,16-09-2025,0
+1200,31-03-2025,Organic Search,Standard,1,2025-03,,1
+1201,06-02-2025,Paid Social,Basic,0,2025-02,22-02-2025,0
+1202,25-06-2025,Paid Social,Premium,0,2025-06,01-07-2025,0
+1203,22-03-2025,Organic Search,Premium,1,2025-03,,1
+1204,24-04-2025,Organic Search,Premium,1,2025-04,19-05-2025,0
+1205,09-02-2025,Paid Social,Basic,0,2025-02,16-03-2025,0
+1206,12-08-2025,Email Campaign,Premium,0,2025-08,29-08-2025,0
+1207,25-04-2025,Paid Social,Basic,1,2025-04,13-06-2025,0
+1208,05-07-2025,Referral,Standard,0,2025-07,02-08-2025,0
+1209,25-02-2025,App Store,Standard,1,2025-02,28-02-2025,0
+1210,09-02-2025,Email Campaign,Basic,1,2025-02,09-08-2025,0
+1211,09-02-2025,Paid Social,Premium,0,2025-02,31-07-2025,0
+1212,25-08-2025,Paid Social,Basic,1,2025-08,12-09-2025,0
+1213,19-09-2025,Referral,Standard,1,2025-09,,1
+1214,04-08-2025,Referral,Standard,1,2025-08,,1
+1215,27-05-2025,Paid Social,Standard,1,2025-05,,1
+1216,17-06-2025,Referral,Basic,0,2025-06,04-08-2025,0
+1217,02-04-2025,Organic Search,Basic,0,2025-04,26-07-2025,0
+1218,28-02-2025,Paid Social,Standard,0,2025-02,30-03-2025,0
+1219,28-02-2025,Organic Search,Basic,0,2025-02,,1
+1220,18-06-2025,Organic Search,Basic,1,2025-06,,1
+1221,26-09-2025,Organic Search,Basic,1,2025-09,,1
+1222,14-02-2025,Referral,Basic,1,2025-02,20-07-2025,0
+1223,30-06-2025,Paid Social,Premium,1,2025-06,07-10-2025,0
+1224,19-06-2025,Organic Search,Basic,1,2025-06,23-10-2025,0
+1225,10-07-2025,Paid Social,Standard,0,2025-07,03-10-2025,0
+1226,04-06-2025,Paid Social,Basic,0,2025-06,26-06-2025,0
+1227,07-07-2025,Organic Search,Basic,1,2025-07,05-10-2025,0
+1228,07-01-2025,Referral,Basic,0,2025-01,23-02-2025,0
+1229,13-05-2025,Email Campaign,Basic,1,2025-05,,1
+1230,23-08-2025,Email Campaign,Basic,1,2025-08,22-09-2025,0
+1231,14-02-2025,Referral,Standard,0,2025-02,18-06-2025,0
+1232,06-09-2025,Paid Social,Basic,1,2025-09,20-10-2025,0
+1233,31-01-2025,Organic Search,Basic,1,2025-01,12-10-2025,0
+1234,23-01-2025,Organic Search,Basic,0,2025-01,30-01-2025,0
+1235,09-06-2025,Organic Search,Basic,0,2025-06,,1
+1236,07-06-2025,App Store,Premium,0,2025-06,17-06-2025,0
+1237,08-02-2025,Organic Search,Standard,0,2025-02,15-02-2025,0
+1238,23-03-2025,Organic Search,Basic,0,2025-03,09-04-2025,0
+1239,15-09-2025,App Store,Basic,1,2025-09,24-09-2025,0
+1240,25-07-2025,App Store,Premium,1,2025-07,,1
+1241,18-03-2025,Email Campaign,Basic,1,2025-03,,1
+1242,12-01-2025,Organic Search,Standard,1,2025-01,,1
+1243,12-08-2025,Organic Search,Basic,1,2025-08,16-10-2025,0
+1244,13-01-2025,Paid Social,Premium,0,2025-01,14-02-2025,0
+1245,15-02-2025,Organic Search,Premium,1,2025-02,17-06-2025,0
+1246,04-06-2025,Organic Search,Standard,1,2025-06,01-08-2025,0
+1247,23-04-2025,Paid Social,Basic,0,2025-04,04-08-2025,0
+1248,21-08-2025,App Store,Basic,1,2025-08,,1
+1249,17-01-2025,Paid Social,Basic,1,2025-01,07-03-2025,0
+1250,11-08-2025,Referral,Basic,0,2025-08,,1
+1251,07-07-2025,Referral,Basic,0,2025-07,28-08-2025,0
+1252,12-06-2025,Organic Search,Basic,1,2025-06,,1
+1253,15-03-2025,Referral,Standard,1,2025-03,29-08-2025,0
+1254,21-08-2025,Organic Search,Standard,1,2025-08,,1
+1255,12-08-2025,Organic Search,Basic,1,2025-08,,1
+1256,01-03-2025,Email Campaign,Basic,1,2025-03,30-05-2025,0
+1257,10-08-2025,Organic Search,Premium,0,2025-08,,1
+1258,06-02-2025,App Store,Basic,1,2025-02,26-03-2025,0
+1259,15-07-2025,Organic Search,Standard,1,2025-07,,1
+1260,30-08-2025,Referral,Basic,1,2025-08,,1
+1261,07-08-2025,Paid Social,Basic,0,2025-08,20-09-2025,0
+1262,11-07-2025,Organic Search,Basic,0,2025-07,09-09-2025,0
+1263,17-01-2025,Organic Search,Basic,1,2025-01,04-08-2025,0
+1264,12-01-2025,Referral,Standard,1,2025-01,18-02-2025,0
+1265,12-07-2025,Email Campaign,Standard,1,2025-07,,1
+1266,22-01-2025,Email Campaign,Basic,1,2025-01,12-08-2025,0
+1267,30-04-2025,Paid Social,Premium,1,2025-04,04-10-2025,0
+1268,29-07-2025,Email Campaign,Basic,1,2025-07,,1
+1269,27-09-2025,Referral,Premium,1,2025-09,24-10-2025,0
+1270,11-07-2025,Email Campaign,Premium,1,2025-07,,1
+1271,24-06-2025,Paid Social,Basic,1,2025-06,06-10-2025,0
+1272,23-07-2025,Referral,Basic,1,2025-07,,1
+1273,13-06-2025,Email Campaign,Basic,1,2025-06,,1
+1274,08-09-2025,Paid Social,Standard,1,2025-09,,1
+1275,15-08-2025,Email Campaign,Standard,0,2025-08,,1
+1276,07-01-2025,Referral,Premium,0,2025-01,04-10-2025,0
+1277,29-01-2025,Organic Search,Standard,1,2025-01,,1
+1278,02-02-2025,Organic Search,Basic,1,2025-02,,1
+1279,14-05-2025,Paid Social,Basic,1,2025-05,27-05-2025,0
+1280,20-03-2025,Paid Social,Standard,1,2025-03,28-03-2025,0
+1281,27-02-2025,Email Campaign,Basic,0,2025-02,25-06-2025,0
+1282,26-01-2025,Organic Search,Standard,1,2025-01,,1
+1283,14-08-2025,Email Campaign,Basic,0,2025-08,,1
+1284,04-01-2025,App Store,Basic,0,2025-01,08-02-2025,0
+1285,09-04-2025,Organic Search,Basic,0,2025-04,23-10-2025,0
+1286,08-02-2025,App Store,Standard,0,2025-02,19-06-2025,0
+1287,28-09-2025,App Store,Basic,1,2025-09,,1
+1288,06-06-2025,Email Campaign,Standard,0,2025-06,13-09-2025,0
+1289,16-03-2025,Email Campaign,Basic,0,2025-03,18-06-2025,0
+1290,10-05-2025,App Store,Standard,0,2025-05,10-07-2025,0
+1291,24-06-2025,Referral,Standard,1,2025-06,19-10-2025,0
+1292,25-03-2025,Paid Social,Basic,0,2025-03,13-05-2025,0
+1293,22-01-2025,Email Campaign,Standard,1,2025-01,30-05-2025,0
+1294,27-01-2025,Referral,Basic,0,2025-01,26-02-2025,0
+1295,14-07-2025,Referral,Basic,1,2025-07,,1
+1296,24-08-2025,Organic Search,Basic,0,2025-08,,1
+1297,02-04-2025,Email Campaign,Standard,1,2025-04,18-05-2025,0
+1298,21-01-2025,Organic Search,Premium,1,2025-01,10-10-2025,0
+1299,25-03-2025,App Store,Standard,1,2025-03,09-06-2025,0
+1300,19-09-2025,Paid Social,Standard,1,2025-09,,1
+1301,27-05-2025,Organic Search,Standard,1,2025-05,,1
+1302,14-09-2025,Paid Social,Basic,1,2025-09,26-09-2025,0
+1303,27-02-2025,Organic Search,Premium,0,2025-02,01-03-2025,0
+1304,15-01-2025,Referral,Basic,0,2025-01,10-05-2025,0
+1305,11-06-2025,App Store,Premium,0,2025-06,01-07-2025,0
+1306,12-06-2025,Email Campaign,Standard,1,2025-06,,1
+1307,12-01-2025,Organic Search,Standard,1,2025-01,,1
+1308,28-09-2025,Organic Search,Standard,1,2025-09,15-10-2025,0
+1309,27-07-2025,Email Campaign,Basic,0,2025-07,12-09-2025,0
+1310,27-01-2025,App Store,Standard,0,2025-01,25-05-2025,0
+1311,13-03-2025,Paid Social,Basic,1,2025-03,01-06-2025,0
+1312,01-03-2025,Paid Social,Standard,1,2025-03,,1
+1313,25-05-2025,Paid Social,Standard,0,2025-05,05-08-2025,0
+1314,03-04-2025,App Store,Premium,0,2025-04,26-08-2025,0
+1315,08-01-2025,Referral,Standard,0,2025-01,19-06-2025,0
+1316,20-03-2025,Organic Search,Basic,0,2025-03,16-10-2025,0
+1317,27-01-2025,Organic Search,Basic,1,2025-01,21-04-2025,0
+1318,23-06-2025,App Store,Standard,1,2025-06,,1
+1319,19-02-2025,Organic Search,Basic,1,2025-02,22-06-2025,0
+1320,18-07-2025,Paid Social,Basic,1,2025-07,14-08-2025,0
+1321,30-06-2025,Referral,Standard,1,2025-06,,1
+1322,24-01-2025,Organic Search,Standard,1,2025-01,,1
+1323,15-02-2025,Organic Search,Standard,1,2025-02,,1
+1324,15-01-2025,Email Campaign,Basic,1,2025-01,,1
+1325,02-06-2025,App Store,Standard,1,2025-06,30-08-2025,0
+1326,10-08-2025,Email Campaign,Basic,1,2025-08,14-08-2025,0
+1327,25-07-2025,App Store,Standard,1,2025-07,08-08-2025,0
+1328,24-08-2025,Referral,Basic,0,2025-08,16-09-2025,0
+1329,16-08-2025,Email Campaign,Premium,0,2025-08,22-08-2025,0
+1330,09-01-2025,Paid Social,Basic,1,2025-01,,1
+1331,15-06-2025,Referral,Basic,1,2025-06,,1
+1332,02-08-2025,App Store,Standard,1,2025-08,31-08-2025,0
+1333,27-04-2025,Organic Search,Standard,0,2025-04,05-05-2025,0
+1334,13-03-2025,Paid Social,Basic,1,2025-03,,1
+1335,05-03-2025,Paid Social,Standard,1,2025-03,15-06-2025,0
+1336,24-07-2025,Organic Search,Basic,0,2025-07,,1
+1337,28-07-2025,Organic Search,Premium,1,2025-07,08-10-2025,0
+1338,13-03-2025,Email Campaign,Standard,1,2025-03,30-04-2025,0
+1339,05-04-2025,App Store,Basic,1,2025-04,20-10-2025,0
+1340,15-06-2025,Paid Social,Standard,1,2025-06,29-10-2025,0
+1341,01-02-2025,Organic Search,Basic,1,2025-02,05-02-2025,0
+1342,11-01-2025,Organic Search,Basic,0,2025-01,26-06-2025,0
+1343,05-08-2025,App Store,Premium,1,2025-08,,1
+1344,12-04-2025,Paid Social,Standard,0,2025-04,28-04-2025,0
+1345,24-09-2025,Paid Social,Basic,1,2025-09,,1
+1346,02-08-2025,Paid Social,Basic,1,2025-08,,1
+1347,28-06-2025,Paid Social,Basic,1,2025-06,17-08-2025,0
+1348,29-03-2025,Paid Social,Premium,1,2025-03,05-09-2025,0
+1349,10-02-2025,App Store,Basic,1,2025-02,27-02-2025,0
+1350,17-03-2025,Referral,Basic,1,2025-03,23-06-2025,0
+1351,15-02-2025,Referral,Basic,0,2025-02,13-05-2025,0
+1352,09-06-2025,Paid Social,Basic,1,2025-06,,1
+1353,21-03-2025,Email Campaign,Basic,1,2025-03,02-04-2025,0
+1354,27-03-2025,Referral,Basic,1,2025-03,17-04-2025,0
+1355,02-04-2025,Organic Search,Basic,1,2025-04,,1
+1356,28-05-2025,Referral,Basic,1,2025-05,17-08-2025,0
+1357,10-06-2025,Organic Search,Premium,1,2025-06,,1
+1358,21-07-2025,Email Campaign,Basic,1,2025-07,,1
+1359,30-08-2025,Paid Social,Standard,1,2025-08,,1
+1360,02-01-2025,App Store,Standard,0,2025-01,18-03-2025,0
+1361,13-08-2025,Organic Search,Standard,1,2025-08,,1
+1362,21-08-2025,Email Campaign,Premium,1,2025-08,,1
+1363,18-03-2025,Referral,Basic,0,2025-03,29-03-2025,0
+1364,26-04-2025,Email Campaign,Basic,0,2025-04,08-08-2025,0
+1365,03-06-2025,Paid Social,Basic,0,2025-06,17-10-2025,0
+1366,13-04-2025,Paid Social,Basic,1,2025-04,,1
+1367,13-07-2025,Email Campaign,Standard,0,2025-07,17-07-2025,0
+1368,15-06-2025,Organic Search,Standard,1,2025-06,,1
+1369,31-03-2025,Organic Search,Premium,1,2025-03,,1
+1370,23-06-2025,Referral,Basic,0,2025-06,16-10-2025,0
+1371,02-05-2025,Paid Social,Premium,1,2025-05,,1
+1372,23-05-2025,Organic Search,Basic,0,2025-05,18-10-2025,0
+1373,16-04-2025,Organic Search,Basic,0,2025-04,02-06-2025,0
+1374,03-05-2025,Organic Search,Basic,0,2025-05,08-05-2025,0
+1375,09-01-2025,Email Campaign,Standard,0,2025-01,19-03-2025,0
+1376,19-09-2025,Referral,Basic,1,2025-09,,1
+1377,14-03-2025,Email Campaign,Premium,1,2025-03,,1
+1378,11-08-2025,App Store,Premium,0,2025-08,20-09-2025,0
+1379,10-02-2025,Paid Social,Premium,0,2025-02,16-03-2025,0
+1380,23-07-2025,Organic Search,Basic,0,2025-07,,1
+1381,21-09-2025,Organic Search,Premium,0,2025-09,,1
+1382,27-06-2025,Organic Search,Standard,0,2025-06,,1
+1383,25-03-2025,App Store,Basic,0,2025-03,30-07-2025,0
+1384,21-04-2025,Paid Social,Basic,1,2025-04,31-07-2025,0
+1385,08-09-2025,Organic Search,Basic,1,2025-09,,1
+1386,07-01-2025,Paid Social,Basic,0,2025-01,11-05-2025,0
+1387,25-03-2025,Referral,Standard,1,2025-03,19-10-2025,0
+1388,27-07-2025,Referral,Premium,1,2025-07,24-09-2025,0
+1389,22-01-2025,Organic Search,Basic,1,2025-01,13-08-2025,0
+1390,03-01-2025,App Store,Standard,0,2025-01,12-01-2025,0
+1391,07-05-2025,Paid Social,Premium,0,2025-05,02-07-2025,0
+1392,07-07-2025,Organic Search,Basic,0,2025-07,23-08-2025,0
+1393,14-01-2025,App Store,Premium,1,2025-01,10-03-2025,0
+1394,12-01-2025,Organic Search,Standard,0,2025-01,18-01-2025,0
+1395,28-03-2025,App Store,Standard,1,2025-03,13-04-2025,0
+1396,12-01-2025,App Store,Basic,1,2025-01,14-07-2025,0
+1397,25-01-2025,Email Campaign,Standard,1,2025-01,26-01-2025,0
+1398,31-08-2025,Email Campaign,Basic,1,2025-08,,1
+1399,02-05-2025,Paid Social,Standard,1,2025-05,23-05-2025,0
+1400,27-05-2025,App Store,Basic,0,2025-05,14-06-2025,0
+1401,24-02-2025,Paid Social,Premium,1,2025-02,,1
+1402,26-08-2025,Email Campaign,Basic,0,2025-08,03-10-2025,0
+1403,22-06-2025,App Store,Basic,1,2025-06,,1
+1404,09-08-2025,App Store,Standard,1,2025-08,10-09-2025,0
+1405,29-04-2025,Email Campaign,Basic,1,2025-04,14-05-2025,0
+1406,02-07-2025,Paid Social,Standard,1,2025-07,10-08-2025,0
+1407,23-03-2025,App Store,Premium,1,2025-03,26-05-2025,0
+1408,30-07-2025,Referral,Standard,1,2025-07,,1
+1409,30-05-2025,App Store,Basic,1,2025-05,03-09-2025,0
+1410,06-02-2025,Referral,Standard,1,2025-02,29-09-2025,0
+1411,28-02-2025,Paid Social,Standard,0,2025-02,21-06-2025,0
+1412,11-05-2025,Paid Social,Standard,1,2025-05,,1
+1413,21-07-2025,Referral,Basic,1,2025-07,,1
+1414,31-08-2025,Email Campaign,Basic,0,2025-08,,1
+1415,04-02-2025,Paid Social,Standard,1,2025-02,,1
+1416,03-04-2025,Referral,Basic,0,2025-04,,1
+1417,26-07-2025,Paid Social,Basic,0,2025-07,,1
+1418,01-08-2025,Email Campaign,Basic,1,2025-08,,1
+1419,08-06-2025,Paid Social,Standard,0,2025-06,10-10-2025,0
+1420,24-01-2025,Organic Search,Premium,0,2025-01,05-03-2025,0
+1421,04-01-2025,Organic Search,Standard,0,2025-01,30-08-2025,0
+1422,08-08-2025,Organic Search,Basic,0,2025-08,18-08-2025,0
+1423,20-01-2025,Paid Social,Basic,1,2025-01,,1
+1424,01-06-2025,Organic Search,Premium,0,2025-06,,1
+1425,19-02-2025,Organic Search,Premium,1,2025-02,,1
+1426,26-06-2025,App Store,Premium,1,2025-06,22-07-2025,0
+1427,06-04-2025,App Store,Standard,1,2025-04,06-05-2025,0
+1428,15-04-2025,Paid Social,Basic,1,2025-04,19-06-2025,0
+1429,07-09-2025,App Store,Standard,1,2025-09,17-09-2025,0
+1430,27-04-2025,Organic Search,Basic,0,2025-04,23-05-2025,0
+1431,16-08-2025,Referral,Basic,0,2025-08,29-09-2025,0
+1432,07-03-2025,Referral,Standard,1,2025-03,,1
+1433,19-09-2025,Paid Social,Basic,0,2025-09,,1
+1434,31-08-2025,Paid Social,Basic,0,2025-08,04-09-2025,0
+1435,05-07-2025,Paid Social,Basic,1,2025-07,26-07-2025,0
+1436,03-09-2025,Paid Social,Basic,1,2025-09,,1
+1437,05-05-2025,Email Campaign,Premium,0,2025-05,21-07-2025,0
+1438,25-09-2025,Organic Search,Basic,1,2025-09,,1
+1439,11-05-2025,Organic Search,Basic,0,2025-05,,1
+1440,25-08-2025,Organic Search,Basic,0,2025-08,,1
+1441,18-01-2025,Organic Search,Basic,1,2025-01,22-02-2025,0
+1442,09-02-2025,Paid Social,Basic,1,2025-02,12-10-2025,0
+1443,21-01-2025,Organic Search,Standard,1,2025-01,10-09-2025,0
+1444,13-08-2025,App Store,Basic,1,2025-08,,1
+1445,08-01-2025,Organic Search,Standard,1,2025-01,09-08-2025,0
+1446,10-04-2025,Organic Search,Premium,0,2025-04,30-07-2025,0
+1447,28-08-2025,Referral,Standard,1,2025-08,,1
+1448,28-03-2025,Organic Search,Basic,0,2025-03,02-04-2025,0
+1449,14-01-2025,Referral,Basic,1,2025-01,,1
+1450,02-01-2025,Referral,Premium,0,2025-01,30-01-2025,0
+1451,10-02-2025,Organic Search,Standard,0,2025-02,23-02-2025,0
+1452,21-04-2025,Organic Search,Standard,0,2025-04,24-09-2025,0
+1453,14-01-2025,Paid Social,Premium,0,2025-01,08-02-2025,0
+1454,19-08-2025,Organic Search,Premium,1,2025-08,,1
+1455,25-03-2025,Organic Search,Premium,0,2025-03,20-08-2025,0
+1456,10-05-2025,Organic Search,Standard,0,2025-05,08-07-2025,0
+1457,19-08-2025,Organic Search,Basic,1,2025-08,,1
+1458,25-05-2025,Paid Social,Premium,0,2025-05,08-10-2025,0
+1459,28-01-2025,Referral,Standard,0,2025-01,27-08-2025,0
+1460,07-03-2025,Referral,Basic,1,2025-03,,1
+1461,12-06-2025,Organic Search,Standard,1,2025-06,05-07-2025,0
+1462,17-08-2025,Organic Search,Standard,0,2025-08,,1
+1463,18-09-2025,App Store,Premium,0,2025-09,07-10-2025,0
+1464,13-06-2025,Referral,Standard,1,2025-06,12-07-2025,0
+1465,10-01-2025,App Store,Basic,1,2025-01,06-02-2025,0
+1466,14-07-2025,Paid Social,Premium,1,2025-07,,1
+1467,28-04-2025,Referral,Standard,0,2025-04,,1
+1468,27-09-2025,Paid Social,Standard,0,2025-09,28-09-2025,0
+1469,21-03-2025,Paid Social,Basic,1,2025-03,,1
+1470,03-04-2025,Paid Social,Basic,1,2025-04,07-06-2025,0
+1471,23-09-2025,Paid Social,Standard,1,2025-09,,1
+1472,14-09-2025,Organic Search,Basic,0,2025-09,,1
+1473,13-05-2025,Paid Social,Basic,1,2025-05,,1
+1474,21-09-2025,Email Campaign,Standard,1,2025-09,22-09-2025,0
+1475,20-06-2025,App Store,Basic,1,2025-06,,1
+1476,01-01-2025,Paid Social,Basic,0,2025-01,,1
+1477,05-03-2025,Paid Social,Basic,1,2025-03,08-04-2025,0
+1478,01-05-2025,Organic Search,Basic,1,2025-05,,1
+1479,17-04-2025,Referral,Standard,0,2025-04,24-05-2025,0
+1480,24-06-2025,Paid Social,Basic,1,2025-06,,1
+1481,23-07-2025,App Store,Basic,1,2025-07,22-08-2025,0
+1482,14-06-2025,Paid Social,Standard,0,2025-06,,1
+1483,30-04-2025,Paid Social,Premium,1,2025-04,04-08-2025,0
+1484,13-02-2025,Referral,Standard,1,2025-02,21-06-2025,0
+1485,05-06-2025,Email Campaign,Basic,1,2025-06,20-06-2025,0
+1486,26-07-2025,Paid Social,Basic,0,2025-07,02-08-2025,0
+1487,18-04-2025,Paid Social,Premium,1,2025-04,31-05-2025,0
+1488,08-09-2025,App Store,Basic,0,2025-09,,1
+1489,10-05-2025,Organic Search,Standard,1,2025-05,,1
+1490,20-01-2025,App Store,Basic,1,2025-01,03-04-2025,0
+1491,01-01-2025,Organic Search,Basic,0,2025-01,27-02-2025,0
+1492,29-04-2025,Email Campaign,Standard,0,2025-04,12-07-2025,0
+1493,04-02-2025,Referral,Standard,1,2025-02,29-05-2025,0
+1494,17-07-2025,Paid Social,Standard,0,2025-07,24-10-2025,0
+1495,02-09-2025,App Store,Basic,1,2025-09,,1
+1496,28-02-2025,Organic Search,Basic,1,2025-02,21-05-2025,0
+1497,10-06-2025,Organic Search,Standard,1,2025-06,,1
+1498,28-06-2025,Referral,Standard,1,2025-06,30-10-2025,0
+1499,25-07-2025,Paid Social,Basic,1,2025-07,31-07-2025,0
+1500,12-01-2025,Referral,Basic,1,2025-01,,1
+1501,30-06-2025,Organic Search,Basic,1,2025-06,,1
+1502,30-08-2025,Organic Search,Premium,1,2025-08,,1
+1503,04-08-2025,Organic Search,Standard,0,2025-08,18-09-2025,0
+1504,08-09-2025,Organic Search,Premium,0,2025-09,25-09-2025,0
+1505,06-05-2025,Paid Social,Basic,0,2025-05,23-05-2025,0
+1506,05-08-2025,Email Campaign,Premium,1,2025-08,26-10-2025,0
+1507,04-07-2025,App Store,Basic,1,2025-07,,1
+1508,08-02-2025,Email Campaign,Standard,0,2025-02,05-08-2025,0
+1509,11-08-2025,Organic Search,Standard,0,2025-08,21-09-2025,0
+1510,03-07-2025,Paid Social,Basic,1,2025-07,05-10-2025,0
+1511,27-06-2025,Organic Search,Basic,0,2025-06,,1
+1512,31-05-2025,Organic Search,Basic,0,2025-05,12-07-2025,0
+1513,06-05-2025,Paid Social,Basic,0,2025-05,26-06-2025,0
+1514,22-08-2025,Organic Search,Standard,1,2025-08,15-10-2025,0
+1515,08-01-2025,Organic Search,Standard,1,2025-01,05-07-2025,0
+1516,09-05-2025,App Store,Standard,1,2025-05,21-09-2025,0
+1517,21-09-2025,Paid Social,Standard,1,2025-09,,1
+1518,06-06-2025,Paid Social,Standard,1,2025-06,03-09-2025,0
+1519,05-01-2025,Organic Search,Basic,1,2025-01,13-08-2025,0
+1520,27-03-2025,Organic Search,Basic,0,2025-03,24-05-2025,0
+1521,24-06-2025,App Store,Premium,1,2025-06,,1
+1522,12-07-2025,Organic Search,Basic,1,2025-07,13-08-2025,0
+1523,29-04-2025,Paid Social,Standard,0,2025-04,26-05-2025,0
+1524,06-08-2025,Organic Search,Basic,0,2025-08,24-10-2025,0
+1525,24-04-2025,Paid Social,Standard,0,2025-04,22-10-2025,0
+1526,25-05-2025,Organic Search,Standard,1,2025-05,,1
+1527,26-01-2025,Email Campaign,Basic,0,2025-01,10-02-2025,0
+1528,16-05-2025,Email Campaign,Basic,1,2025-05,22-07-2025,0
+1529,20-08-2025,Email Campaign,Standard,1,2025-08,,1
+1530,17-03-2025,Organic Search,Basic,0,2025-03,01-08-2025,0
+1531,01-01-2025,Email Campaign,Basic,1,2025-01,22-07-2025,0
+1532,27-05-2025,Paid Social,Standard,1,2025-05,,1
+1533,22-05-2025,Paid Social,Basic,1,2025-05,28-07-2025,0
+1534,22-02-2025,Referral,Premium,1,2025-02,10-03-2025,0
+1535,10-03-2025,Organic Search,Standard,1,2025-03,07-06-2025,0
+1536,31-03-2025,Organic Search,Basic,0,2025-03,,1
+1537,08-08-2025,Email Campaign,Standard,1,2025-08,,1
+1538,11-07-2025,Organic Search,Standard,0,2025-07,06-08-2025,0
+1539,04-03-2025,Referral,Basic,1,2025-03,05-03-2025,0
+1540,14-03-2025,Paid Social,Basic,1,2025-03,11-04-2025,0
+1541,10-06-2025,App Store,Basic,1,2025-06,,1
+1542,18-06-2025,App Store,Basic,1,2025-06,23-06-2025,0
+1543,30-03-2025,App Store,Basic,0,2025-03,,1
+1544,25-06-2025,Organic Search,Basic,1,2025-06,04-08-2025,0
+1545,26-09-2025,Organic Search,Basic,1,2025-09,,1
+1546,14-03-2025,Paid Social,Standard,0,2025-03,29-06-2025,0
+1547,02-09-2025,Organic Search,Standard,1,2025-09,,1
+1548,18-03-2025,Organic Search,Standard,0,2025-03,26-03-2025,0
+1549,08-06-2025,Referral,Standard,0,2025-06,08-09-2025,0
+1550,08-04-2025,Paid Social,Standard,1,2025-04,03-08-2025,0
+1551,12-04-2025,App Store,Standard,1,2025-04,17-09-2025,0
+1552,12-05-2025,Organic Search,Standard,1,2025-05,06-08-2025,0
+1553,12-04-2025,Organic Search,Basic,0,2025-04,09-05-2025,0
+1554,19-01-2025,Organic Search,Premium,1,2025-01,,1
+1555,23-03-2025,App Store,Basic,1,2025-03,,1
+1556,09-05-2025,Email Campaign,Basic,1,2025-05,29-05-2025,0
+1557,30-03-2025,Email Campaign,Standard,1,2025-03,,1
+1558,01-08-2025,App Store,Basic,1,2025-08,06-09-2025,0
+1559,23-05-2025,Paid Social,Basic,0,2025-05,28-07-2025,0
+1560,06-03-2025,Paid Social,Standard,1,2025-03,,1
+1561,17-03-2025,Paid Social,Standard,0,2025-03,,1
+1562,18-07-2025,Referral,Standard,0,2025-07,,1
+1563,23-05-2025,Paid Social,Standard,1,2025-05,,1
+1564,03-04-2025,Paid Social,Basic,1,2025-04,23-07-2025,0
+1565,12-08-2025,App Store,Basic,1,2025-08,15-09-2025,0
+1566,12-04-2025,App Store,Standard,0,2025-04,30-05-2025,0
+1567,24-09-2025,Email Campaign,Basic,1,2025-09,02-10-2025,0
+1568,20-04-2025,Email Campaign,Standard,0,2025-04,11-06-2025,0
+1569,22-09-2025,Referral,Basic,1,2025-09,,1
+1570,03-01-2025,Organic Search,Basic,1,2025-01,12-04-2025,0
+1571,26-03-2025,Organic Search,Standard,0,2025-03,05-07-2025,0
+1572,27-04-2025,Referral,Standard,1,2025-04,09-08-2025,0
+1573,09-08-2025,Email Campaign,Standard,0,2025-08,30-10-2025,0
+1574,03-06-2025,Organic Search,Basic,1,2025-06,,1
+1575,02-06-2025,App Store,Basic,1,2025-06,09-10-2025,0
+1576,12-01-2025,Organic Search,Basic,1,2025-01,14-04-2025,0
+1577,13-05-2025,Organic Search,Basic,0,2025-05,13-10-2025,0
+1578,16-08-2025,Referral,Basic,1,2025-08,,1
+1579,28-09-2025,Organic Search,Basic,0,2025-09,,1
+1580,12-02-2025,Organic Search,Standard,1,2025-02,28-03-2025,0
+1581,21-01-2025,Paid Social,Basic,1,2025-01,13-03-2025,0
+1582,17-04-2025,Email Campaign,Standard,1,2025-04,,1
+1583,27-04-2025,Paid Social,Premium,1,2025-04,22-05-2025,0
+1584,04-05-2025,Referral,Basic,1,2025-05,,1
+1585,22-07-2025,Referral,Basic,1,2025-07,29-09-2025,0
+1586,20-02-2025,Organic Search,Basic,0,2025-02,30-05-2025,0
+1587,28-09-2025,App Store,Standard,1,2025-09,,1
+1588,21-05-2025,Organic Search,Basic,1,2025-05,,1
+1589,21-02-2025,App Store,Basic,1,2025-02,16-09-2025,0
+1590,27-01-2025,Paid Social,Standard,0,2025-01,15-02-2025,0
+1591,06-06-2025,App Store,Basic,1,2025-06,15-07-2025,0
+1592,27-08-2025,Organic Search,Standard,1,2025-08,,1
+1593,05-06-2025,Paid Social,Standard,1,2025-06,,1
+1594,16-05-2025,Organic Search,Standard,0,2025-05,14-08-2025,0
+1595,24-05-2025,Organic Search,Basic,0,2025-05,27-07-2025,0
+1596,16-04-2025,Referral,Premium,1,2025-04,,1
+1597,07-06-2025,Organic Search,Standard,1,2025-06,,1
+1598,26-05-2025,Referral,Basic,0,2025-05,06-06-2025,0
+1599,02-01-2025,Organic Search,Basic,0,2025-01,,1
+1600,18-03-2025,Paid Social,Basic,0,2025-03,12-04-2025,0
+1601,12-05-2025,Email Campaign,Standard,0,2025-05,06-07-2025,0
+1602,31-03-2025,Paid Social,Standard,0,2025-03,07-04-2025,0
+1603,20-09-2025,Referral,Standard,0,2025-09,21-10-2025,0
+1604,18-04-2025,Referral,Premium,1,2025-04,10-06-2025,0
+1605,15-03-2025,Email Campaign,Basic,1,2025-03,,1
+1606,08-02-2025,Paid Social,Basic,1,2025-02,01-04-2025,0
+1607,08-06-2025,Referral,Premium,0,2025-06,20-06-2025,0
+1608,12-03-2025,App Store,Standard,0,2025-03,16-03-2025,0
+1609,29-08-2025,Email Campaign,Basic,0,2025-08,07-09-2025,0
+1610,05-02-2025,Paid Social,Standard,1,2025-02,29-06-2025,0
+1611,25-03-2025,Referral,Premium,1,2025-03,,1
+1612,20-09-2025,Email Campaign,Standard,1,2025-09,,1
+1613,21-06-2025,Referral,Standard,1,2025-06,22-07-2025,0
+1614,22-06-2025,Organic Search,Standard,1,2025-06,08-09-2025,0
+1615,16-02-2025,Organic Search,Basic,0,2025-02,30-03-2025,0
+1616,21-05-2025,Email Campaign,Standard,1,2025-05,,1
+1617,28-04-2025,Organic Search,Basic,1,2025-04,21-08-2025,0
+1618,02-08-2025,Email Campaign,Premium,1,2025-08,,1
+1619,08-08-2025,Paid Social,Basic,1,2025-08,,1
+1620,26-01-2025,Paid Social,Standard,0,2025-01,07-09-2025,0
+1621,09-01-2025,Organic Search,Basic,1,2025-01,01-05-2025,0
+1622,28-09-2025,Organic Search,Basic,1,2025-09,,1
+1623,10-01-2025,App Store,Basic,1,2025-01,23-01-2025,0
+1624,01-05-2025,App Store,Premium,1,2025-05,,1
+1625,05-05-2025,Referral,Premium,1,2025-05,16-10-2025,0
+1626,19-06-2025,Paid Social,Basic,1,2025-06,,1
+1627,13-03-2025,Referral,Premium,1,2025-03,,1
+1628,01-06-2025,Referral,Standard,1,2025-06,21-07-2025,0
+1629,27-07-2025,Referral,Standard,1,2025-07,,1
+1630,18-02-2025,Organic Search,Basic,1,2025-02,,1
+1631,03-06-2025,Referral,Premium,1,2025-06,,1
+1632,09-03-2025,Email Campaign,Standard,0,2025-03,18-04-2025,0
+1633,19-02-2025,App Store,Premium,0,2025-02,04-05-2025,0
+1634,01-06-2025,Organic Search,Standard,1,2025-06,,1
+1635,19-01-2025,Email Campaign,Standard,1,2025-01,29-03-2025,0
+1636,10-04-2025,Referral,Standard,1,2025-04,24-09-2025,0
+1637,01-03-2025,Paid Social,Basic,1,2025-03,28-05-2025,0
+1638,16-06-2025,Organic Search,Basic,0,2025-06,18-07-2025,0
+1639,21-07-2025,Paid Social,Basic,0,2025-07,29-07-2025,0
+1640,26-05-2025,Paid Social,Basic,0,2025-05,03-10-2025,0
+1641,13-06-2025,Paid Social,Standard,1,2025-06,17-09-2025,0
+1642,30-08-2025,Email Campaign,Standard,1,2025-08,,1
+1643,10-03-2025,Email Campaign,Premium,0,2025-03,24-03-2025,0
+1644,24-06-2025,Referral,Basic,1,2025-06,,1
+1645,18-02-2025,App Store,Standard,1,2025-02,17-10-2025,0
+1646,18-04-2025,Paid Social,Basic,0,2025-04,16-07-2025,0
+1647,14-08-2025,Organic Search,Basic,0,2025-08,,1
+1648,10-06-2025,Referral,Basic,0,2025-06,22-06-2025,0
+1649,29-04-2025,Organic Search,Standard,1,2025-04,10-07-2025,0
+1650,29-05-2025,Paid Social,Basic,1,2025-05,,1
+1651,30-05-2025,Organic Search,Standard,1,2025-05,17-06-2025,0
+1652,23-05-2025,Organic Search,Basic,1,2025-05,15-09-2025,0
+1653,09-06-2025,Email Campaign,Premium,1,2025-06,,1
+1654,11-01-2025,Organic Search,Standard,0,2025-01,08-10-2025,0
+1655,18-05-2025,Paid Social,Premium,0,2025-05,,1
+1656,19-03-2025,Organic Search,Premium,1,2025-03,09-05-2025,0
+1657,18-03-2025,Referral,Premium,1,2025-03,,1
+1658,11-09-2025,Paid Social,Premium,1,2025-09,,1
+1659,15-09-2025,Email Campaign,Standard,0,2025-09,,1
+1660,20-09-2025,Paid Social,Basic,1,2025-09,13-10-2025,0
+1661,26-03-2025,Organic Search,Basic,0,2025-03,01-08-2025,0
+1662,26-05-2025,Paid Social,Basic,1,2025-05,07-10-2025,0
+1663,11-02-2025,Organic Search,Standard,1,2025-02,24-04-2025,0
+1664,05-05-2025,Paid Social,Standard,0,2025-05,20-07-2025,0
+1665,16-06-2025,Paid Social,Premium,1,2025-06,17-08-2025,0
+1666,29-08-2025,App Store,Premium,1,2025-08,,1
+1667,07-07-2025,Organic Search,Basic,0,2025-07,13-08-2025,0
+1668,19-01-2025,Referral,Standard,1,2025-01,,1
+1669,09-03-2025,Organic Search,Premium,1,2025-03,,1
+1670,06-08-2025,Paid Social,Basic,1,2025-08,,1
+1671,12-04-2025,Paid Social,Standard,1,2025-04,,1
+1672,11-02-2025,App Store,Basic,0,2025-02,10-10-2025,0
+1673,16-06-2025,Organic Search,Standard,0,2025-06,06-07-2025,0
+1674,19-04-2025,Organic Search,Basic,0,2025-04,14-10-2025,0
+1675,05-02-2025,Paid Social,Premium,0,2025-02,09-02-2025,0
+1676,20-08-2025,Organic Search,Standard,1,2025-08,,1
+1677,17-08-2025,Organic Search,Basic,1,2025-08,,1
+1678,13-06-2025,Referral,Basic,0,2025-06,,1
+1679,14-03-2025,Organic Search,Basic,1,2025-03,10-09-2025,0
+1680,16-05-2025,Organic Search,Premium,0,2025-05,31-07-2025,0
+1681,11-03-2025,Email Campaign,Standard,0,2025-03,01-05-2025,0
+1682,15-07-2025,Paid Social,Basic,1,2025-07,13-09-2025,0
+1683,26-09-2025,Organic Search,Basic,1,2025-09,09-10-2025,0
+1684,18-02-2025,Organic Search,Standard,1,2025-02,,1
+1685,10-05-2025,Referral,Standard,0,2025-05,,1
+1686,05-01-2025,Organic Search,Standard,1,2025-01,13-05-2025,0
+1687,27-01-2025,Paid Social,Basic,0,2025-01,24-08-2025,0
+1688,09-06-2025,Organic Search,Standard,1,2025-06,04-07-2025,0
+1689,29-05-2025,Referral,Standard,0,2025-05,,1
+1690,21-09-2025,Paid Social,Premium,1,2025-09,,1
+1691,18-08-2025,Referral,Premium,1,2025-08,,1
+1692,19-07-2025,Email Campaign,Standard,0,2025-07,27-07-2025,0
+1693,19-02-2025,Referral,Standard,0,2025-02,29-03-2025,0
+1694,08-03-2025,Organic Search,Basic,1,2025-03,19-06-2025,0
+1695,27-02-2025,Organic Search,Standard,0,2025-02,30-05-2025,0
+1696,16-09-2025,Paid Social,Basic,0,2025-09,27-09-2025,0
+1697,10-05-2025,Organic Search,Basic,1,2025-05,27-08-2025,0
+1698,03-08-2025,Organic Search,Basic,1,2025-08,,1
+1699,21-06-2025,Email Campaign,Standard,0,2025-06,07-07-2025,0
+1700,15-09-2025,Paid Social,Basic,1,2025-09,,1
+1701,12-04-2025,Paid Social,Basic,1,2025-04,21-09-2025,0
+1702,28-07-2025,Referral,Basic,0,2025-07,13-09-2025,0
+1703,26-04-2025,Referral,Basic,1,2025-04,02-09-2025,0
+1704,21-09-2025,Organic Search,Basic,1,2025-09,,1
+1705,30-05-2025,Email Campaign,Standard,0,2025-05,23-09-2025,0
+1706,05-02-2025,Organic Search,Standard,1,2025-02,,1
+1707,27-07-2025,Email Campaign,Basic,0,2025-07,,1
+1708,16-04-2025,Email Campaign,Premium,0,2025-04,06-05-2025,0
+1709,07-06-2025,Email Campaign,Standard,1,2025-06,16-09-2025,0
+1710,01-05-2025,Referral,Basic,1,2025-05,01-09-2025,0
+1711,24-02-2025,Organic Search,Standard,1,2025-02,,1
+1712,12-01-2025,Paid Social,Premium,1,2025-01,28-05-2025,0
+1713,25-05-2025,Referral,Basic,0,2025-05,18-06-2025,0
+1714,16-05-2025,Paid Social,Basic,0,2025-05,05-08-2025,0
+1715,03-01-2025,App Store,Premium,1,2025-01,16-07-2025,0
+1716,24-05-2025,Paid Social,Standard,1,2025-05,,1
+1717,30-01-2025,Organic Search,Basic,1,2025-01,11-06-2025,0
+1718,25-08-2025,Organic Search,Standard,1,2025-08,24-09-2025,0
+1719,25-04-2025,Paid Social,Standard,1,2025-04,25-06-2025,0
+1720,14-04-2025,Referral,Premium,1,2025-04,19-05-2025,0
+1721,28-04-2025,Email Campaign,Standard,0,2025-04,30-06-2025,0
+1722,05-01-2025,Referral,Basic,1,2025-01,,1
+1723,05-09-2025,Email Campaign,Standard,1,2025-09,16-09-2025,0
+1724,01-05-2025,App Store,Standard,0,2025-05,,1
+1725,29-05-2025,Email Campaign,Basic,1,2025-05,14-10-2025,0
+1726,25-03-2025,Organic Search,Standard,1,2025-03,12-06-2025,0
+1727,19-08-2025,Email Campaign,Standard,1,2025-08,28-10-2025,0
+1728,10-06-2025,Organic Search,Basic,1,2025-06,04-07-2025,0
+1729,29-09-2025,Organic Search,Standard,1,2025-09,,1
+1730,07-02-2025,Referral,Basic,0,2025-02,06-06-2025,0
+1731,14-08-2025,Paid Social,Basic,1,2025-08,,1
+1732,22-05-2025,Organic Search,Basic,0,2025-05,04-10-2025,0
+1733,31-05-2025,Organic Search,Basic,1,2025-05,21-06-2025,0
+1734,24-04-2025,Organic Search,Standard,1,2025-04,,1
+1735,25-08-2025,App Store,Basic,1,2025-08,,1
+1736,07-03-2025,Organic Search,Standard,1,2025-03,07-07-2025,0
+1737,15-09-2025,Organic Search,Basic,1,2025-09,,1
+1738,06-09-2025,Paid Social,Premium,1,2025-09,,1
+1739,29-06-2025,Paid Social,Standard,1,2025-06,,1
+1740,09-07-2025,App Store,Standard,1,2025-07,,1
+1741,03-06-2025,Organic Search,Basic,1,2025-06,,1
+1742,15-07-2025,Paid Social,Basic,1,2025-07,19-08-2025,0
+1743,19-09-2025,Referral,Basic,1,2025-09,,1
+1744,23-05-2025,App Store,Premium,0,2025-05,10-08-2025,0
+1745,11-04-2025,Referral,Basic,0,2025-04,12-06-2025,0
+1746,01-09-2025,Email Campaign,Standard,1,2025-09,,1
+1747,12-01-2025,Organic Search,Standard,1,2025-01,29-08-2025,0
+1748,27-08-2025,Paid Social,Basic,1,2025-08,,1
+1749,18-02-2025,Paid Social,Standard,0,2025-02,19-06-2025,0
+1750,11-02-2025,App Store,Standard,1,2025-02,26-06-2025,0
+1751,15-06-2025,Organic Search,Standard,0,2025-06,22-06-2025,0
+1752,23-03-2025,Organic Search,Basic,1,2025-03,,1
+1753,07-06-2025,Paid Social,Basic,1,2025-06,08-07-2025,0
+1754,04-08-2025,Organic Search,Basic,1,2025-08,,1
+1755,07-06-2025,Organic Search,Standard,1,2025-06,17-09-2025,0
+1756,14-05-2025,App Store,Standard,0,2025-05,11-10-2025,0
+1757,08-03-2025,Paid Social,Basic,1,2025-03,,1
+1758,07-01-2025,Referral,Premium,1,2025-01,10-02-2025,0
+1759,14-01-2025,Email Campaign,Basic,1,2025-01,25-04-2025,0
+1760,14-03-2025,Paid Social,Premium,0,2025-03,01-04-2025,0
+1761,12-06-2025,Organic Search,Premium,1,2025-06,,1
+1762,07-03-2025,Organic Search,Premium,1,2025-03,,1
+1763,10-05-2025,Paid Social,Standard,1,2025-05,29-09-2025,0
+1764,25-07-2025,Referral,Basic,1,2025-07,,1
+1765,13-09-2025,Paid Social,Basic,0,2025-09,,1
+1766,23-09-2025,Organic Search,Standard,1,2025-09,,1
+1767,25-01-2025,Paid Social,Basic,1,2025-01,01-05-2025,0
+1768,10-09-2025,App Store,Basic,1,2025-09,,1
+1769,13-06-2025,Email Campaign,Standard,0,2025-06,29-06-2025,0
+1770,05-04-2025,Email Campaign,Basic,1,2025-04,,1
+1771,27-09-2025,Email Campaign,Premium,1,2025-09,,1
+1772,20-04-2025,Paid Social,Standard,0,2025-04,19-06-2025,0
+1773,26-08-2025,Email Campaign,Standard,1,2025-08,,1
+1774,25-01-2025,Organic Search,Standard,0,2025-01,21-10-2025,0
+1775,21-05-2025,Referral,Premium,1,2025-05,30-10-2025,0
+1776,27-04-2025,Referral,Standard,1,2025-04,,1
+1777,25-01-2025,Organic Search,Standard,0,2025-01,29-03-2025,0
+1778,20-03-2025,Email Campaign,Basic,0,2025-03,25-03-2025,0
+1779,09-03-2025,App Store,Premium,1,2025-03,14-03-2025,0
+1780,22-06-2025,Organic Search,Standard,0,2025-06,,1
+1781,12-01-2025,Email Campaign,Basic,1,2025-01,,1
+1782,08-05-2025,Organic Search,Basic,0,2025-05,,1
+1783,06-04-2025,Referral,Standard,1,2025-04,,1
+1784,02-04-2025,Paid Social,Basic,1,2025-04,,1
+1785,21-05-2025,Paid Social,Premium,0,2025-05,25-05-2025,0
+1786,31-01-2025,App Store,Premium,0,2025-01,,1
+1787,20-01-2025,App Store,Basic,1,2025-01,10-09-2025,0
+1788,26-05-2025,Email Campaign,Standard,1,2025-05,,1
+1789,09-06-2025,Organic Search,Basic,1,2025-06,,1
+1790,12-02-2025,App Store,Standard,1,2025-02,29-03-2025,0
+1791,11-09-2025,Organic Search,Basic,1,2025-09,27-10-2025,0
+1792,10-05-2025,App Store,Standard,1,2025-05,,1
+1793,01-03-2025,Paid Social,Basic,1,2025-03,06-05-2025,0
+1794,31-05-2025,Organic Search,Basic,0,2025-05,26-09-2025,0
+1795,05-01-2025,Referral,Basic,1,2025-01,08-03-2025,0
+1796,23-09-2025,Organic Search,Basic,1,2025-09,,1
+1797,10-05-2025,Organic Search,Standard,1,2025-05,,1
+1798,24-09-2025,Paid Social,Basic,1,2025-09,,1
+1799,27-06-2025,Organic Search,Standard,1,2025-06,,1
+1800,10-09-2025,Organic Search,Premium,1,2025-09,,1
+1801,25-02-2025,Organic Search,Standard,0,2025-02,17-04-2025,0
+1802,24-03-2025,Paid Social,Premium,0,2025-03,21-05-2025,0
+1803,09-04-2025,Organic Search,Premium,0,2025-04,,1
+1804,29-05-2025,Referral,Basic,0,2025-05,10-06-2025,0
+1805,05-06-2025,Organic Search,Basic,0,2025-06,29-09-2025,0
+1806,09-07-2025,App Store,Standard,0,2025-07,17-07-2025,0
+1807,20-09-2025,App Store,Premium,1,2025-09,,1
+1808,21-03-2025,Organic Search,Premium,1,2025-03,05-07-2025,0
+1809,09-09-2025,Email Campaign,Basic,1,2025-09,,1
+1810,07-04-2025,Email Campaign,Basic,1,2025-04,09-06-2025,0
+1811,17-09-2025,App Store,Basic,1,2025-09,,1
+1812,17-09-2025,Referral,Standard,1,2025-09,,1
+1813,13-04-2025,Organic Search,Standard,0,2025-04,24-07-2025,0
+1814,09-02-2025,Referral,Basic,1,2025-02,22-07-2025,0
+1815,11-04-2025,Referral,Basic,1,2025-04,,1
+1816,09-08-2025,Referral,Standard,0,2025-08,,1
+1817,04-05-2025,Paid Social,Standard,1,2025-05,,1
+1818,19-08-2025,App Store,Basic,1,2025-08,,1
+1819,27-06-2025,App Store,Premium,1,2025-06,06-10-2025,0
+1820,04-03-2025,Organic Search,Standard,0,2025-03,,1
+1821,26-04-2025,Organic Search,Standard,1,2025-04,22-05-2025,0
+1822,10-07-2025,Organic Search,Standard,1,2025-07,,1
+1823,03-03-2025,Email Campaign,Basic,1,2025-03,,1
+1824,13-09-2025,Referral,Basic,1,2025-09,13-10-2025,0
+1825,07-01-2025,Referral,Standard,1,2025-01,09-10-2025,0
+1826,04-06-2025,Paid Social,Basic,0,2025-06,25-08-2025,0
+1827,02-04-2025,Referral,Standard,0,2025-04,01-06-2025,0
+1828,14-01-2025,Paid Social,Standard,0,2025-01,11-07-2025,0
+1829,17-08-2025,Paid Social,Standard,0,2025-08,20-08-2025,0
+1830,27-03-2025,Email Campaign,Basic,1,2025-03,07-08-2025,0
+1831,13-05-2025,App Store,Basic,0,2025-05,,1
+1832,02-07-2025,App Store,Standard,1,2025-07,,1
+1833,03-03-2025,App Store,Basic,0,2025-03,22-09-2025,0
+1834,07-08-2025,Paid Social,Standard,1,2025-08,20-08-2025,0
+1835,03-09-2025,Paid Social,Standard,1,2025-09,,1
+1836,18-08-2025,Email Campaign,Basic,1,2025-08,,1
+1837,20-03-2025,App Store,Standard,1,2025-03,08-10-2025,0
+1838,29-05-2025,Organic Search,Basic,1,2025-05,,1
+1839,18-05-2025,Paid Social,Basic,0,2025-05,14-06-2025,0
+1840,06-03-2025,Organic Search,Premium,1,2025-03,18-10-2025,0
+1841,13-01-2025,Referral,Premium,1,2025-01,,1
+1842,01-08-2025,Paid Social,Standard,0,2025-08,24-10-2025,0
+1843,30-08-2025,Paid Social,Premium,1,2025-08,,1
+1844,01-08-2025,Organic Search,Standard,0,2025-08,,1
+1845,30-06-2025,Paid Social,Basic,1,2025-06,06-09-2025,0
+1846,22-06-2025,App Store,Basic,0,2025-06,25-08-2025,0
+1847,09-06-2025,Organic Search,Premium,1,2025-06,,1
+1848,13-06-2025,Referral,Basic,1,2025-06,,1
+1849,07-07-2025,Referral,Standard,1,2025-07,28-08-2025,0
+1850,10-07-2025,App Store,Standard,1,2025-07,24-07-2025,0
+1851,13-09-2025,Organic Search,Standard,0,2025-09,,1
+1852,02-07-2025,App Store,Basic,1,2025-07,25-09-2025,0
+1853,27-04-2025,Referral,Basic,1,2025-04,,1
+1854,15-07-2025,App Store,Basic,1,2025-07,,1
+1855,03-02-2025,App Store,Standard,0,2025-02,11-08-2025,0
+1856,21-02-2025,Organic Search,Standard,1,2025-02,18-06-2025,0
+1857,22-04-2025,Organic Search,Standard,0,2025-04,16-08-2025,0
+1858,09-09-2025,Organic Search,Standard,1,2025-09,,1
+1859,23-03-2025,Paid Social,Basic,1,2025-03,12-04-2025,0
+1860,20-08-2025,Organic Search,Premium,1,2025-08,20-10-2025,0
+1861,15-08-2025,Organic Search,Standard,0,2025-08,14-09-2025,0
+1862,21-08-2025,Paid Social,Basic,0,2025-08,26-08-2025,0
+1863,09-08-2025,Organic Search,Basic,1,2025-08,,1
+1864,11-02-2025,Organic Search,Standard,1,2025-02,11-09-2025,0
+1865,21-01-2025,Paid Social,Premium,0,2025-01,30-01-2025,0
+1866,11-02-2025,Organic Search,Basic,1,2025-02,27-06-2025,0
+1867,23-04-2025,Paid Social,Standard,1,2025-04,24-07-2025,0
+1868,15-04-2025,Paid Social,Basic,1,2025-04,18-07-2025,0
+1869,11-07-2025,Paid Social,Basic,1,2025-07,04-08-2025,0
+1870,17-01-2025,App Store,Standard,1,2025-01,20-04-2025,0
+1871,30-04-2025,Paid Social,Standard,1,2025-04,06-06-2025,0
+1872,09-05-2025,Paid Social,Standard,1,2025-05,14-06-2025,0
+1873,10-05-2025,Paid Social,Basic,0,2025-05,,1
+1874,01-03-2025,Email Campaign,Basic,1,2025-03,28-07-2025,0
+1875,17-02-2025,App Store,Basic,0,2025-02,,1
+1876,29-01-2025,App Store,Basic,1,2025-01,,1
+1877,07-04-2025,Referral,Basic,0,2025-04,11-08-2025,0
+1878,10-01-2025,Organic Search,Basic,1,2025-01,,1
+1879,30-08-2025,Organic Search,Basic,0,2025-08,03-09-2025,0
+1880,20-08-2025,Organic Search,Basic,1,2025-08,,1
+1881,22-07-2025,App Store,Standard,0,2025-07,13-10-2025,0
+1882,04-09-2025,Referral,Basic,1,2025-09,,1
+1883,21-09-2025,Email Campaign,Basic,1,2025-09,,1
+1884,02-08-2025,Paid Social,Standard,0,2025-08,01-10-2025,0
+1885,19-07-2025,Email Campaign,Basic,1,2025-07,04-10-2025,0
+1886,20-03-2025,Organic Search,Standard,1,2025-03,21-07-2025,0
+1887,22-06-2025,Organic Search,Basic,0,2025-06,12-07-2025,0
+1888,10-03-2025,Paid Social,Basic,1,2025-03,14-08-2025,0
+1889,28-03-2025,Referral,Basic,1,2025-03,05-06-2025,0
+1890,11-04-2025,Paid Social,Basic,0,2025-04,09-07-2025,0
+1891,08-01-2025,App Store,Standard,1,2025-01,12-04-2025,0
+1892,19-07-2025,Organic Search,Premium,0,2025-07,10-08-2025,0
+1893,28-03-2025,Referral,Basic,1,2025-03,27-04-2025,0
+1894,12-02-2025,Paid Social,Basic,0,2025-02,05-03-2025,0
+1895,19-04-2025,Organic Search,Standard,1,2025-04,,1
+1896,01-06-2025,Email Campaign,Basic,0,2025-06,,1
+1897,17-01-2025,Email Campaign,Standard,1,2025-01,,1
+1898,13-05-2025,Email Campaign,Basic,1,2025-05,17-07-2025,0
+1899,28-05-2025,App Store,Premium,1,2025-05,24-09-2025,0
+1900,20-08-2025,Email Campaign,Basic,1,2025-08,,1
+1901,16-08-2025,Organic Search,Basic,0,2025-08,,1
+1902,19-05-2025,Email Campaign,Premium,0,2025-05,06-08-2025,0
+1903,30-07-2025,Paid Social,Standard,1,2025-07,,1
+1904,28-01-2025,Organic Search,Standard,0,2025-01,29-06-2025,0
+1905,20-02-2025,Organic Search,Standard,1,2025-02,09-03-2025,0
+1906,18-09-2025,Email Campaign,Standard,1,2025-09,,1
+1907,18-09-2025,Email Campaign,Basic,1,2025-09,19-10-2025,0
+1908,08-01-2025,Organic Search,Standard,1,2025-01,23-09-2025,0
+1909,18-05-2025,Email Campaign,Basic,1,2025-05,31-07-2025,0
+1910,07-02-2025,App Store,Standard,0,2025-02,07-06-2025,0
+1911,21-04-2025,Organic Search,Premium,1,2025-04,,1
+1912,08-08-2025,Organic Search,Basic,0,2025-08,13-09-2025,0
+1913,11-08-2025,Email Campaign,Basic,1,2025-08,28-09-2025,0
+1914,16-05-2025,Organic Search,Basic,0,2025-05,25-09-2025,0
+1915,13-09-2025,Referral,Basic,1,2025-09,,1
+1916,18-02-2025,Organic Search,Premium,1,2025-02,09-03-2025,0
+1917,19-03-2025,Paid Social,Basic,1,2025-03,28-06-2025,0
+1918,15-04-2025,Email Campaign,Basic,0,2025-04,,1
+1919,18-06-2025,Referral,Standard,1,2025-06,,1
+1920,05-08-2025,Email Campaign,Premium,0,2025-08,27-08-2025,0
+1921,29-04-2025,App Store,Standard,1,2025-04,21-05-2025,0
+1922,09-07-2025,Email Campaign,Standard,0,2025-07,25-09-2025,0
+1923,12-09-2025,Referral,Standard,1,2025-09,,1
+1924,23-09-2025,Organic Search,Premium,1,2025-09,,1
+1925,29-05-2025,Paid Social,Standard,1,2025-05,31-07-2025,0
+1926,13-06-2025,Organic Search,Standard,1,2025-06,02-08-2025,0
+1927,20-05-2025,Email Campaign,Basic,1,2025-05,,1
+1928,15-09-2025,Paid Social,Basic,0,2025-09,,1
+1929,26-09-2025,Referral,Standard,0,2025-09,,1
+1930,30-06-2025,Organic Search,Premium,0,2025-06,23-10-2025,0
+1931,09-06-2025,Email Campaign,Premium,1,2025-06,27-10-2025,0
+1932,14-08-2025,App Store,Premium,1,2025-08,16-09-2025,0
+1933,11-01-2025,Paid Social,Standard,0,2025-01,31-01-2025,0
+1934,10-01-2025,App Store,Standard,1,2025-01,,1
+1935,28-09-2025,Organic Search,Standard,0,2025-09,,1
+1936,02-07-2025,Paid Social,Standard,1,2025-07,,1
+1937,02-06-2025,App Store,Basic,0,2025-06,03-06-2025,0
+1938,04-05-2025,Paid Social,Basic,1,2025-05,28-05-2025,0
+1939,24-04-2025,App Store,Premium,0,2025-04,24-05-2025,0
+1940,01-08-2025,Organic Search,Basic,1,2025-08,,1
+1941,21-06-2025,Organic Search,Premium,0,2025-06,,1
+1942,23-06-2025,App Store,Basic,1,2025-06,10-07-2025,0
+1943,23-04-2025,Organic Search,Standard,0,2025-04,04-10-2025,0
+1944,02-05-2025,App Store,Standard,0,2025-05,12-08-2025,0
+1945,01-02-2025,App Store,Standard,1,2025-02,07-05-2025,0
+1946,10-08-2025,Organic Search,Basic,1,2025-08,,1
+1947,29-04-2025,Paid Social,Premium,1,2025-04,13-09-2025,0
+1948,08-02-2025,Organic Search,Standard,1,2025-02,16-08-2025,0
+1949,25-09-2025,Paid Social,Basic,1,2025-09,,1
+1950,21-08-2025,Organic Search,Standard,1,2025-08,,1
+1951,18-01-2025,Organic Search,Basic,1,2025-01,07-06-2025,0
+1952,29-05-2025,Paid Social,Basic,0,2025-05,06-10-2025,0
+1953,29-05-2025,Paid Social,Basic,0,2025-05,,1
+1954,06-05-2025,App Store,Premium,1,2025-05,04-08-2025,0
+1955,26-08-2025,Email Campaign,Standard,0,2025-08,16-09-2025,0
+1956,15-05-2025,Email Campaign,Standard,0,2025-05,12-09-2025,0
+1957,31-05-2025,Paid Social,Basic,1,2025-05,,1
+1958,24-08-2025,Email Campaign,Basic,1,2025-08,,1
+1959,12-08-2025,Paid Social,Premium,1,2025-08,,1
+1960,22-07-2025,Email Campaign,Standard,0,2025-07,,1
+1961,13-09-2025,App Store,Premium,0,2025-09,23-09-2025,0
+1962,27-03-2025,Paid Social,Basic,1,2025-03,13-06-2025,0
+1963,30-05-2025,Referral,Basic,0,2025-05,04-07-2025,0
+1964,23-08-2025,Email Campaign,Premium,1,2025-08,15-09-2025,0
+1965,22-01-2025,App Store,Standard,1,2025-01,08-06-2025,0
+1966,26-09-2025,Email Campaign,Basic,0,2025-09,,1
+1967,15-09-2025,Organic Search,Basic,0,2025-09,,1
+1968,29-01-2025,Paid Social,Standard,1,2025-01,09-05-2025,0
+1969,01-08-2025,Organic Search,Basic,1,2025-08,,1
+1970,19-02-2025,Email Campaign,Standard,0,2025-02,15-09-2025,0
+1971,05-04-2025,Organic Search,Basic,1,2025-04,14-04-2025,0
+1972,29-03-2025,App Store,Basic,0,2025-03,12-10-2025,0
+1973,13-02-2025,Organic Search,Premium,1,2025-02,08-07-2025,0
+1974,20-06-2025,Organic Search,Basic,1,2025-06,,1
+1975,08-07-2025,Paid Social,Standard,1,2025-07,13-07-2025,0
+1976,03-07-2025,Email Campaign,Standard,1,2025-07,28-07-2025,0
+1977,03-01-2025,Organic Search,Basic,0,2025-01,12-01-2025,0
+1978,10-07-2025,Paid Social,Basic,1,2025-07,,1
+1979,28-04-2025,Paid Social,Standard,1,2025-04,,1
+1980,19-01-2025,Organic Search,Basic,1,2025-01,,1
+1981,23-01-2025,Organic Search,Basic,1,2025-01,27-07-2025,0
+1982,30-01-2025,Email Campaign,Basic,0,2025-01,25-07-2025,0
+1983,18-04-2025,Paid Social,Standard,0,2025-04,22-04-2025,0
+1984,08-05-2025,Organic Search,Standard,1,2025-05,,1
+1985,17-08-2025,Email Campaign,Standard,0,2025-08,,1
+1986,21-04-2025,App Store,Basic,0,2025-04,,1
+1987,16-05-2025,Referral,Standard,0,2025-05,01-06-2025,0
+1988,05-07-2025,Paid Social,Premium,1,2025-07,24-07-2025,0
+1989,24-05-2025,App Store,Standard,1,2025-05,,1
+1990,13-03-2025,App Store,Standard,1,2025-03,,1
+1991,09-05-2025,Email Campaign,Standard,0,2025-05,10-06-2025,0
+1992,18-09-2025,Paid Social,Premium,0,2025-09,,1
+1993,03-01-2025,Referral,Premium,1,2025-01,26-10-2025,0
+1994,14-04-2025,Email Campaign,Basic,1,2025-04,17-04-2025,0
+1995,12-08-2025,Organic Search,Basic,1,2025-08,06-10-2025,0
+1996,10-01-2025,Paid Social,Basic,1,2025-01,28-01-2025,0
+1997,19-08-2025,Email Campaign,Basic,0,2025-08,,1
+1998,07-08-2025,Referral,Basic,1,2025-08,13-10-2025,0
+1999,07-03-2025,Paid Social,Standard,1,2025-03,,1
+2000,22-04-2025,Referral,Basic,0,2025-04,02-06-2025,0
+2001,13-01-2025,Organic Search,Standard,1,2025-01,13-03-2025,0
+2002,27-03-2025,Paid Social,Standard,0,2025-03,19-05-2025,0
+2003,22-08-2025,Email Campaign,Basic,1,2025-08,,1
+2004,31-03-2025,Organic Search,Premium,1,2025-03,31-05-2025,0
+2005,23-02-2025,Organic Search,Standard,1,2025-02,,1
+2006,12-01-2025,App Store,Basic,0,2025-01,27-01-2025,0
+2007,28-07-2025,Organic Search,Basic,1,2025-07,,1
+2008,14-01-2025,Organic Search,Basic,1,2025-01,02-03-2025,0
+2009,01-05-2025,App Store,Standard,0,2025-05,,1
+2010,20-01-2025,Email Campaign,Basic,1,2025-01,17-05-2025,0
+2011,16-03-2025,Referral,Standard,1,2025-03,20-04-2025,0
+2012,31-08-2025,App Store,Standard,1,2025-08,,1
+2013,11-08-2025,Organic Search,Basic,1,2025-08,18-10-2025,0
+2014,11-03-2025,Email Campaign,Premium,0,2025-03,31-05-2025,0
+2015,30-07-2025,Paid Social,Basic,0,2025-07,,1
+2016,11-04-2025,Email Campaign,Premium,0,2025-04,17-06-2025,0
+2017,05-07-2025,Paid Social,Basic,0,2025-07,,1
+2018,12-05-2025,Referral,Standard,1,2025-05,27-05-2025,0
+2019,21-04-2025,Paid Social,Basic,0,2025-04,16-06-2025,0
+2020,12-05-2025,Paid Social,Standard,1,2025-05,,1
+2021,20-01-2025,Email Campaign,Standard,1,2025-01,22-05-2025,0
+2022,24-01-2025,Referral,Basic,1,2025-01,10-06-2025,0
+2023,15-08-2025,Referral,Standard,1,2025-08,,1
+2024,03-06-2025,Paid Social,Basic,0,2025-06,02-08-2025,0
+2025,18-08-2025,Paid Social,Standard,1,2025-08,,1
+2026,21-07-2025,Email Campaign,Premium,1,2025-07,,1
+2027,07-02-2025,Email Campaign,Basic,1,2025-02,14-04-2025,0
+2028,17-09-2025,Referral,Basic,1,2025-09,,1
+2029,07-07-2025,App Store,Basic,1,2025-07,,1
+2030,26-02-2025,Email Campaign,Standard,0,2025-02,24-05-2025,0
+2031,20-01-2025,Referral,Basic,1,2025-01,,1
+2032,29-04-2025,Referral,Basic,0,2025-04,09-08-2025,0
+2033,12-03-2025,App Store,Basic,1,2025-03,,1
+2034,04-01-2025,Referral,Basic,1,2025-01,22-06-2025,0
+2035,09-08-2025,Email Campaign,Premium,0,2025-08,11-09-2025,0
+2036,14-01-2025,Referral,Basic,0,2025-01,20-02-2025,0
+2037,03-01-2025,Referral,Standard,1,2025-01,20-05-2025,0
+2038,04-08-2025,Organic Search,Standard,0,2025-08,30-08-2025,0
+2039,17-08-2025,Paid Social,Standard,0,2025-08,,1
+2040,05-07-2025,App Store,Basic,0,2025-07,17-09-2025,0
+2041,24-02-2025,Referral,Standard,0,2025-02,01-03-2025,0
+2042,11-09-2025,Referral,Premium,0,2025-09,,1
+2043,24-01-2025,App Store,Basic,1,2025-01,,1
+2044,11-06-2025,Referral,Basic,0,2025-06,,1
+2045,07-06-2025,Paid Social,Basic,1,2025-06,13-08-2025,0
+2046,23-03-2025,Email Campaign,Basic,0,2025-03,19-05-2025,0
+2047,08-06-2025,Email Campaign,Basic,1,2025-06,20-07-2025,0
+2048,07-07-2025,Organic Search,Standard,1,2025-07,,1
+2049,01-03-2025,Paid Social,Basic,1,2025-03,03-04-2025,0
+2050,30-07-2025,Paid Social,Standard,1,2025-07,,1
+2051,01-06-2025,Paid Social,Standard,1,2025-06,,1
+2052,19-04-2025,Paid Social,Basic,1,2025-04,11-05-2025,0
+2053,17-03-2025,Paid Social,Standard,0,2025-03,25-04-2025,0
+2054,30-01-2025,Organic Search,Basic,0,2025-01,29-04-2025,0
+2055,27-04-2025,Paid Social,Premium,1,2025-04,,1
+2056,11-07-2025,Organic Search,Basic,0,2025-07,,1
+2057,19-01-2025,Referral,Standard,1,2025-01,,1
+2058,22-06-2025,App Store,Standard,1,2025-06,13-10-2025,0
+2059,16-08-2025,Email Campaign,Basic,0,2025-08,,1
+2060,02-07-2025,Paid Social,Basic,0,2025-07,,1
+2061,23-04-2025,Organic Search,Standard,1,2025-04,,1
+2062,02-07-2025,Organic Search,Basic,1,2025-07,,1
+2063,26-05-2025,Paid Social,Premium,1,2025-05,,1
+2064,26-04-2025,Organic Search,Premium,1,2025-04,29-07-2025,0
+2065,23-04-2025,Paid Social,Basic,1,2025-04,,1
+2066,08-09-2025,Organic Search,Basic,0,2025-09,,1
+2067,08-09-2025,Email Campaign,Basic,0,2025-09,30-09-2025,0
+2068,28-04-2025,Paid Social,Basic,0,2025-04,21-05-2025,0
+2069,10-06-2025,Organic Search,Standard,1,2025-06,,1
+2070,17-07-2025,Email Campaign,Standard,0,2025-07,,1
+2071,17-09-2025,Paid Social,Basic,1,2025-09,,1
+2072,28-05-2025,Organic Search,Basic,1,2025-05,,1
+2073,28-08-2025,Referral,Basic,1,2025-08,,1
+2074,16-02-2025,Referral,Basic,0,2025-02,22-07-2025,0
+2075,17-07-2025,Email Campaign,Standard,0,2025-07,22-09-2025,0
+2076,16-02-2025,Organic Search,Basic,1,2025-02,26-03-2025,0
+2077,19-03-2025,Paid Social,Standard,1,2025-03,09-04-2025,0
+2078,04-05-2025,Organic Search,Standard,1,2025-05,,1
+2079,16-03-2025,Organic Search,Standard,0,2025-03,11-04-2025,0
+2080,17-05-2025,App Store,Basic,1,2025-05,16-06-2025,0
+2081,31-03-2025,Email Campaign,Standard,1,2025-03,,1
+2082,02-03-2025,Paid Social,Standard,1,2025-03,16-07-2025,0
+2083,18-05-2025,Referral,Standard,1,2025-05,,1
+2084,19-02-2025,Organic Search,Basic,1,2025-02,,1
+2085,16-09-2025,App Store,Basic,1,2025-09,,1
+2086,17-04-2025,Organic Search,Standard,0,2025-04,,1
+2087,23-04-2025,Organic Search,Basic,1,2025-04,13-05-2025,0
+2088,11-09-2025,Paid Social,Basic,0,2025-09,,1
+2089,28-04-2025,Referral,Premium,0,2025-04,,1
+2090,17-07-2025,Referral,Basic,1,2025-07,,1
+2091,20-02-2025,Organic Search,Basic,1,2025-02,,1
+2092,02-09-2025,Paid Social,Basic,1,2025-09,,1
+2093,04-02-2025,Paid Social,Standard,1,2025-02,13-02-2025,0
+2094,10-03-2025,Organic Search,Basic,0,2025-03,17-03-2025,0
+2095,18-02-2025,App Store,Standard,0,2025-02,29-04-2025,0
+2096,15-03-2025,Organic Search,Basic,1,2025-03,08-10-2025,0
+2097,11-07-2025,Paid Social,Basic,1,2025-07,,1
+2098,18-09-2025,Referral,Standard,1,2025-09,,1
+2099,11-03-2025,Organic Search,Basic,1,2025-03,11-04-2025,0
+2100,31-03-2025,Referral,Premium,1,2025-03,,1
+2101,17-09-2025,Email Campaign,Basic,1,2025-09,,1
+2102,06-05-2025,Organic Search,Basic,0,2025-05,28-07-2025,0
+2103,19-08-2025,App Store,Basic,1,2025-08,,1
+2104,09-05-2025,Referral,Basic,1,2025-05,21-06-2025,0
+2105,10-04-2025,Organic Search,Premium,0,2025-04,15-05-2025,0
+2106,01-07-2025,Paid Social,Premium,1,2025-07,,1
+2107,23-06-2025,Paid Social,Basic,1,2025-06,,1
+2108,07-07-2025,Email Campaign,Standard,1,2025-07,,1
+2109,26-02-2025,Email Campaign,Standard,1,2025-02,07-05-2025,0
+2110,31-01-2025,Email Campaign,Basic,0,2025-01,21-06-2025,0
+2111,25-03-2025,App Store,Basic,0,2025-03,12-08-2025,0
+2112,01-06-2025,Email Campaign,Premium,0,2025-06,,1
+2113,05-02-2025,Referral,Premium,0,2025-02,13-06-2025,0
+2114,01-08-2025,Paid Social,Premium,1,2025-08,,1
+2115,16-04-2025,Paid Social,Standard,0,2025-04,09-07-2025,0
+2116,08-08-2025,Organic Search,Standard,0,2025-08,,1
+2117,12-06-2025,Email Campaign,Basic,1,2025-06,,1
+2118,08-08-2025,Paid Social,Basic,1,2025-08,,1
+2119,27-09-2025,Organic Search,Basic,1,2025-09,,1
+2120,30-04-2025,Organic Search,Standard,1,2025-04,,1
+2121,01-07-2025,Paid Social,Standard,1,2025-07,18-07-2025,0
+2122,16-04-2025,Referral,Standard,0,2025-04,,1
+2123,05-08-2025,Paid Social,Premium,0,2025-08,,1
+2124,24-07-2025,Referral,Premium,1,2025-07,04-08-2025,0
+2125,11-03-2025,Paid Social,Premium,1,2025-03,09-05-2025,0
+2126,13-02-2025,Referral,Basic,0,2025-02,15-08-2025,0
+2127,16-08-2025,Organic Search,Standard,0,2025-08,,1
+2128,03-07-2025,Organic Search,Standard,1,2025-07,09-10-2025,0
+2129,17-04-2025,Referral,Basic,0,2025-04,04-05-2025,0
+2130,25-03-2025,Paid Social,Premium,0,2025-03,26-04-2025,0
+2131,07-09-2025,Organic Search,Premium,0,2025-09,,1
+2132,21-01-2025,Paid Social,Basic,1,2025-01,08-07-2025,0
+2133,15-07-2025,Organic Search,Basic,1,2025-07,,1
+2134,27-06-2025,Paid Social,Standard,0,2025-06,30-06-2025,0
+2135,07-01-2025,Paid Social,Standard,1,2025-01,,1
+2136,11-03-2025,Referral,Premium,0,2025-03,05-05-2025,0
+2137,07-05-2025,Email Campaign,Basic,1,2025-05,04-09-2025,0
+2138,09-06-2025,Organic Search,Basic,1,2025-06,,1
+2139,05-09-2025,App Store,Basic,1,2025-09,,1
+2140,22-07-2025,Paid Social,Basic,1,2025-07,26-07-2025,0
+2141,28-05-2025,Referral,Basic,0,2025-05,,1
+2142,23-05-2025,Referral,Premium,1,2025-05,,1
+2143,18-07-2025,Referral,Basic,0,2025-07,11-08-2025,0
+2144,03-06-2025,Paid Social,Basic,0,2025-06,08-06-2025,0
+2145,22-05-2025,Paid Social,Basic,1,2025-05,31-07-2025,0
+2146,14-06-2025,Organic Search,Basic,0,2025-06,10-09-2025,0
+2147,21-01-2025,Organic Search,Standard,1,2025-01,06-05-2025,0
+2148,23-03-2025,Paid Social,Standard,0,2025-03,27-08-2025,0
+2149,10-03-2025,Paid Social,Standard,1,2025-03,20-03-2025,0
+2150,11-05-2025,Paid Social,Basic,1,2025-05,29-05-2025,0
+2151,28-03-2025,Organic Search,Basic,1,2025-03,02-05-2025,0
+2152,06-08-2025,Email Campaign,Basic,0,2025-08,,1
+2153,10-06-2025,App Store,Basic,0,2025-06,12-09-2025,0
+2154,27-06-2025,App Store,Standard,1,2025-06,,1
+2155,27-04-2025,Paid Social,Basic,1,2025-04,25-06-2025,0
+2156,15-07-2025,Email Campaign,Standard,1,2025-07,,1
+2157,27-03-2025,App Store,Basic,0,2025-03,01-06-2025,0
+2158,22-03-2025,Paid Social,Standard,1,2025-03,08-05-2025,0
+2159,01-06-2025,Paid Social,Premium,0,2025-06,28-09-2025,0
+2160,02-03-2025,App Store,Standard,1,2025-03,28-05-2025,0
+2161,02-03-2025,Paid Social,Standard,1,2025-03,05-04-2025,0
+2162,28-01-2025,Paid Social,Premium,0,2025-01,12-03-2025,0
+2163,12-02-2025,Organic Search,Standard,0,2025-02,04-03-2025,0
+2164,18-06-2025,Organic Search,Basic,0,2025-06,08-07-2025,0
+2165,27-03-2025,Email Campaign,Basic,1,2025-03,19-04-2025,0
+2166,26-06-2025,Referral,Standard,0,2025-06,03-08-2025,0
+2167,17-01-2025,Paid Social,Standard,1,2025-01,,1
+2168,08-04-2025,Organic Search,Basic,0,2025-04,31-05-2025,0
+2169,17-07-2025,Referral,Basic,1,2025-07,,1
+2170,08-04-2025,Referral,Premium,1,2025-04,15-05-2025,0
+2171,06-03-2025,Organic Search,Basic,1,2025-03,,1
+2172,05-01-2025,App Store,Basic,1,2025-01,11-10-2025,0
+2173,02-01-2025,Organic Search,Basic,1,2025-01,26-04-2025,0
+2174,22-01-2025,Paid Social,Standard,0,2025-01,05-07-2025,0
+2175,22-04-2025,Referral,Basic,0,2025-04,27-07-2025,0
+2176,26-02-2025,Organic Search,Standard,0,2025-02,,1
+2177,07-03-2025,Email Campaign,Basic,1,2025-03,12-06-2025,0
+2178,08-04-2025,Email Campaign,Standard,1,2025-04,18-06-2025,0
+2179,24-05-2025,Email Campaign,Standard,0,2025-05,14-07-2025,0
+2180,05-05-2025,Organic Search,Basic,1,2025-05,,1
+2181,16-06-2025,Organic Search,Standard,1,2025-06,,1
+2182,27-03-2025,Organic Search,Basic,0,2025-03,09-10-2025,0
+2183,17-03-2025,Paid Social,Basic,1,2025-03,31-03-2025,0
+2184,28-02-2025,Email Campaign,Standard,1,2025-02,12-08-2025,0
+2185,18-05-2025,Email Campaign,Basic,0,2025-05,,1
+2186,09-04-2025,Email Campaign,Standard,1,2025-04,19-04-2025,0
+2187,11-07-2025,App Store,Basic,0,2025-07,29-08-2025,0
+2188,31-08-2025,Email Campaign,Basic,1,2025-08,,1
+2189,18-02-2025,Paid Social,Basic,0,2025-02,01-04-2025,0
+2190,01-02-2025,Organic Search,Standard,1,2025-02,09-10-2025,0
+2191,20-01-2025,Referral,Basic,0,2025-01,06-02-2025,0
+2192,03-06-2025,Organic Search,Standard,1,2025-06,,1
+2193,09-03-2025,Organic Search,Basic,0,2025-03,26-03-2025,0
+2194,02-08-2025,Paid Social,Basic,1,2025-08,08-09-2025,0
+2195,23-05-2025,Email Campaign,Standard,1,2025-05,17-10-2025,0
+2196,20-08-2025,Organic Search,Standard,0,2025-08,,1
+2197,01-08-2025,Email Campaign,Basic,1,2025-08,02-08-2025,0
+2198,20-03-2025,Email Campaign,Standard,1,2025-03,,1
+2199,02-08-2025,Paid Social,Basic,1,2025-08,,1
+2200,26-04-2025,Organic Search,Standard,1,2025-04,,1
+2201,02-04-2025,Organic Search,Premium,1,2025-04,25-06-2025,0
+2202,27-09-2025,Email Campaign,Premium,1,2025-09,,1
+2203,17-06-2025,Email Campaign,Standard,1,2025-06,01-10-2025,0
+2204,27-02-2025,App Store,Basic,0,2025-02,14-03-2025,0
+2205,26-01-2025,Referral,Standard,1,2025-01,11-06-2025,0
+2206,07-03-2025,Organic Search,Standard,1,2025-03,,1
+2207,05-09-2025,Organic Search,Basic,0,2025-09,,1
+2208,11-09-2025,Email Campaign,Basic,0,2025-09,,1
+2209,13-02-2025,Organic Search,Premium,1,2025-02,05-06-2025,0
+2210,07-04-2025,Paid Social,Premium,1,2025-04,16-07-2025,0
+2211,11-02-2025,Paid Social,Basic,0,2025-02,27-02-2025,0
+2212,15-08-2025,Organic Search,Standard,1,2025-08,,1
+2213,19-09-2025,Organic Search,Standard,1,2025-09,,1
+2214,16-06-2025,Paid Social,Basic,1,2025-06,18-06-2025,0
+2215,30-03-2025,Organic Search,Basic,0,2025-03,29-10-2025,0
+2216,27-06-2025,Organic Search,Standard,1,2025-06,28-06-2025,0
+2217,16-07-2025,Email Campaign,Basic,0,2025-07,10-10-2025,0
+2218,24-09-2025,Email Campaign,Basic,0,2025-09,,1
+2219,25-09-2025,Organic Search,Standard,1,2025-09,,1
+2220,15-03-2025,Email Campaign,Premium,0,2025-03,17-07-2025,0
+2221,08-01-2025,Paid Social,Standard,1,2025-01,05-07-2025,0
+2222,13-06-2025,Paid Social,Standard,1,2025-06,,1
+2223,26-03-2025,App Store,Basic,1,2025-03,,1
+2224,13-03-2025,Email Campaign,Basic,1,2025-03,16-05-2025,0
+2225,24-02-2025,Email Campaign,Standard,1,2025-02,06-03-2025,0
+2226,16-02-2025,Organic Search,Basic,1,2025-02,,1
+2227,26-08-2025,Organic Search,Premium,1,2025-08,,1
+2228,14-04-2025,App Store,Basic,1,2025-04,19-06-2025,0
+2229,29-07-2025,Paid Social,Basic,1,2025-07,,1
+2230,11-02-2025,Organic Search,Basic,0,2025-02,,1
+2231,25-09-2025,Email Campaign,Premium,1,2025-09,,1
+2232,20-09-2025,Email Campaign,Basic,0,2025-09,,1
+2233,16-09-2025,App Store,Basic,1,2025-09,28-09-2025,0
+2234,24-04-2025,Paid Social,Basic,1,2025-04,,1
+2235,09-02-2025,App Store,Standard,1,2025-02,25-03-2025,0
+2236,08-08-2025,Organic Search,Basic,1,2025-08,,1
+2237,09-05-2025,Organic Search,Basic,1,2025-05,,1
+2238,08-01-2025,Referral,Basic,1,2025-01,07-04-2025,0
+2239,11-04-2025,Organic Search,Standard,0,2025-04,09-06-2025,0
+2240,25-06-2025,Paid Social,Basic,0,2025-06,03-08-2025,0
+2241,17-04-2025,Referral,Basic,1,2025-04,04-09-2025,0
+2242,11-04-2025,Paid Social,Basic,0,2025-04,01-07-2025,0
+2243,17-09-2025,Organic Search,Standard,1,2025-09,,1
+2244,03-09-2025,Organic Search,Standard,1,2025-09,,1
+2245,01-02-2025,Paid Social,Standard,0,2025-02,10-06-2025,0
+2246,17-05-2025,Paid Social,Premium,1,2025-05,30-07-2025,0
+2247,12-01-2025,Email Campaign,Premium,1,2025-01,07-09-2025,0
+2248,16-01-2025,Email Campaign,Basic,1,2025-01,,1
+2249,09-05-2025,Paid Social,Standard,1,2025-05,18-06-2025,0
+2250,04-03-2025,Email Campaign,Standard,1,2025-03,04-08-2025,0
+2251,19-04-2025,Organic Search,Premium,1,2025-04,,1
+2252,21-01-2025,Organic Search,Basic,1,2025-01,19-04-2025,0
+2253,07-06-2025,Email Campaign,Standard,1,2025-06,,1
+2254,26-09-2025,Paid Social,Basic,0,2025-09,16-10-2025,0
+2255,11-06-2025,App Store,Premium,1,2025-06,14-06-2025,0
+2256,17-09-2025,Paid Social,Basic,0,2025-09,22-09-2025,0
+2257,12-04-2025,Email Campaign,Basic,0,2025-04,29-07-2025,0
+2258,11-08-2025,Paid Social,Basic,0,2025-08,14-09-2025,0
+2259,28-02-2025,Paid Social,Basic,0,2025-02,22-10-2025,0
+2260,04-09-2025,Paid Social,Standard,1,2025-09,,1
+2261,08-05-2025,Email Campaign,Basic,1,2025-05,26-05-2025,0
+2262,25-01-2025,Paid Social,Basic,1,2025-01,10-04-2025,0
+2263,11-05-2025,App Store,Premium,0,2025-05,,1
+2264,15-07-2025,Organic Search,Basic,1,2025-07,,1
+2265,03-06-2025,Organic Search,Standard,1,2025-06,18-07-2025,0
+2266,13-05-2025,Paid Social,Basic,1,2025-05,02-10-2025,0
+2267,15-08-2025,Referral,Basic,0,2025-08,16-09-2025,0
+2268,08-07-2025,App Store,Standard,1,2025-07,25-10-2025,0
+2269,22-09-2025,Paid Social,Standard,1,2025-09,,1
+2270,14-05-2025,Referral,Basic,1,2025-05,,1
+2271,30-07-2025,Paid Social,Premium,0,2025-07,22-08-2025,0
+2272,01-03-2025,Referral,Premium,1,2025-03,,1
+2273,01-08-2025,App Store,Premium,1,2025-08,12-10-2025,0
+2274,04-08-2025,Organic Search,Basic,0,2025-08,13-10-2025,0
+2275,14-08-2025,Paid Social,Basic,1,2025-08,13-10-2025,0
+2276,11-05-2025,App Store,Standard,0,2025-05,08-07-2025,0
+2277,17-03-2025,App Store,Standard,1,2025-03,03-06-2025,0
+2278,05-06-2025,Referral,Basic,1,2025-06,,1
+2279,05-09-2025,Paid Social,Standard,0,2025-09,,1
+2280,06-08-2025,Organic Search,Basic,0,2025-08,,1
+2281,09-07-2025,Paid Social,Basic,1,2025-07,,1
+2282,12-06-2025,Email Campaign,Basic,1,2025-06,,1
+2283,29-06-2025,Referral,Standard,0,2025-06,,1
+2284,03-02-2025,Organic Search,Basic,1,2025-02,,1
+2285,10-02-2025,Organic Search,Standard,0,2025-02,11-04-2025,0
+2286,16-03-2025,Organic Search,Standard,0,2025-03,11-04-2025,0
+2287,25-06-2025,Organic Search,Standard,1,2025-06,26-08-2025,0
+2288,30-05-2025,Organic Search,Premium,0,2025-05,18-10-2025,0
+2289,18-04-2025,Paid Social,Standard,1,2025-04,07-06-2025,0
+2290,19-05-2025,Organic Search,Premium,0,2025-05,15-06-2025,0
+2291,28-09-2025,Organic Search,Basic,1,2025-09,,1
+2292,31-07-2025,Paid Social,Basic,0,2025-07,15-09-2025,0
+2293,29-09-2025,Organic Search,Basic,0,2025-09,,1
+2294,07-03-2025,Organic Search,Basic,0,2025-03,07-04-2025,0
+2295,05-09-2025,Paid Social,Standard,0,2025-09,,1
+2296,05-06-2025,Organic Search,Basic,1,2025-06,25-06-2025,0
+2297,16-02-2025,Paid Social,Standard,1,2025-02,,1
+2298,20-07-2025,Organic Search,Standard,0,2025-07,,1
+2299,28-05-2025,Email Campaign,Standard,0,2025-05,02-06-2025,0
+2300,04-05-2025,App Store,Basic,0,2025-05,10-05-2025,0
+2301,01-01-2025,Email Campaign,Standard,0,2025-01,26-05-2025,0
+2302,04-09-2025,Paid Social,Basic,1,2025-09,13-09-2025,0
+2303,08-05-2025,App Store,Basic,1,2025-05,15-08-2025,0
+2304,10-07-2025,Referral,Standard,1,2025-07,,1
+2305,08-03-2025,Organic Search,Standard,0,2025-03,09-07-2025,0
+2306,04-01-2025,Paid Social,Basic,1,2025-01,29-05-2025,0
+2307,23-05-2025,App Store,Premium,0,2025-05,14-08-2025,0
+2308,10-07-2025,Paid Social,Basic,1,2025-07,19-08-2025,0
+2309,21-01-2025,Organic Search,Basic,1,2025-01,11-03-2025,0
+2310,15-08-2025,Email Campaign,Basic,1,2025-08,,1
+2311,27-04-2025,Email Campaign,Standard,1,2025-04,,1
+2312,22-05-2025,Organic Search,Standard,0,2025-05,24-08-2025,0
+2313,08-02-2025,Paid Social,Basic,1,2025-02,12-07-2025,0
+2314,09-09-2025,Organic Search,Basic,1,2025-09,,1
+2315,26-07-2025,Email Campaign,Standard,1,2025-07,,1
+2316,29-07-2025,Organic Search,Basic,0,2025-07,03-08-2025,0
+2317,25-04-2025,Paid Social,Basic,0,2025-04,11-08-2025,0
+2318,13-08-2025,Email Campaign,Standard,1,2025-08,,1
+2319,14-05-2025,Paid Social,Basic,0,2025-05,04-07-2025,0
+2320,08-09-2025,Referral,Premium,1,2025-09,,1
+2321,07-08-2025,Paid Social,Basic,1,2025-08,21-09-2025,0
+2322,01-04-2025,Organic Search,Standard,0,2025-04,16-04-2025,0
+2323,15-02-2025,Referral,Basic,1,2025-02,,1
+2324,07-02-2025,Organic Search,Premium,0,2025-02,28-06-2025,0
+2325,22-05-2025,Paid Social,Basic,1,2025-05,24-06-2025,0
+2326,10-04-2025,Organic Search,Standard,0,2025-04,20-10-2025,0
+2327,09-07-2025,Referral,Standard,1,2025-07,,1
+2328,04-02-2025,App Store,Basic,1,2025-02,06-02-2025,0
+2329,27-05-2025,App Store,Basic,0,2025-05,01-06-2025,0
+2330,30-01-2025,Paid Social,Standard,1,2025-01,28-03-2025,0
+2331,25-03-2025,Organic Search,Premium,1,2025-03,10-08-2025,0
+2332,27-09-2025,Paid Social,Basic,1,2025-09,,1
+2333,03-06-2025,Email Campaign,Basic,1,2025-06,,1
+2334,12-04-2025,Organic Search,Standard,1,2025-04,30-09-2025,0
+2335,03-08-2025,App Store,Basic,1,2025-08,,1
+2336,30-05-2025,Paid Social,Premium,0,2025-05,09-06-2025,0
+2337,24-03-2025,App Store,Standard,1,2025-03,03-10-2025,0
+2338,20-04-2025,Email Campaign,Standard,0,2025-04,29-05-2025,0
+2339,20-07-2025,Email Campaign,Basic,1,2025-07,,1
+2340,22-06-2025,Paid Social,Basic,1,2025-06,09-08-2025,0
+2341,25-07-2025,Organic Search,Standard,1,2025-07,,1
+2342,04-03-2025,Paid Social,Premium,1,2025-03,05-03-2025,0
+2343,14-03-2025,Paid Social,Premium,1,2025-03,25-05-2025,0
+2344,08-09-2025,Organic Search,Basic,1,2025-09,,1
+2345,04-05-2025,Paid Social,Basic,1,2025-05,,1
+2346,01-05-2025,Paid Social,Basic,1,2025-05,30-05-2025,0
+2347,30-04-2025,Referral,Premium,1,2025-04,06-05-2025,0
+2348,13-06-2025,Referral,Basic,1,2025-06,,1
+2349,22-09-2025,Organic Search,Basic,0,2025-09,,1
+2350,10-06-2025,App Store,Basic,1,2025-06,,1
+2351,30-03-2025,Organic Search,Basic,1,2025-03,,1
+2352,22-05-2025,Paid Social,Premium,1,2025-05,13-07-2025,0
+2353,22-07-2025,Paid Social,Standard,1,2025-07,,1
+2354,15-08-2025,Email Campaign,Basic,1,2025-08,,1
+2355,10-08-2025,Organic Search,Basic,0,2025-08,19-09-2025,0
+2356,10-02-2025,Paid Social,Basic,0,2025-02,19-08-2025,0
+2357,15-07-2025,Referral,Basic,0,2025-07,29-07-2025,0
+2358,09-03-2025,Organic Search,Basic,0,2025-03,28-03-2025,0
+2359,21-09-2025,Referral,Standard,1,2025-09,,1
+2360,02-01-2025,App Store,Basic,1,2025-01,27-05-2025,0
+2361,05-05-2025,App Store,Basic,0,2025-05,,1
+2362,20-04-2025,Organic Search,Basic,1,2025-04,15-06-2025,0
+2363,27-03-2025,Organic Search,Standard,1,2025-03,06-04-2025,0
+2364,30-04-2025,Paid Social,Standard,0,2025-04,,1
+2365,07-05-2025,Paid Social,Standard,0,2025-05,16-08-2025,0
+2366,12-09-2025,Organic Search,Standard,1,2025-09,22-09-2025,0
+2367,02-07-2025,Organic Search,Standard,1,2025-07,20-08-2025,0
+2368,16-01-2025,App Store,Basic,0,2025-01,18-02-2025,0
+2369,03-03-2025,App Store,Premium,0,2025-03,12-04-2025,0
+2370,07-06-2025,Organic Search,Basic,0,2025-06,08-07-2025,0
+2371,25-09-2025,Paid Social,Basic,0,2025-09,02-10-2025,0
+2372,04-02-2025,Paid Social,Standard,1,2025-02,17-02-2025,0
+2373,24-09-2025,Organic Search,Basic,1,2025-09,,1
+2374,05-03-2025,Referral,Premium,1,2025-03,,1
+2375,19-02-2025,Referral,Basic,1,2025-02,,1
+2376,12-09-2025,App Store,Premium,0,2025-09,21-10-2025,0
+2377,29-05-2025,Email Campaign,Standard,0,2025-05,16-08-2025,0
+2378,21-06-2025,Paid Social,Premium,1,2025-06,26-06-2025,0
+2379,20-07-2025,Referral,Premium,1,2025-07,06-10-2025,0
+2380,04-02-2025,Organic Search,Premium,1,2025-02,,1
+2381,04-08-2025,Referral,Standard,0,2025-08,13-08-2025,0
+2382,06-03-2025,Paid Social,Basic,1,2025-03,19-06-2025,0
+2383,08-01-2025,Organic Search,Basic,1,2025-01,20-01-2025,0
+2384,17-03-2025,Organic Search,Standard,1,2025-03,25-03-2025,0
+2385,23-06-2025,Organic Search,Premium,1,2025-06,10-09-2025,0
+2386,16-02-2025,App Store,Standard,0,2025-02,,1
+2387,15-01-2025,Organic Search,Premium,1,2025-01,,1
+2388,27-05-2025,Organic Search,Standard,1,2025-05,21-08-2025,0
+2389,26-01-2025,Paid Social,Basic,1,2025-01,24-02-2025,0
+2390,03-04-2025,Referral,Basic,1,2025-04,22-09-2025,0
+2391,20-08-2025,Organic Search,Basic,0,2025-08,,1
+2392,21-01-2025,App Store,Basic,1,2025-01,15-08-2025,0
+2393,07-02-2025,App Store,Standard,1,2025-02,,1
+2394,06-06-2025,Referral,Premium,0,2025-06,,1
+2395,28-06-2025,Referral,Standard,1,2025-06,02-07-2025,0
+2396,12-05-2025,Organic Search,Basic,0,2025-05,,1
+2397,28-01-2025,Paid Social,Basic,1,2025-01,,1
+2398,17-09-2025,Email Campaign,Basic,1,2025-09,21-10-2025,0
+2399,17-03-2025,Organic Search,Standard,0,2025-03,02-04-2025,0
+2400,08-03-2025,Organic Search,Basic,0,2025-03,19-08-2025,0
+2401,13-07-2025,Referral,Basic,1,2025-07,,1
+2402,11-06-2025,Organic Search,Basic,1,2025-06,08-10-2025,0
+2403,14-09-2025,App Store,Basic,1,2025-09,22-09-2025,0
+2404,13-03-2025,Organic Search,Premium,1,2025-03,,1
+2405,28-03-2025,Email Campaign,Basic,1,2025-03,28-06-2025,0
+2406,19-09-2025,Paid Social,Basic,0,2025-09,,1
+2407,02-08-2025,Email Campaign,Basic,1,2025-08,30-08-2025,0
+2408,02-06-2025,Paid Social,Basic,1,2025-06,,1
+2409,29-07-2025,Paid Social,Standard,1,2025-07,,1
+2410,02-03-2025,App Store,Standard,1,2025-03,23-05-2025,0
+2411,25-09-2025,Paid Social,Basic,0,2025-09,,1
+2412,19-09-2025,Paid Social,Standard,1,2025-09,,1
+2413,06-08-2025,Paid Social,Basic,1,2025-08,,1
+2414,16-05-2025,Email Campaign,Standard,0,2025-05,30-10-2025,0
+2415,03-04-2025,Paid Social,Basic,1,2025-04,20-04-2025,0
+2416,19-04-2025,App Store,Basic,1,2025-04,,1
+2417,29-08-2025,Organic Search,Standard,1,2025-08,,1
+2418,22-05-2025,Paid Social,Standard,0,2025-05,02-09-2025,0
+2419,25-08-2025,Email Campaign,Standard,0,2025-08,20-09-2025,0
+2420,26-06-2025,Referral,Basic,1,2025-06,,1
+2421,21-05-2025,App Store,Basic,1,2025-05,02-08-2025,0
+2422,08-07-2025,App Store,Premium,0,2025-07,,1
+2423,18-02-2025,Paid Social,Basic,1,2025-02,02-06-2025,0
+2424,09-07-2025,Organic Search,Basic,1,2025-07,05-10-2025,0
+2425,16-05-2025,Organic Search,Basic,0,2025-05,24-07-2025,0
+2426,12-02-2025,Email Campaign,Basic,1,2025-02,,1
+2427,31-03-2025,App Store,Basic,1,2025-03,,1
+2428,02-09-2025,Organic Search,Basic,0,2025-09,,1
+2429,11-07-2025,Organic Search,Basic,1,2025-07,,1
+2430,16-04-2025,Organic Search,Premium,1,2025-04,,1
+2431,21-08-2025,Email Campaign,Basic,1,2025-08,,1
+2432,22-09-2025,Paid Social,Basic,1,2025-09,10-10-2025,0
+2433,06-02-2025,Paid Social,Standard,1,2025-02,20-02-2025,0
+2434,10-02-2025,Paid Social,Standard,1,2025-02,16-10-2025,0
+2435,17-01-2025,Email Campaign,Basic,0,2025-01,20-04-2025,0
+2436,28-02-2025,Referral,Standard,0,2025-02,22-05-2025,0
+2437,02-07-2025,Referral,Basic,1,2025-07,,1
+2438,10-02-2025,Organic Search,Standard,0,2025-02,10-03-2025,0
+2439,08-02-2025,Paid Social,Basic,0,2025-02,24-08-2025,0
+2440,11-07-2025,Email Campaign,Basic,0,2025-07,09-08-2025,0
+2441,24-09-2025,App Store,Premium,1,2025-09,,1
+2442,27-05-2025,Organic Search,Standard,0,2025-05,03-09-2025,0
+2443,07-05-2025,Organic Search,Basic,1,2025-05,27-09-2025,0
+2444,15-02-2025,Organic Search,Basic,1,2025-02,,1
+2445,14-02-2025,Paid Social,Basic,1,2025-02,,1
+2446,01-01-2025,Email Campaign,Standard,0,2025-01,05-07-2025,0
+2447,17-06-2025,Organic Search,Basic,1,2025-06,,1
+2448,18-04-2025,Paid Social,Basic,1,2025-04,25-04-2025,0
+2449,19-01-2025,Paid Social,Basic,0,2025-01,25-01-2025,0
+2450,13-03-2025,Organic Search,Standard,0,2025-03,06-04-2025,0
+2451,19-04-2025,Paid Social,Standard,0,2025-04,03-06-2025,0
+2452,25-09-2025,Organic Search,Standard,1,2025-09,,1
+2453,28-08-2025,Paid Social,Basic,1,2025-08,,1
+2454,31-03-2025,Email Campaign,Premium,1,2025-03,06-05-2025,0
+2455,13-04-2025,Paid Social,Standard,1,2025-04,,1
+2456,07-09-2025,Organic Search,Premium,1,2025-09,,1
+2457,08-01-2025,App Store,Basic,1,2025-01,,1
+2458,02-06-2025,Referral,Basic,0,2025-06,14-06-2025,0
+2459,23-06-2025,Email Campaign,Standard,1,2025-06,20-09-2025,0
+2460,07-06-2025,Organic Search,Basic,1,2025-06,28-06-2025,0
+2461,03-08-2025,Organic Search,Standard,0,2025-08,08-08-2025,0
+2462,26-06-2025,Organic Search,Standard,1,2025-06,,1
+2463,24-06-2025,Organic Search,Standard,1,2025-06,26-10-2025,0
+2464,26-05-2025,Paid Social,Premium,0,2025-05,08-06-2025,0
+2465,10-06-2025,App Store,Standard,1,2025-06,,1
+2466,07-05-2025,Paid Social,Basic,1,2025-05,,1
+2467,23-03-2025,Organic Search,Basic,1,2025-03,,1
+2468,27-05-2025,Referral,Basic,1,2025-05,,1
+2469,27-08-2025,Organic Search,Standard,1,2025-08,,1
+2470,25-03-2025,Referral,Basic,0,2025-03,31-08-2025,0
+2471,23-04-2025,Referral,Basic,0,2025-04,,1
+2472,13-08-2025,Email Campaign,Standard,1,2025-08,09-09-2025,0
+2473,31-08-2025,App Store,Standard,1,2025-08,,1
+2474,23-05-2025,Organic Search,Premium,0,2025-05,30-07-2025,0
+2475,10-02-2025,Paid Social,Standard,0,2025-02,18-02-2025,0
+2476,15-09-2025,App Store,Standard,1,2025-09,,1
+2477,15-04-2025,Email Campaign,Standard,0,2025-04,05-06-2025,0
+2478,21-07-2025,Paid Social,Premium,0,2025-07,,1
+2479,23-09-2025,App Store,Standard,1,2025-09,,1
+2480,29-07-2025,Organic Search,Premium,1,2025-07,,1
+2481,20-02-2025,App Store,Premium,1,2025-02,,1
+2482,28-04-2025,Organic Search,Premium,0,2025-04,30-06-2025,0
+2483,20-07-2025,Paid Social,Basic,0,2025-07,30-07-2025,0
+2484,08-02-2025,App Store,Basic,0,2025-02,24-03-2025,0
+2485,28-01-2025,Organic Search,Basic,1,2025-01,16-09-2025,0
+2486,16-09-2025,Paid Social,Basic,0,2025-09,04-10-2025,0
+2487,25-03-2025,Paid Social,Basic,0,2025-03,23-06-2025,0
+2488,04-06-2025,App Store,Basic,0,2025-06,05-06-2025,0
+2489,27-04-2025,Email Campaign,Basic,1,2025-04,,1
+2490,02-01-2025,Email Campaign,Standard,0,2025-01,05-01-2025,0
+2491,03-04-2025,Referral,Standard,1,2025-04,,1
+2492,15-06-2025,Email Campaign,Basic,0,2025-06,,1
+2493,15-09-2025,Paid Social,Standard,0,2025-09,,1
+2494,22-03-2025,Paid Social,Standard,1,2025-03,,1
+2495,25-09-2025,Email Campaign,Standard,0,2025-09,,1
+2496,23-08-2025,Paid Social,Premium,1,2025-08,,1
+2497,01-08-2025,Organic Search,Basic,0,2025-08,16-08-2025,0
+2498,03-03-2025,Organic Search,Basic,1,2025-03,13-06-2025,0
+2499,18-02-2025,Organic Search,Basic,0,2025-02,02-07-2025,0
+2500,07-05-2025,App Store,Basic,0,2025-05,22-08-2025,0
+2501,11-08-2025,Paid Social,Standard,1,2025-08,13-08-2025,0
+2502,17-04-2025,Email Campaign,Basic,1,2025-04,16-09-2025,0
+2503,26-05-2025,Paid Social,Basic,1,2025-05,,1
+2504,09-04-2025,Organic Search,Basic,1,2025-04,16-10-2025,0
+2505,14-03-2025,Paid Social,Basic,1,2025-03,20-04-2025,0
+2506,02-05-2025,Email Campaign,Standard,0,2025-05,09-07-2025,0
+2507,30-01-2025,Referral,Standard,0,2025-01,02-04-2025,0
+2508,07-07-2025,App Store,Basic,0,2025-07,08-07-2025,0
+2509,14-07-2025,Referral,Basic,1,2025-07,26-08-2025,0
+2510,05-06-2025,Referral,Basic,0,2025-06,,1
+2511,21-06-2025,Referral,Basic,0,2025-06,16-07-2025,0
+2512,10-02-2025,App Store,Premium,1,2025-02,13-07-2025,0
+2513,04-03-2025,Email Campaign,Basic,1,2025-03,,1
+2514,23-01-2025,Organic Search,Standard,1,2025-01,,1
+2515,16-03-2025,Paid Social,Premium,0,2025-03,13-04-2025,0
+2516,17-02-2025,Referral,Basic,1,2025-02,02-08-2025,0
+2517,09-06-2025,Email Campaign,Basic,0,2025-06,03-07-2025,0
+2518,28-04-2025,Organic Search,Premium,1,2025-04,20-08-2025,0
+2519,10-04-2025,App Store,Standard,0,2025-04,05-06-2025,0
+2520,16-06-2025,App Store,Basic,1,2025-06,,1
+2521,05-06-2025,Organic Search,Standard,0,2025-06,30-07-2025,0
+2522,07-01-2025,App Store,Standard,1,2025-01,20-08-2025,0
+2523,15-07-2025,Organic Search,Basic,1,2025-07,15-08-2025,0
+2524,25-02-2025,Organic Search,Premium,0,2025-02,21-04-2025,0
+2525,12-07-2025,Organic Search,Basic,0,2025-07,07-08-2025,0
+2526,16-02-2025,Organic Search,Standard,1,2025-02,,1
+2527,28-05-2025,Email Campaign,Premium,1,2025-05,,1
+2528,06-06-2025,Organic Search,Standard,1,2025-06,,1
+2529,21-07-2025,Organic Search,Basic,1,2025-07,04-10-2025,0
+2530,06-05-2025,Organic Search,Basic,1,2025-05,,1
+2531,05-03-2025,Organic Search,Standard,0,2025-03,04-09-2025,0
+2532,25-06-2025,Organic Search,Standard,0,2025-06,,1
+2533,26-04-2025,Referral,Standard,1,2025-04,10-09-2025,0
+2534,23-07-2025,Organic Search,Premium,1,2025-07,26-10-2025,0
+2535,31-01-2025,App Store,Premium,1,2025-01,28-05-2025,0
+2536,23-04-2025,Email Campaign,Basic,1,2025-04,06-07-2025,0
+2537,08-03-2025,Organic Search,Basic,1,2025-03,14-05-2025,0
+2538,16-03-2025,App Store,Basic,1,2025-03,,1
+2539,14-02-2025,Organic Search,Standard,1,2025-02,01-05-2025,0
+2540,17-09-2025,Organic Search,Standard,1,2025-09,,1
+2541,03-06-2025,Organic Search,Standard,1,2025-06,30-10-2025,0
+2542,04-06-2025,Paid Social,Basic,1,2025-06,23-10-2025,0
+2543,22-08-2025,Paid Social,Basic,1,2025-08,,1
+2544,20-02-2025,Email Campaign,Basic,0,2025-02,01-06-2025,0
+2545,19-09-2025,Paid Social,Standard,0,2025-09,30-10-2025,0
+2546,05-05-2025,Email Campaign,Basic,0,2025-05,07-06-2025,0
+2547,02-09-2025,Organic Search,Basic,1,2025-09,26-09-2025,0
+2548,30-01-2025,Email Campaign,Basic,1,2025-01,03-02-2025,0
+2549,02-05-2025,Organic Search,Standard,1,2025-05,04-09-2025,0
+2550,05-05-2025,Organic Search,Basic,1,2025-05,,1
+2551,06-02-2025,Organic Search,Standard,0,2025-02,10-07-2025,0
+2552,19-06-2025,Organic Search,Standard,1,2025-06,,1
+2553,04-05-2025,Paid Social,Standard,1,2025-05,18-06-2025,0
+2554,04-02-2025,Email Campaign,Standard,1,2025-02,,1
+2555,28-03-2025,Organic Search,Basic,1,2025-03,,1
+2556,14-05-2025,Email Campaign,Basic,0,2025-05,08-07-2025,0
+2557,15-07-2025,Referral,Premium,1,2025-07,27-10-2025,0
+2558,20-07-2025,App Store,Standard,1,2025-07,24-08-2025,0
+2559,18-03-2025,Organic Search,Premium,1,2025-03,,1
+2560,28-02-2025,Paid Social,Standard,0,2025-02,13-03-2025,0
+2561,06-05-2025,App Store,Basic,1,2025-05,24-05-2025,0
+2562,19-04-2025,Referral,Basic,0,2025-04,03-07-2025,0
+2563,12-08-2025,Paid Social,Standard,1,2025-08,,1
+2564,09-03-2025,Organic Search,Basic,0,2025-03,18-08-2025,0
+2565,10-03-2025,Organic Search,Basic,1,2025-03,26-07-2025,0
+2566,14-06-2025,Referral,Standard,1,2025-06,,1
+2567,11-06-2025,Email Campaign,Basic,0,2025-06,,1
+2568,11-02-2025,Organic Search,Basic,0,2025-02,02-03-2025,0
+2569,19-04-2025,Referral,Standard,1,2025-04,,1
+2570,20-02-2025,Referral,Standard,0,2025-02,,1
+2571,07-09-2025,Paid Social,Basic,1,2025-09,,1
+2572,21-01-2025,Referral,Standard,0,2025-01,13-02-2025,0
+2573,19-05-2025,Email Campaign,Premium,0,2025-05,,1
+2574,02-04-2025,Paid Social,Basic,1,2025-04,15-07-2025,0
+2575,05-05-2025,App Store,Basic,0,2025-05,08-05-2025,0
+2576,21-04-2025,Organic Search,Basic,0,2025-04,,1
+2577,19-05-2025,Organic Search,Standard,1,2025-05,,1
+2578,09-04-2025,Organic Search,Basic,0,2025-04,30-08-2025,0
+2579,09-09-2025,Organic Search,Premium,1,2025-09,,1
+2580,14-04-2025,Organic Search,Standard,0,2025-04,03-09-2025,0
+2581,02-08-2025,Organic Search,Standard,0,2025-08,,1
+2582,06-09-2025,Email Campaign,Premium,1,2025-09,,1
+2583,01-06-2025,Organic Search,Premium,0,2025-06,16-08-2025,0
+2584,07-09-2025,Email Campaign,Basic,1,2025-09,,1
+2585,14-06-2025,Organic Search,Basic,1,2025-06,,1
+2586,08-01-2025,App Store,Standard,1,2025-01,19-04-2025,0
+2587,05-01-2025,Email Campaign,Basic,1,2025-01,24-07-2025,0
+2588,25-05-2025,Organic Search,Basic,0,2025-05,31-07-2025,0
+2589,11-04-2025,Email Campaign,Standard,1,2025-04,13-10-2025,0
+2590,13-06-2025,Paid Social,Premium,1,2025-06,02-08-2025,0
+2591,27-05-2025,Email Campaign,Basic,0,2025-05,19-06-2025,0
+2592,05-03-2025,Paid Social,Standard,1,2025-03,19-09-2025,0
+2593,01-04-2025,Referral,Basic,1,2025-04,23-04-2025,0
+2594,27-04-2025,Email Campaign,Standard,1,2025-04,,1
+2595,24-09-2025,Paid Social,Basic,0,2025-09,20-10-2025,0
+2596,22-06-2025,Organic Search,Premium,1,2025-06,17-10-2025,0
+2597,16-02-2025,Email Campaign,Basic,1,2025-02,,1
+2598,20-05-2025,Paid Social,Standard,1,2025-05,,1
+2599,03-09-2025,Paid Social,Basic,0,2025-09,,1
+2600,29-05-2025,Organic Search,Basic,1,2025-05,,1
+2601,03-09-2025,Paid Social,Basic,0,2025-09,15-10-2025,0
+2602,05-01-2025,App Store,Basic,0,2025-01,13-05-2025,0
+2603,03-07-2025,Organic Search,Basic,0,2025-07,30-10-2025,0
+2604,20-01-2025,Paid Social,Basic,1,2025-01,01-02-2025,0
+2605,15-02-2025,Referral,Standard,1,2025-02,22-07-2025,0
+2606,12-01-2025,Email Campaign,Standard,0,2025-01,12-03-2025,0
+2607,11-03-2025,Paid Social,Basic,1,2025-03,03-04-2025,0
+2608,17-01-2025,Paid Social,Standard,1,2025-01,26-02-2025,0
+2609,27-05-2025,App Store,Basic,1,2025-05,,1
+2610,03-06-2025,Referral,Standard,0,2025-06,,1
+2611,18-04-2025,Organic Search,Basic,0,2025-04,,1
+2612,24-08-2025,Organic Search,Standard,1,2025-08,,1
+2613,11-03-2025,Paid Social,Basic,0,2025-03,24-04-2025,0
+2614,02-07-2025,Organic Search,Premium,1,2025-07,30-10-2025,0
+2615,07-09-2025,Organic Search,Basic,0,2025-09,,1
+2616,16-08-2025,App Store,Basic,1,2025-08,21-08-2025,0
+2617,12-04-2025,Organic Search,Basic,0,2025-04,29-05-2025,0
+2618,16-03-2025,Email Campaign,Premium,1,2025-03,20-08-2025,0
+2619,04-08-2025,Organic Search,Standard,1,2025-08,,1
+2620,22-07-2025,Email Campaign,Standard,1,2025-07,,1
+2621,11-07-2025,Email Campaign,Premium,1,2025-07,,1
+2622,06-09-2025,Organic Search,Premium,0,2025-09,22-09-2025,0
+2623,30-08-2025,Paid Social,Standard,1,2025-08,,1
+2624,28-06-2025,Organic Search,Basic,1,2025-06,,1
+2625,07-08-2025,App Store,Standard,1,2025-08,,1
+2626,23-03-2025,App Store,Basic,1,2025-03,,1
+2627,02-04-2025,Paid Social,Standard,1,2025-04,25-06-2025,0
+2628,24-06-2025,Paid Social,Standard,1,2025-06,02-08-2025,0
+2629,27-08-2025,Paid Social,Standard,1,2025-08,,1
+2630,17-09-2025,Email Campaign,Standard,1,2025-09,,1
+2631,12-06-2025,Paid Social,Standard,1,2025-06,04-08-2025,0
+2632,17-02-2025,Organic Search,Premium,0,2025-02,04-03-2025,0
+2633,26-04-2025,Paid Social,Basic,0,2025-04,22-09-2025,0
+2634,13-08-2025,Organic Search,Basic,1,2025-08,25-10-2025,0
+2635,27-05-2025,Email Campaign,Standard,0,2025-05,27-07-2025,0
+2636,04-03-2025,Organic Search,Premium,0,2025-03,14-04-2025,0
+2637,13-01-2025,Referral,Basic,1,2025-01,02-03-2025,0
+2638,08-07-2025,Organic Search,Basic,0,2025-07,,1
+2639,27-07-2025,Organic Search,Basic,1,2025-07,,1
+2640,24-04-2025,Referral,Basic,0,2025-04,,1
+2641,22-01-2025,App Store,Premium,1,2025-01,07-07-2025,0
+2642,02-08-2025,Email Campaign,Standard,1,2025-08,28-10-2025,0
+2643,20-06-2025,Organic Search,Standard,1,2025-06,,1
+2644,23-02-2025,Organic Search,Standard,0,2025-02,10-06-2025,0
+2645,06-05-2025,App Store,Standard,0,2025-05,30-05-2025,0
+2646,23-07-2025,Paid Social,Basic,1,2025-07,,1
+2647,13-07-2025,Organic Search,Basic,1,2025-07,,1
+2648,18-06-2025,App Store,Basic,1,2025-06,,1
+2649,01-06-2025,Email Campaign,Basic,1,2025-06,,1
+2650,04-02-2025,App Store,Basic,1,2025-02,29-08-2025,0
+2651,03-07-2025,App Store,Basic,1,2025-07,,1
+2652,26-02-2025,App Store,Basic,0,2025-02,16-06-2025,0
+2653,10-08-2025,Organic Search,Basic,0,2025-08,,1
+2654,12-06-2025,Organic Search,Standard,1,2025-06,12-07-2025,0
+2655,19-01-2025,Referral,Basic,1,2025-01,09-02-2025,0
+2656,21-09-2025,Paid Social,Premium,0,2025-09,09-10-2025,0
+2657,23-04-2025,Paid Social,Basic,0,2025-04,29-04-2025,0
+2658,30-01-2025,Paid Social,Standard,0,2025-01,07-02-2025,0
+2659,15-05-2025,Paid Social,Premium,0,2025-05,24-06-2025,0
+2660,08-03-2025,Referral,Premium,0,2025-03,09-07-2025,0
+2661,06-03-2025,Organic Search,Premium,1,2025-03,23-04-2025,0
+2662,25-01-2025,Organic Search,Basic,1,2025-01,04-05-2025,0
+2663,06-02-2025,Paid Social,Basic,0,2025-02,18-03-2025,0
+2664,01-01-2025,Email Campaign,Basic,1,2025-01,25-01-2025,0
+2665,06-02-2025,Organic Search,Basic,1,2025-02,28-05-2025,0
+2666,21-05-2025,Paid Social,Basic,1,2025-05,15-07-2025,0
+2667,20-08-2025,Email Campaign,Premium,0,2025-08,,1
+2668,16-05-2025,Paid Social,Standard,0,2025-05,09-06-2025,0
+2669,07-07-2025,Organic Search,Standard,1,2025-07,,1
+2670,08-05-2025,Paid Social,Premium,1,2025-05,08-10-2025,0
+2671,20-07-2025,Organic Search,Standard,0,2025-07,03-09-2025,0
+2672,07-05-2025,App Store,Standard,1,2025-05,17-06-2025,0
+2673,14-09-2025,Organic Search,Standard,1,2025-09,,1
+2674,13-06-2025,Referral,Basic,0,2025-06,18-08-2025,0
+2675,04-02-2025,Organic Search,Basic,1,2025-02,12-06-2025,0
+2676,13-07-2025,Paid Social,Premium,1,2025-07,,1
+2677,10-07-2025,Referral,Premium,0,2025-07,,1
+2678,14-04-2025,Organic Search,Premium,1,2025-04,07-08-2025,0
+2679,23-01-2025,Paid Social,Basic,0,2025-01,14-09-2025,0
+2680,22-09-2025,Organic Search,Premium,1,2025-09,,1
+2681,17-09-2025,Paid Social,Basic,1,2025-09,,1
+2682,16-03-2025,Referral,Basic,1,2025-03,08-08-2025,0
+2683,13-03-2025,Paid Social,Basic,1,2025-03,11-05-2025,0
+2684,16-09-2025,App Store,Basic,0,2025-09,,1
+2685,07-07-2025,Referral,Basic,0,2025-07,19-08-2025,0
+2686,22-06-2025,Paid Social,Basic,0,2025-06,,1
+2687,14-02-2025,Organic Search,Basic,1,2025-02,11-08-2025,0
+2688,02-03-2025,Paid Social,Basic,0,2025-03,25-06-2025,0
+2689,24-03-2025,Email Campaign,Standard,1,2025-03,26-03-2025,0
+2690,03-05-2025,Organic Search,Standard,0,2025-05,,1
+2691,16-01-2025,Email Campaign,Basic,0,2025-01,12-02-2025,0
+2692,07-03-2025,Organic Search,Basic,1,2025-03,20-08-2025,0
+2693,25-05-2025,Email Campaign,Standard,1,2025-05,04-06-2025,0
+2694,11-06-2025,Organic Search,Standard,1,2025-06,10-10-2025,0
+2695,22-08-2025,App Store,Basic,1,2025-08,06-09-2025,0
+2696,24-05-2025,Paid Social,Standard,0,2025-05,30-05-2025,0
+2697,07-07-2025,Organic Search,Premium,1,2025-07,,1
+2698,13-01-2025,Organic Search,Basic,1,2025-01,22-05-2025,0
+2699,03-07-2025,Paid Social,Basic,1,2025-07,15-10-2025,0
+2700,21-04-2025,App Store,Basic,0,2025-04,12-08-2025,0
+2701,03-08-2025,Organic Search,Standard,1,2025-08,17-10-2025,0
+2702,30-04-2025,Organic Search,Basic,1,2025-04,29-05-2025,0
+2703,24-02-2025,Referral,Basic,1,2025-02,19-03-2025,0
+2704,27-01-2025,Paid Social,Basic,0,2025-01,,1
+2705,28-04-2025,Paid Social,Premium,1,2025-04,12-07-2025,0
+2706,09-08-2025,Referral,Standard,0,2025-08,,1
+2707,19-08-2025,Organic Search,Standard,1,2025-08,,1
+2708,22-02-2025,App Store,Standard,1,2025-02,26-09-2025,0
+2709,21-08-2025,Paid Social,Basic,1,2025-08,,1
+2710,07-06-2025,Organic Search,Premium,1,2025-06,20-07-2025,0
+2711,26-09-2025,Email Campaign,Standard,1,2025-09,,1
+2712,21-01-2025,Referral,Basic,1,2025-01,,1
+2713,22-02-2025,Paid Social,Standard,1,2025-02,28-08-2025,0
+2714,02-08-2025,Referral,Standard,1,2025-08,01-09-2025,0
+2715,31-01-2025,Organic Search,Standard,1,2025-01,04-06-2025,0
+2716,02-07-2025,Paid Social,Basic,0,2025-07,11-09-2025,0
+2717,23-01-2025,App Store,Premium,1,2025-01,14-02-2025,0
+2718,01-02-2025,Organic Search,Premium,0,2025-02,08-02-2025,0
+2719,15-03-2025,Paid Social,Basic,0,2025-03,,1
+2720,10-01-2025,Email Campaign,Basic,1,2025-01,30-05-2025,0
+2721,23-02-2025,App Store,Basic,0,2025-02,07-03-2025,0
+2722,21-02-2025,Paid Social,Premium,1,2025-02,,1
+2723,28-05-2025,Paid Social,Standard,1,2025-05,29-05-2025,0
+2724,09-06-2025,Referral,Basic,1,2025-06,13-08-2025,0
+2725,14-01-2025,App Store,Basic,1,2025-01,13-06-2025,0
+2726,27-06-2025,App Store,Basic,1,2025-06,20-07-2025,0
+2727,22-02-2025,Organic Search,Standard,1,2025-02,14-05-2025,0
+2728,22-01-2025,Paid Social,Basic,1,2025-01,20-06-2025,0
+2729,30-01-2025,Paid Social,Premium,1,2025-01,16-02-2025,0
+2730,10-07-2025,Email Campaign,Standard,1,2025-07,,1
+2731,17-09-2025,Referral,Standard,1,2025-09,26-09-2025,0
+2732,24-07-2025,Referral,Basic,1,2025-07,,1
+2733,28-02-2025,App Store,Basic,1,2025-02,,1
+2734,21-09-2025,Organic Search,Basic,1,2025-09,,1
+2735,12-01-2025,Organic Search,Basic,1,2025-01,,1
+2736,29-04-2025,Paid Social,Basic,0,2025-04,19-08-2025,0
+2737,05-09-2025,Paid Social,Premium,0,2025-09,,1
+2738,07-05-2025,Organic Search,Basic,1,2025-05,,1
+2739,16-03-2025,Organic Search,Basic,0,2025-03,20-06-2025,0
+2740,23-07-2025,Referral,Basic,1,2025-07,02-10-2025,0
+2741,18-02-2025,App Store,Basic,1,2025-02,,1
+2742,20-03-2025,Paid Social,Premium,0,2025-03,11-04-2025,0
+2743,29-08-2025,Paid Social,Basic,1,2025-08,03-09-2025,0
+2744,03-06-2025,Organic Search,Basic,0,2025-06,06-07-2025,0
+2745,06-04-2025,Email Campaign,Standard,1,2025-04,,1
+2746,02-08-2025,Email Campaign,Basic,1,2025-08,05-08-2025,0
+2747,28-07-2025,Referral,Basic,1,2025-07,10-10-2025,0
+2748,29-03-2025,Organic Search,Basic,1,2025-03,,1
+2749,21-09-2025,Organic Search,Basic,1,2025-09,25-09-2025,0
+2750,06-06-2025,Organic Search,Basic,1,2025-06,13-06-2025,0
+2751,05-06-2025,Referral,Basic,0,2025-06,08-06-2025,0
+2752,19-05-2025,Email Campaign,Standard,1,2025-05,03-09-2025,0
+2753,01-05-2025,App Store,Basic,1,2025-05,,1
+2754,06-03-2025,Paid Social,Standard,1,2025-03,17-07-2025,0
+2755,17-04-2025,Email Campaign,Standard,0,2025-04,30-04-2025,0
+2756,27-05-2025,App Store,Standard,1,2025-05,20-07-2025,0
+2757,17-05-2025,Organic Search,Basic,1,2025-05,19-06-2025,0
+2758,11-06-2025,Paid Social,Basic,0,2025-06,,1
+2759,10-04-2025,App Store,Standard,1,2025-04,18-09-2025,0
+2760,21-05-2025,Paid Social,Standard,1,2025-05,16-06-2025,0
+2761,24-03-2025,App Store,Standard,0,2025-03,11-06-2025,0
+2762,26-06-2025,App Store,Basic,0,2025-06,17-07-2025,0
+2763,17-07-2025,Referral,Premium,1,2025-07,,1
+2764,22-04-2025,Email Campaign,Basic,1,2025-04,,1
+2765,25-02-2025,Email Campaign,Basic,0,2025-02,03-07-2025,0
+2766,28-06-2025,Referral,Basic,1,2025-06,31-07-2025,0
+2767,05-07-2025,Paid Social,Basic,0,2025-07,,1
+2768,06-08-2025,Organic Search,Basic,1,2025-08,,1
+2769,05-08-2025,Paid Social,Standard,1,2025-08,,1
+2770,30-04-2025,Referral,Standard,1,2025-04,03-06-2025,0
+2771,24-06-2025,Organic Search,Premium,0,2025-06,06-09-2025,0
+2772,23-01-2025,Organic Search,Basic,0,2025-01,01-02-2025,0
+2773,01-08-2025,Organic Search,Standard,0,2025-08,15-08-2025,0
+2774,23-08-2025,Email Campaign,Basic,0,2025-08,30-08-2025,0
+2775,13-01-2025,App Store,Basic,1,2025-01,16-06-2025,0
+2776,11-04-2025,App Store,Basic,1,2025-04,,1
+2777,24-01-2025,Paid Social,Basic,0,2025-01,27-01-2025,0
+2778,11-01-2025,App Store,Basic,0,2025-01,07-10-2025,0
+2779,04-04-2025,Email Campaign,Basic,0,2025-04,19-05-2025,0
+2780,20-07-2025,Paid Social,Standard,0,2025-07,09-09-2025,0
+2781,21-01-2025,Referral,Premium,1,2025-01,25-01-2025,0
+2782,30-07-2025,Organic Search,Basic,1,2025-07,,1
+2783,20-05-2025,App Store,Premium,0,2025-05,02-07-2025,0
+2784,11-04-2025,Paid Social,Standard,1,2025-04,,1
+2785,28-01-2025,Paid Social,Standard,1,2025-01,26-07-2025,0
+2786,10-02-2025,Referral,Standard,0,2025-02,20-02-2025,0
+2787,26-05-2025,Paid Social,Basic,1,2025-05,19-06-2025,0
+2788,13-09-2025,Organic Search,Standard,0,2025-09,,1
+2789,15-08-2025,Referral,Standard,1,2025-08,,1
+2790,24-08-2025,Organic Search,Premium,0,2025-08,,1
+2791,13-01-2025,Email Campaign,Standard,1,2025-01,06-03-2025,0
+2792,29-07-2025,Paid Social,Standard,1,2025-07,20-10-2025,0
+2793,17-08-2025,Referral,Standard,1,2025-08,,1
+2794,10-04-2025,Referral,Basic,1,2025-04,08-08-2025,0
+2795,31-01-2025,Paid Social,Basic,1,2025-01,13-04-2025,0
+2796,16-01-2025,Referral,Basic,1,2025-01,24-03-2025,0
+2797,17-05-2025,Referral,Basic,1,2025-05,,1
+2798,15-06-2025,Email Campaign,Basic,1,2025-06,,1
+2799,10-04-2025,Email Campaign,Premium,1,2025-04,25-06-2025,0
+2800,19-04-2025,App Store,Standard,1,2025-04,,1
+2801,22-06-2025,Organic Search,Premium,0,2025-06,26-06-2025,0
+2802,25-08-2025,Paid Social,Standard,1,2025-08,,1
+2803,11-06-2025,App Store,Standard,0,2025-06,14-06-2025,0
+2804,04-08-2025,Paid Social,Premium,0,2025-08,29-09-2025,0
+2805,21-09-2025,Organic Search,Standard,0,2025-09,,1
+2806,20-09-2025,Paid Social,Premium,0,2025-09,18-10-2025,0
+2807,03-01-2025,Organic Search,Basic,1,2025-01,06-01-2025,0
+2808,28-01-2025,Organic Search,Basic,0,2025-01,26-04-2025,0
+2809,29-05-2025,App Store,Basic,1,2025-05,18-10-2025,0
+2810,28-01-2025,Paid Social,Standard,0,2025-01,28-03-2025,0
+2811,06-03-2025,Organic Search,Standard,0,2025-03,10-03-2025,0
+2812,21-01-2025,App Store,Basic,1,2025-01,18-04-2025,0
+2813,09-09-2025,App Store,Basic,1,2025-09,,1
+2814,23-08-2025,Paid Social,Premium,1,2025-08,14-09-2025,0
+2815,15-08-2025,Organic Search,Standard,0,2025-08,20-08-2025,0
+2816,13-01-2025,Email Campaign,Basic,1,2025-01,29-10-2025,0
+2817,18-02-2025,Email Campaign,Standard,1,2025-02,14-10-2025,0
+2818,28-04-2025,Referral,Standard,1,2025-04,,1
+2819,23-02-2025,App Store,Premium,1,2025-02,04-03-2025,0
+2820,18-05-2025,Referral,Basic,0,2025-05,21-05-2025,0
+2821,22-02-2025,Organic Search,Basic,0,2025-02,26-10-2025,0
+2822,13-02-2025,Referral,Basic,1,2025-02,13-05-2025,0
+2823,22-02-2025,Paid Social,Basic,1,2025-02,15-03-2025,0
+2824,15-03-2025,Email Campaign,Premium,1,2025-03,13-05-2025,0
+2825,15-02-2025,Referral,Basic,1,2025-02,04-06-2025,0
+2826,13-01-2025,Organic Search,Premium,0,2025-01,18-01-2025,0
+2827,14-06-2025,Paid Social,Basic,1,2025-06,07-07-2025,0
+2828,12-04-2025,Paid Social,Premium,1,2025-04,13-07-2025,0
+2829,15-09-2025,Paid Social,Basic,0,2025-09,22-10-2025,0
+2830,18-05-2025,Referral,Premium,0,2025-05,04-07-2025,0
+2831,12-06-2025,Paid Social,Premium,1,2025-06,,1
+2832,21-04-2025,Email Campaign,Premium,1,2025-04,24-08-2025,0
+2833,12-04-2025,Organic Search,Basic,1,2025-04,,1
+2834,17-01-2025,Referral,Basic,0,2025-01,21-01-2025,0
+2835,25-09-2025,Email Campaign,Standard,0,2025-09,14-10-2025,0
+2836,01-07-2025,Referral,Basic,1,2025-07,16-07-2025,0
+2837,24-01-2025,Paid Social,Basic,1,2025-01,20-04-2025,0
+2838,29-01-2025,App Store,Basic,0,2025-01,18-02-2025,0
+2839,20-06-2025,Organic Search,Standard,0,2025-06,04-07-2025,0
+2840,16-08-2025,Organic Search,Standard,0,2025-08,,1
+2841,07-07-2025,Paid Social,Basic,1,2025-07,,1
+2842,18-08-2025,Organic Search,Basic,1,2025-08,25-08-2025,0
+2843,29-04-2025,App Store,Basic,1,2025-04,,1
+2844,05-06-2025,Organic Search,Standard,1,2025-06,30-08-2025,0
+2845,29-09-2025,Email Campaign,Basic,1,2025-09,,1
+2846,24-06-2025,Email Campaign,Basic,1,2025-06,,1
+2847,14-04-2025,Organic Search,Premium,1,2025-04,20-04-2025,0
+2848,02-04-2025,Referral,Premium,0,2025-04,08-06-2025,0
+2849,05-07-2025,Organic Search,Premium,1,2025-07,14-09-2025,0
+2850,30-06-2025,Paid Social,Premium,0,2025-06,,1
+2851,19-06-2025,Organic Search,Basic,1,2025-06,,1
+2852,06-07-2025,App Store,Standard,0,2025-07,,1
+2853,24-06-2025,App Store,Basic,1,2025-06,28-08-2025,0
+2854,10-08-2025,Organic Search,Standard,0,2025-08,13-08-2025,0
+2855,21-08-2025,Organic Search,Basic,1,2025-08,,1
+2856,11-06-2025,Email Campaign,Standard,1,2025-06,10-08-2025,0
+2857,14-05-2025,Organic Search,Standard,0,2025-05,18-05-2025,0
+2858,12-08-2025,App Store,Basic,1,2025-08,07-09-2025,0
+2859,02-06-2025,Referral,Standard,1,2025-06,,1
+2860,02-02-2025,Paid Social,Basic,0,2025-02,06-02-2025,0
+2861,24-02-2025,Email Campaign,Basic,0,2025-02,08-03-2025,0
+2862,07-01-2025,Paid Social,Basic,1,2025-01,15-09-2025,0
+2863,01-09-2025,App Store,Basic,1,2025-09,,1
+2864,06-05-2025,App Store,Basic,1,2025-05,,1
+2865,12-01-2025,Organic Search,Premium,1,2025-01,11-03-2025,0
+2866,16-01-2025,Organic Search,Basic,0,2025-01,06-09-2025,0
+2867,27-07-2025,App Store,Basic,1,2025-07,20-08-2025,0
+2868,12-02-2025,App Store,Basic,1,2025-02,,1
+2869,15-05-2025,Organic Search,Standard,0,2025-05,14-07-2025,0
+2870,16-08-2025,Email Campaign,Standard,1,2025-08,,1
+2871,21-04-2025,Paid Social,Standard,0,2025-04,08-05-2025,0
+2872,09-06-2025,Organic Search,Standard,1,2025-06,11-08-2025,0
+2873,21-09-2025,App Store,Premium,1,2025-09,,1
+2874,13-08-2025,Organic Search,Premium,1,2025-08,,1
+2875,05-08-2025,App Store,Standard,1,2025-08,,1
+2876,14-02-2025,Organic Search,Basic,1,2025-02,19-07-2025,0
+2877,02-08-2025,Referral,Standard,1,2025-08,23-08-2025,0
+2878,28-02-2025,Organic Search,Standard,1,2025-02,03-04-2025,0
+2879,12-05-2025,Paid Social,Standard,1,2025-05,29-05-2025,0
+2880,14-04-2025,Referral,Standard,1,2025-04,10-08-2025,0
+2881,14-07-2025,Organic Search,Standard,1,2025-07,,1
+2882,06-06-2025,Paid Social,Standard,1,2025-06,,1
+2883,08-04-2025,Paid Social,Basic,0,2025-04,30-05-2025,0
+2884,14-08-2025,Organic Search,Basic,1,2025-08,,1
+2885,24-07-2025,Email Campaign,Basic,1,2025-07,07-08-2025,0
+2886,20-03-2025,Paid Social,Premium,0,2025-03,17-07-2025,0
+2887,04-05-2025,Referral,Standard,1,2025-05,,1
+2888,06-08-2025,Paid Social,Standard,0,2025-08,08-08-2025,0
+2889,04-01-2025,Paid Social,Standard,0,2025-01,30-01-2025,0
+2890,31-03-2025,Organic Search,Standard,1,2025-03,,1
+2891,14-04-2025,Paid Social,Premium,1,2025-04,25-10-2025,0
+2892,29-04-2025,Paid Social,Standard,0,2025-04,03-06-2025,0
+2893,13-05-2025,Email Campaign,Standard,1,2025-05,15-05-2025,0
+2894,06-04-2025,Email Campaign,Standard,0,2025-04,23-07-2025,0
+2895,23-05-2025,Paid Social,Basic,1,2025-05,27-06-2025,0
+2896,28-01-2025,Organic Search,Standard,1,2025-01,07-06-2025,0
+2897,21-08-2025,Organic Search,Basic,1,2025-08,,1
+2898,17-01-2025,Organic Search,Basic,1,2025-01,16-07-2025,0
+2899,28-02-2025,Organic Search,Standard,1,2025-02,28-05-2025,0
+2900,31-03-2025,Paid Social,Standard,0,2025-03,29-05-2025,0
+2901,18-07-2025,Organic Search,Premium,0,2025-07,31-07-2025,0
+2902,26-01-2025,Organic Search,Basic,0,2025-01,20-10-2025,0
+2903,25-01-2025,Organic Search,Basic,1,2025-01,,1
+2904,24-09-2025,Organic Search,Basic,0,2025-09,,1
+2905,30-06-2025,Organic Search,Basic,0,2025-06,01-08-2025,0
+2906,09-03-2025,Organic Search,Basic,0,2025-03,29-05-2025,0
+2907,18-02-2025,Paid Social,Basic,1,2025-02,,1
+2908,24-06-2025,Paid Social,Basic,0,2025-06,,1
+2909,21-02-2025,Organic Search,Basic,1,2025-02,16-07-2025,0
+2910,12-04-2025,Paid Social,Basic,1,2025-04,04-05-2025,0
+2911,04-08-2025,Paid Social,Standard,0,2025-08,,1
+2912,07-07-2025,Organic Search,Basic,1,2025-07,07-08-2025,0
+2913,26-02-2025,Organic Search,Standard,1,2025-02,09-07-2025,0
+2914,16-02-2025,Paid Social,Standard,0,2025-02,02-09-2025,0
+2915,08-06-2025,Referral,Basic,1,2025-06,,1
+2916,23-06-2025,Organic Search,Premium,0,2025-06,13-07-2025,0
+2917,30-08-2025,Organic Search,Standard,0,2025-08,,1
+2918,29-08-2025,App Store,Standard,1,2025-08,,1
+2919,05-01-2025,Organic Search,Basic,1,2025-01,04-05-2025,0
+2920,25-03-2025,Organic Search,Standard,0,2025-03,15-07-2025,0
+2921,05-09-2025,App Store,Standard,1,2025-09,,1
+2922,23-02-2025,Email Campaign,Basic,0,2025-02,26-04-2025,0
+2923,10-06-2025,Paid Social,Basic,0,2025-06,09-07-2025,0
+2924,14-08-2025,Paid Social,Basic,1,2025-08,21-08-2025,0
+2925,15-01-2025,Organic Search,Standard,1,2025-01,29-01-2025,0
+2926,12-08-2025,Organic Search,Basic,0,2025-08,,1
+2927,02-03-2025,Referral,Standard,1,2025-03,20-03-2025,0
+2928,02-05-2025,Organic Search,Basic,1,2025-05,,1
+2929,15-02-2025,Paid Social,Standard,0,2025-02,09-03-2025,0
+2930,03-03-2025,App Store,Basic,0,2025-03,06-03-2025,0
+2931,27-03-2025,App Store,Basic,0,2025-03,05-05-2025,0
+2932,29-07-2025,Organic Search,Standard,1,2025-07,06-08-2025,0
+2933,19-03-2025,Referral,Basic,0,2025-03,10-04-2025,0
+2934,21-07-2025,Paid Social,Basic,0,2025-07,02-08-2025,0
+2935,11-08-2025,App Store,Basic,0,2025-08,12-08-2025,0
+2936,10-08-2025,Organic Search,Standard,0,2025-08,,1
+2937,03-01-2025,Organic Search,Premium,1,2025-01,15-08-2025,0
+2938,06-01-2025,Organic Search,Standard,0,2025-01,08-04-2025,0
+2939,03-04-2025,Paid Social,Basic,0,2025-04,21-04-2025,0
+2940,08-01-2025,Paid Social,Basic,1,2025-01,08-07-2025,0
+2941,23-08-2025,Email Campaign,Standard,1,2025-08,22-10-2025,0
+2942,18-04-2025,Referral,Standard,0,2025-04,29-05-2025,0
+2943,10-06-2025,Organic Search,Basic,1,2025-06,,1
+2944,28-07-2025,Paid Social,Basic,1,2025-07,18-09-2025,0
+2945,28-08-2025,Organic Search,Basic,1,2025-08,,1
+2946,19-02-2025,App Store,Standard,1,2025-02,03-08-2025,0
+2947,11-01-2025,App Store,Basic,1,2025-01,07-04-2025,0
+2948,05-06-2025,App Store,Standard,1,2025-06,05-10-2025,0
+2949,11-03-2025,App Store,Basic,0,2025-03,09-04-2025,0
+2950,18-06-2025,Organic Search,Basic,0,2025-06,23-06-2025,0
+2951,29-09-2025,Organic Search,Basic,0,2025-09,,1
+2952,09-03-2025,Referral,Basic,1,2025-03,23-06-2025,0
+2953,09-09-2025,App Store,Basic,0,2025-09,17-10-2025,0
+2954,17-02-2025,Organic Search,Basic,0,2025-02,16-08-2025,0
+2955,03-07-2025,Organic Search,Basic,0,2025-07,,1
+2956,06-07-2025,Email Campaign,Basic,1,2025-07,,1
+2957,31-03-2025,Organic Search,Basic,1,2025-03,05-05-2025,0
+2958,19-05-2025,Paid Social,Premium,0,2025-05,01-09-2025,0
+2959,30-03-2025,Referral,Standard,0,2025-03,,1
+2960,19-01-2025,Organic Search,Standard,0,2025-01,19-03-2025,0
+2961,03-06-2025,Organic Search,Basic,1,2025-06,,1
+2962,17-09-2025,Email Campaign,Basic,1,2025-09,10-10-2025,0
+2963,18-04-2025,Referral,Basic,0,2025-04,,1
+2964,28-02-2025,App Store,Standard,1,2025-02,14-04-2025,0
+2965,05-05-2025,Paid Social,Basic,0,2025-05,14-08-2025,0
+2966,17-04-2025,Organic Search,Basic,0,2025-04,23-05-2025,0
+2967,02-09-2025,Email Campaign,Standard,0,2025-09,08-10-2025,0
+2968,04-09-2025,Paid Social,Basic,1,2025-09,,1
+2969,08-01-2025,Organic Search,Basic,1,2025-01,,1
+2970,21-05-2025,Email Campaign,Basic,0,2025-05,,1
+2971,08-01-2025,Organic Search,Standard,0,2025-01,10-07-2025,0
+2972,04-04-2025,Organic Search,Standard,1,2025-04,,1
+2973,08-02-2025,Organic Search,Basic,1,2025-02,,1
+2974,22-03-2025,Paid Social,Basic,1,2025-03,25-03-2025,0
+2975,06-07-2025,Paid Social,Standard,0,2025-07,16-09-2025,0
+2976,25-03-2025,Paid Social,Basic,0,2025-03,,1
+2977,29-03-2025,Email Campaign,Standard,0,2025-03,23-09-2025,0
+2978,30-08-2025,App Store,Standard,1,2025-08,,1
+2979,03-04-2025,Organic Search,Basic,0,2025-04,02-08-2025,0
+2980,27-03-2025,Organic Search,Basic,1,2025-03,,1
+2981,13-02-2025,Organic Search,Standard,1,2025-02,26-02-2025,0
+2982,17-05-2025,Organic Search,Basic,0,2025-05,,1
+2983,15-03-2025,Referral,Basic,1,2025-03,07-08-2025,0
+2984,05-02-2025,Email Campaign,Standard,1,2025-02,01-04-2025,0
+2985,11-04-2025,Email Campaign,Basic,0,2025-04,20-04-2025,0
+2986,05-06-2025,Organic Search,Basic,1,2025-06,,1
+2987,12-09-2025,Paid Social,Basic,1,2025-09,,1
+2988,20-06-2025,Paid Social,Standard,1,2025-06,26-10-2025,0
+2989,04-08-2025,Organic Search,Basic,1,2025-08,01-10-2025,0
+2990,19-06-2025,Referral,Premium,0,2025-06,15-07-2025,0
+2991,09-09-2025,App Store,Standard,1,2025-09,,1
+2992,24-02-2025,Paid Social,Basic,0,2025-02,09-05-2025,0
+2993,01-04-2025,Email Campaign,Basic,1,2025-04,08-08-2025,0
+2994,11-04-2025,Paid Social,Basic,1,2025-04,,1
+2995,04-06-2025,Organic Search,Standard,1,2025-06,27-06-2025,0
+2996,21-05-2025,Referral,Standard,0,2025-05,14-10-2025,0
+2997,22-06-2025,Organic Search,Standard,1,2025-06,,1
+2998,10-01-2025,Organic Search,Basic,0,2025-01,10-08-2025,0
+2999,16-08-2025,Referral,Standard,1,2025-08,,1
+3000,22-09-2025,App Store,Basic,0,2025-09,,1
