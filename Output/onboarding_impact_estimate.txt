@@ -1,0 +1,12 @@
+ONBOARDING IMPACT — model-backed estimate
+=========================================
+Model AUC (D30 churn prediction): 0.633
+
+D30 churn rate, onboarding completed:     14.9%
+D30 churn rate, onboarding NOT completed: 28.3%
+Observed relative reduction in churn:     47.4%
+
+Interpretation for your resume/report:
+Users who complete onboarding churn at a 47% lower rate by Day 30
+in this dataset. This is the number to cite instead of an unverified "20%" —
+swap in your real dataset's numbers when you run this against actual data.
